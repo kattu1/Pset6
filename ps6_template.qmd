@@ -73,6 +73,7 @@ import pandas as pd
 from datetime import date
 import numpy as np
 alt.data_transformers.disable_max_rows() 
+alt.renderers.enable('png')
 
 import json
 ```
