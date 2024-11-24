@@ -1,0 +1,3202 @@
+,type-subtype,hour,lon_bin,lat_bin,count
+69,Accident-Major,00:00,-87.65,41.86,12
+71,Accident-Major,00:00,-87.65,41.88,10
+82,Accident-Major,00:00,-87.63,41.73,9
+68,Accident-Major,00:00,-87.65,41.85,8
+93,Accident-Major,00:00,-87.62,41.71,7
+11,Accident-Major,00:00,-87.78,41.87,6
+13,Accident-Major,00:00,-87.77,41.97,6
+59,Accident-Major,00:00,-87.67,41.9,6
+60,Accident-Major,00:00,-87.67,41.91,6
+15,Accident-Major,00:00,-87.76,41.96,5
+170,Accident-Major,01:00,-87.65,41.86,11
+171,Accident-Major,01:00,-87.65,41.87,10
+172,Accident-Major,01:00,-87.65,41.88,9
+134,Accident-Major,01:00,-87.72,41.87,8
+156,Accident-Major,01:00,-87.67,41.9,7
+169,Accident-Major,01:00,-87.65,41.85,7
+176,Accident-Major,01:00,-87.64,41.78,7
+162,Accident-Major,01:00,-87.66,41.89,6
+185,Accident-Major,01:00,-87.63,41.72,6
+124,Accident-Major,01:00,-87.75,41.97,5
+257,Accident-Major,02:00,-87.65,41.85,13
+256,Accident-Major,02:00,-87.65,41.84,8
+259,Accident-Major,02:00,-87.65,41.87,7
+260,Accident-Major,02:00,-87.65,41.88,7
+265,Accident-Major,02:00,-87.64,41.81,7
+254,Accident-Major,02:00,-87.66,41.89,6
+258,Accident-Major,02:00,-87.65,41.86,6
+274,Accident-Major,02:00,-87.63,41.75,6
+292,Accident-Major,02:00,-87.6,41.69,6
+213,Accident-Major,02:00,-87.77,41.87,5
+352,Accident-Major,03:00,-87.66,41.89,19
+354,Accident-Major,03:00,-87.65,41.85,14
+357,Accident-Major,03:00,-87.65,41.88,12
+356,Accident-Major,03:00,-87.65,41.87,10
+368,Accident-Major,03:00,-87.64,41.84,10
+355,Accident-Major,03:00,-87.65,41.86,9
+347,Accident-Major,03:00,-87.67,41.91,8
+364,Accident-Major,03:00,-87.64,41.8,8
+367,Accident-Major,03:00,-87.64,41.83,8
+374,Accident-Major,03:00,-87.63,41.76,7
+456,Accident-Major,04:00,-87.65,41.87,16
+463,Accident-Major,04:00,-87.64,41.79,10
+454,Accident-Major,04:00,-87.65,41.85,9
+455,Accident-Major,04:00,-87.65,41.86,9
+464,Accident-Major,04:00,-87.64,41.8,9
+468,Accident-Major,04:00,-87.64,41.84,9
+450,Accident-Major,04:00,-87.66,41.89,8
+467,Accident-Major,04:00,-87.64,41.83,7
+493,Accident-Major,04:00,-87.59,41.65,7
+432,Accident-Major,04:00,-87.7,41.93,6
+549,Accident-Major,05:00,-87.65,41.87,13
+550,Accident-Major,05:00,-87.65,41.88,12
+525,Accident-Major,05:00,-87.71,41.87,8
+547,Accident-Major,05:00,-87.65,41.85,7
+552,Accident-Major,05:00,-87.64,41.78,6
+553,Accident-Major,05:00,-87.64,41.79,6
+554,Accident-Major,05:00,-87.64,41.8,6
+568,Accident-Major,05:00,-87.63,41.77,6
+508,Accident-Major,05:00,-87.77,41.87,5
+516,Accident-Major,05:00,-87.75,41.96,5
+631,Accident-Major,06:00,-87.65,41.86,8
+639,Accident-Major,06:00,-87.64,41.8,6
+636,Accident-Major,06:00,-87.64,41.77,5
+642,Accident-Major,06:00,-87.64,41.83,5
+605,Accident-Major,06:00,-87.73,41.87,4
+622,Accident-Major,06:00,-87.67,41.9,4
+632,Accident-Major,06:00,-87.65,41.87,4
+637,Accident-Major,06:00,-87.64,41.78,4
+645,Accident-Major,06:00,-87.63,41.71,4
+609,Accident-Major,06:00,-87.72,41.94,3
+719,Accident-Major,07:00,-87.63,41.76,10
+702,Accident-Major,07:00,-87.65,41.87,9
+700,Accident-Major,07:00,-87.65,41.85,8
+703,Accident-Major,07:00,-87.65,41.88,8
+707,Accident-Major,07:00,-87.64,41.8,7
+710,Accident-Major,07:00,-87.64,41.83,7
+704,Accident-Major,07:00,-87.64,41.77,5
+720,Accident-Major,07:00,-87.63,41.77,5
+686,Accident-Major,07:00,-87.71,41.93,4
+705,Accident-Major,07:00,-87.64,41.78,4
+761,Accident-Major,08:00,-87.65,41.86,6
+767,Accident-Major,08:00,-87.64,41.83,6
+772,Accident-Major,08:00,-87.63,41.74,6
+766,Accident-Major,08:00,-87.64,41.81,5
+741,Accident-Major,08:00,-87.76,41.87,4
+759,Accident-Major,08:00,-87.65,41.84,4
+771,Accident-Major,08:00,-87.63,41.73,4
+774,Accident-Major,08:00,-87.63,41.76,4
+775,Accident-Major,08:00,-87.63,41.77,4
+746,Accident-Major,08:00,-87.71,41.82,3
+822,Accident-Major,09:00,-87.64,41.8,10
+797,Accident-Major,09:00,-87.74,41.87,5
+815,Accident-Major,09:00,-87.65,41.86,5
+821,Accident-Major,09:00,-87.64,41.79,3
+826,Accident-Major,09:00,-87.64,41.84,3
+830,Accident-Major,09:00,-87.63,41.72,3
+836,Accident-Major,09:00,-87.61,41.67,3
+798,Accident-Major,09:00,-87.74,41.95,2
+808,Accident-Major,09:00,-87.7,41.93,2
+811,Accident-Major,09:00,-87.67,41.87,2
+863,Accident-Major,10:00,-87.72,41.94,6
+882,Accident-Major,10:00,-87.65,41.84,5
+884,Accident-Major,10:00,-87.65,41.87,5
+892,Accident-Major,10:00,-87.64,41.84,5
+895,Accident-Major,10:00,-87.63,41.73,5
+866,Accident-Major,10:00,-87.7,41.83,4
+878,Accident-Major,10:00,-87.66,41.84,4
+891,Accident-Major,10:00,-87.64,41.83,4
+847,Accident-Major,10:00,-87.81,41.98,3
+885,Accident-Major,10:00,-87.65,41.88,3
+978,Accident-Major,11:00,-87.64,41.83,9
+930,Accident-Major,11:00,-87.76,41.96,8
+971,Accident-Major,11:00,-87.65,41.87,8
+983,Accident-Major,11:00,-87.63,41.72,8
+955,Accident-Major,11:00,-87.7,41.87,7
+969,Accident-Major,11:00,-87.65,41.85,7
+968,Accident-Major,11:00,-87.65,41.84,6
+979,Accident-Major,11:00,-87.64,41.84,6
+989,Accident-Major,11:00,-87.63,41.82,6
+1000,Accident-Major,11:00,-87.6,41.66,6
+1073,Accident-Major,12:00,-87.65,41.87,10
+1086,Accident-Major,12:00,-87.63,41.73,8
+1030,Accident-Major,12:00,-87.74,41.87,7
+1031,Accident-Major,12:00,-87.74,41.95,7
+1014,Accident-Major,12:00,-87.78,41.97,6
+1020,Accident-Major,12:00,-87.76,41.96,6
+1038,Accident-Major,12:00,-87.72,41.87,6
+1081,Accident-Major,12:00,-87.64,41.84,6
+1087,Accident-Major,12:00,-87.63,41.76,6
+1013,Accident-Major,12:00,-87.78,41.87,5
+1162,Accident-Major,13:00,-87.69,41.87,14
+1183,Accident-Major,13:00,-87.65,41.85,12
+1196,Accident-Major,13:00,-87.64,41.83,8
+1197,Accident-Major,13:00,-87.64,41.84,8
+1131,Accident-Major,13:00,-87.75,41.96,7
+1184,Accident-Major,13:00,-87.65,41.86,7
+1193,Accident-Major,13:00,-87.64,41.8,7
+1149,Accident-Major,13:00,-87.72,41.87,6
+1185,Accident-Major,13:00,-87.65,41.87,6
+1212,Accident-Major,13:00,-87.62,41.71,6
+1301,Accident-Major,14:00,-87.65,41.85,9
+1314,Accident-Major,14:00,-87.64,41.83,8
+1241,Accident-Major,14:00,-87.77,41.97,7
+1258,Accident-Major,14:00,-87.73,41.95,7
+1300,Accident-Major,14:00,-87.65,41.84,7
+1244,Accident-Major,14:00,-87.76,41.96,6
+1322,Accident-Major,14:00,-87.63,41.76,6
+1237,Accident-Major,14:00,-87.78,41.87,5
+1251,Accident-Major,14:00,-87.74,41.87,5
+1265,Accident-Major,14:00,-87.71,41.87,5
+1373,Accident-Major,15:00,-87.73,41.87,8
+1411,Accident-Major,15:00,-87.65,41.87,8
+1360,Accident-Major,15:00,-87.76,41.96,7
+1422,Accident-Major,15:00,-87.64,41.83,7
+1399,Accident-Major,15:00,-87.67,41.87,6
+1402,Accident-Major,15:00,-87.67,41.9,6
+1409,Accident-Major,15:00,-87.65,41.85,6
+1423,Accident-Major,15:00,-87.64,41.84,6
+1403,Accident-Major,15:00,-87.67,41.91,5
+1412,Accident-Major,15:00,-87.65,41.88,5
+1463,Accident-Major,16:00,-87.76,41.96,9
+1504,Accident-Major,16:00,-87.65,41.87,9
+1503,Accident-Major,16:00,-87.65,41.86,8
+1514,Accident-Major,16:00,-87.64,41.84,8
+1500,Accident-Major,16:00,-87.66,41.89,7
+1505,Accident-Major,16:00,-87.65,41.88,7
+1496,Accident-Major,16:00,-87.67,41.9,6
+1509,Accident-Major,16:00,-87.64,41.79,6
+1461,Accident-Major,16:00,-87.77,41.97,5
+1501,Accident-Major,16:00,-87.65,41.84,5
+1559,Accident-Major,17:00,-87.76,41.96,10
+1611,Accident-Major,17:00,-87.65,41.87,10
+1606,Accident-Major,17:00,-87.66,41.89,9
+1569,Accident-Major,17:00,-87.74,41.87,8
+1578,Accident-Major,17:00,-87.72,41.87,8
+1612,Accident-Major,17:00,-87.65,41.88,7
+1619,Accident-Major,17:00,-87.64,41.83,7
+1548,Accident-Major,17:00,-87.8,41.98,6
+1616,Accident-Major,17:00,-87.64,41.79,6
+1620,Accident-Major,17:00,-87.64,41.84,6
+1728,Accident-Major,18:00,-87.64,41.8,13
+1721,Accident-Major,18:00,-87.65,41.87,11
+1703,Accident-Major,18:00,-87.67,41.9,9
+1720,Accident-Major,18:00,-87.65,41.86,9
+1740,Accident-Major,18:00,-87.63,41.76,9
+1713,Accident-Major,18:00,-87.66,41.89,8
+1659,Accident-Major,18:00,-87.77,41.97,7
+1661,Accident-Major,18:00,-87.76,41.87,7
+1679,Accident-Major,18:00,-87.72,41.87,7
+1702,Accident-Major,18:00,-87.67,41.87,7
+1843,Accident-Major,19:00,-87.67,41.9,23
+1857,Accident-Major,19:00,-87.65,41.87,17
+1840,Accident-Major,19:00,-87.67,41.87,16
+1849,Accident-Major,19:00,-87.66,41.89,14
+1879,Accident-Major,19:00,-87.63,41.76,14
+1823,Accident-Major,19:00,-87.69,41.87,13
+1856,Accident-Major,19:00,-87.65,41.86,13
+1771,Accident-Major,19:00,-87.8,41.98,12
+1858,Accident-Major,19:00,-87.65,41.88,12
+1807,Accident-Major,19:00,-87.72,41.87,10
+2007,Accident-Major,20:00,-87.65,41.87,23
+1986,Accident-Major,20:00,-87.67,41.87,21
+2005,Accident-Major,20:00,-87.65,41.85,17
+1997,Accident-Major,20:00,-87.66,41.89,16
+2008,Accident-Major,20:00,-87.65,41.88,16
+1996,Accident-Major,20:00,-87.66,41.87,14
+2012,Accident-Major,20:00,-87.64,41.79,11
+1980,Accident-Major,20:00,-87.68,41.87,10
+2013,Accident-Major,20:00,-87.64,41.8,10
+2026,Accident-Major,20:00,-87.63,41.76,10
+2141,Accident-Major,21:00,-87.67,41.9,179
+2165,Accident-Major,21:00,-87.65,41.87,22
+2140,Accident-Major,21:00,-87.67,41.87,18
+2173,Accident-Major,21:00,-87.64,41.79,13
+2184,Accident-Major,21:00,-87.63,41.73,13
+2164,Accident-Major,21:00,-87.65,41.86,11
+2075,Accident-Major,21:00,-87.76,41.96,9
+2152,Accident-Major,21:00,-87.66,41.89,9
+2163,Accident-Major,21:00,-87.65,41.85,9
+2177,Accident-Major,21:00,-87.64,41.83,9
+2324,Accident-Major,22:00,-87.65,41.87,24
+2317,Accident-Major,22:00,-87.66,41.89,19
+2330,Accident-Major,22:00,-87.64,41.79,14
+2310,Accident-Major,22:00,-87.67,41.9,13
+2325,Accident-Major,22:00,-87.65,41.88,12
+2335,Accident-Major,22:00,-87.64,41.84,12
+2323,Accident-Major,22:00,-87.65,41.86,11
+2331,Accident-Major,22:00,-87.64,41.8,11
+2300,Accident-Major,22:00,-87.68,41.83,10
+2309,Accident-Major,22:00,-87.67,41.87,10
+2468,Accident-Major,23:00,-87.65,41.87,16
+2401,Accident-Major,23:00,-87.76,41.87,12
+2451,Accident-Major,23:00,-87.67,41.9,12
+2473,Accident-Major,23:00,-87.64,41.79,10
+2467,Accident-Major,23:00,-87.65,41.86,9
+2449,Accident-Major,23:00,-87.67,41.87,7
+2466,Accident-Major,23:00,-87.65,41.85,7
+2478,Accident-Major,23:00,-87.64,41.84,7
+2387,Accident-Major,23:00,-87.8,41.98,6
+2389,Accident-Major,23:00,-87.79,41.98,6
+2547,Accident-Minor,00:00,-87.74,41.95,6
+2592,Accident-Minor,00:00,-87.65,41.87,5
+2531,Accident-Minor,00:00,-87.77,41.97,4
+2581,Accident-Minor,00:00,-87.67,41.91,4
+2525,Accident-Minor,00:00,-87.8,41.98,3
+2539,Accident-Minor,00:00,-87.75,41.81,3
+2541,Accident-Minor,00:00,-87.75,41.96,3
+2551,Accident-Minor,00:00,-87.73,41.95,3
+2555,Accident-Minor,00:00,-87.72,41.94,3
+2587,Accident-Minor,00:00,-87.66,41.89,3
+2639,Accident-Minor,01:00,-87.78,41.87,4
+2652,Accident-Minor,01:00,-87.74,41.95,4
+2675,Accident-Minor,01:00,-87.67,41.9,4
+2681,Accident-Minor,01:00,-87.65,41.85,4
+2682,Accident-Minor,01:00,-87.65,41.86,4
+2683,Accident-Minor,01:00,-87.65,41.87,4
+2646,Accident-Minor,01:00,-87.76,41.96,3
+2662,Accident-Minor,01:00,-87.71,41.93,3
+2666,Accident-Minor,01:00,-87.69,41.92,3
+2676,Accident-Minor,01:00,-87.67,41.91,3
+2756,Accident-Minor,02:00,-87.62,41.89,6
+2735,Accident-Minor,02:00,-87.67,41.91,3
+2738,Accident-Minor,02:00,-87.66,41.89,3
+2751,Accident-Minor,02:00,-87.63,41.91,3
+2711,Accident-Minor,02:00,-87.8,41.98,2
+2723,Accident-Minor,02:00,-87.71,41.82,2
+2731,Accident-Minor,02:00,-87.68,41.83,2
+2732,Accident-Minor,02:00,-87.68,41.87,2
+2736,Accident-Minor,02:00,-87.67,42.0,2
+2744,Accident-Minor,02:00,-87.64,41.8,2
+2797,Accident-Minor,03:00,-87.62,41.89,3
+2760,Accident-Minor,03:00,-87.84,41.95,2
+2762,Accident-Minor,03:00,-87.77,41.87,2
+2766,Accident-Minor,03:00,-87.75,41.77,2
+2767,Accident-Minor,03:00,-87.75,41.78,2
+2770,Accident-Minor,03:00,-87.74,41.87,2
+2788,Accident-Minor,03:00,-87.65,41.88,2
+2761,Accident-Minor,03:00,-87.78,41.87,1
+2763,Accident-Minor,03:00,-87.76,41.89,1
+2764,Accident-Minor,03:00,-87.76,41.98,1
+2820,Accident-Minor,04:00,-87.71,41.87,3
+2835,Accident-Minor,04:00,-87.65,41.88,3
+2840,Accident-Minor,04:00,-87.64,41.84,3
+2846,Accident-Minor,04:00,-87.62,41.85,3
+2805,Accident-Minor,04:00,-87.82,41.98,2
+2830,Accident-Minor,04:00,-87.67,41.9,2
+2806,Accident-Minor,04:00,-87.81,41.98,1
+2807,Accident-Minor,04:00,-87.78,41.99,1
+2808,Accident-Minor,04:00,-87.77,41.97,1
+2809,Accident-Minor,04:00,-87.77,41.99,1
+2865,Accident-Minor,05:00,-87.65,41.86,4
+2875,Accident-Minor,05:00,-87.59,41.65,3
+2851,Accident-Minor,05:00,-87.77,41.97,2
+2860,Accident-Minor,05:00,-87.67,41.9,2
+2873,Accident-Minor,05:00,-87.61,41.68,2
+2849,Accident-Minor,05:00,-87.8,41.79,1
+2850,Accident-Minor,05:00,-87.77,41.92,1
+2852,Accident-Minor,05:00,-87.75,41.96,1
+2853,Accident-Minor,05:00,-87.75,41.98,1
+2854,Accident-Minor,05:00,-87.73,41.78,1
+2879,Accident-Minor,06:00,-87.7,41.83,2
+2880,Accident-Minor,06:00,-87.67,41.87,2
+2881,Accident-Minor,06:00,-87.66,41.84,2
+2877,Accident-Minor,06:00,-87.78,41.94,1
+2878,Accident-Minor,06:00,-87.72,41.94,1
+2882,Accident-Minor,06:00,-87.64,41.81,1
+2883,Accident-Minor,06:00,-87.64,41.82,1
+2884,Accident-Minor,06:00,-87.64,41.83,1
+2885,Accident-Minor,06:00,-87.63,41.72,1
+2886,Accident-Minor,06:00,-87.63,41.9,1
+2901,Accident-Minor,07:00,-87.59,41.65,2
+2891,Accident-Minor,07:00,-87.75,41.96,1
+2892,Accident-Minor,07:00,-87.74,41.81,1
+2893,Accident-Minor,07:00,-87.73,41.82,1
+2894,Accident-Minor,07:00,-87.72,41.94,1
+2895,Accident-Minor,07:00,-87.64,41.79,1
+2896,Accident-Minor,07:00,-87.64,41.81,1
+2897,Accident-Minor,07:00,-87.64,41.84,1
+2898,Accident-Minor,07:00,-87.63,41.9,1
+2899,Accident-Minor,07:00,-87.62,41.84,1
+2913,Accident-Minor,08:00,-87.63,41.9,3
+2903,Accident-Minor,08:00,-87.79,41.79,1
+2904,Accident-Minor,08:00,-87.75,41.81,1
+2905,Accident-Minor,08:00,-87.74,41.87,1
+2906,Accident-Minor,08:00,-87.73,41.87,1
+2907,Accident-Minor,08:00,-87.67,41.87,1
+2908,Accident-Minor,08:00,-87.65,41.88,1
+2909,Accident-Minor,08:00,-87.64,41.8,1
+2910,Accident-Minor,08:00,-87.64,41.89,1
+2911,Accident-Minor,08:00,-87.63,41.72,1
+2922,Accident-Minor,09:00,-87.64,41.84,2
+2924,Accident-Minor,09:00,-87.61,41.71,2
+2915,Accident-Minor,09:00,-87.83,41.98,1
+2916,Accident-Minor,09:00,-87.77,41.97,1
+2917,Accident-Minor,09:00,-87.75,41.82,1
+2918,Accident-Minor,09:00,-87.73,41.95,1
+2919,Accident-Minor,09:00,-87.68,41.92,1
+2920,Accident-Minor,09:00,-87.66,41.89,1
+2921,Accident-Minor,09:00,-87.65,41.85,1
+2923,Accident-Minor,09:00,-87.61,41.67,1
+2935,Accident-Minor,10:00,-87.69,41.92,2
+2940,Accident-Minor,10:00,-87.65,41.87,2
+2947,Accident-Minor,10:00,-87.63,41.77,2
+2949,Accident-Minor,10:00,-87.63,41.91,2
+2926,Accident-Minor,10:00,-87.88,41.98,1
+2927,Accident-Minor,10:00,-87.79,41.98,1
+2928,Accident-Minor,10:00,-87.77,41.81,1
+2929,Accident-Minor,10:00,-87.74,41.87,1
+2930,Accident-Minor,10:00,-87.74,41.95,1
+2931,Accident-Minor,10:00,-87.72,41.93,1
+2954,Accident-Minor,11:00,-87.75,41.81,3
+2956,Accident-Minor,11:00,-87.75,41.96,2
+2967,Accident-Minor,11:00,-87.67,41.84,2
+2973,Accident-Minor,11:00,-87.65,41.87,2
+2974,Accident-Minor,11:00,-87.65,41.88,2
+2983,Accident-Minor,11:00,-87.63,41.72,2
+2986,Accident-Minor,11:00,-87.63,41.91,2
+2987,Accident-Minor,11:00,-87.62,41.85,2
+2952,Accident-Minor,11:00,-87.77,41.78,1
+2953,Accident-Minor,11:00,-87.76,41.96,1
+3009,Accident-Minor,12:00,-87.73,41.82,4
+3016,Accident-Minor,12:00,-87.7,41.93,3
+3018,Accident-Minor,12:00,-87.69,41.92,3
+3023,Accident-Minor,12:00,-87.67,41.91,3
+3034,Accident-Minor,12:00,-87.64,41.82,3
+3038,Accident-Minor,12:00,-87.63,41.72,3
+3040,Accident-Minor,12:00,-87.63,41.74,3
+2993,Accident-Minor,12:00,-87.8,41.98,2
+2994,Accident-Minor,12:00,-87.79,41.98,2
+2995,Accident-Minor,12:00,-87.79,42.0,2
+3141,Accident-Minor,13:00,-87.65,41.86,6
+3144,Accident-Minor,13:00,-87.65,41.89,5
+3166,Accident-Minor,13:00,-87.63,41.9,5
+3072,Accident-Minor,13:00,-87.77,41.97,4
+3085,Accident-Minor,13:00,-87.75,41.96,4
+3086,Accident-Minor,13:00,-87.75,41.97,4
+3090,Accident-Minor,13:00,-87.74,41.95,4
+3102,Accident-Minor,13:00,-87.72,41.94,4
+3135,Accident-Minor,13:00,-87.66,41.89,4
+3150,Accident-Minor,13:00,-87.64,41.8,4
+3214,Accident-Minor,14:00,-87.75,41.96,11
+3249,Accident-Minor,14:00,-87.69,41.92,5
+3257,Accident-Minor,14:00,-87.67,41.91,5
+3295,Accident-Minor,14:00,-87.63,41.9,5
+3235,Accident-Minor,14:00,-87.72,41.94,4
+3270,Accident-Minor,14:00,-87.65,41.88,4
+3272,Accident-Minor,14:00,-87.65,41.94,4
+3201,Accident-Minor,14:00,-87.78,41.87,3
+3208,Accident-Minor,14:00,-87.76,41.96,3
+3215,Accident-Minor,14:00,-87.75,41.97,3
+3375,Accident-Minor,15:00,-87.64,41.84,7
+3357,Accident-Minor,15:00,-87.67,41.91,6
+3371,Accident-Minor,15:00,-87.64,41.8,4
+3334,Accident-Minor,15:00,-87.74,41.95,3
+3350,Accident-Minor,15:00,-87.69,41.92,3
+3358,Accident-Minor,15:00,-87.66,41.87,3
+3359,Accident-Minor,15:00,-87.66,41.89,3
+3363,Accident-Minor,15:00,-87.65,41.85,3
+3364,Accident-Minor,15:00,-87.65,41.86,3
+3374,Accident-Minor,15:00,-87.64,41.83,3
+3438,Accident-Minor,16:00,-87.66,41.89,6
+3441,Accident-Minor,16:00,-87.65,41.85,5
+3448,Accident-Minor,16:00,-87.64,41.84,5
+3432,Accident-Minor,16:00,-87.68,41.92,3
+3442,Accident-Minor,16:00,-87.65,41.86,3
+3443,Accident-Minor,16:00,-87.65,41.87,3
+3461,Accident-Minor,16:00,-87.59,41.65,3
+3397,Accident-Minor,16:00,-87.83,41.98,2
+3399,Accident-Minor,16:00,-87.81,41.98,2
+3403,Accident-Minor,16:00,-87.78,41.97,2
+3496,Accident-Minor,17:00,-87.66,41.89,6
+3475,Accident-Minor,17:00,-87.75,41.96,4
+3514,Accident-Minor,17:00,-87.63,41.9,4
+3472,Accident-Minor,17:00,-87.78,41.97,3
+3497,Accident-Minor,17:00,-87.65,41.85,3
+3467,Accident-Minor,17:00,-87.81,41.98,2
+3481,Accident-Minor,17:00,-87.73,41.95,2
+3484,Accident-Minor,17:00,-87.72,41.99,2
+3485,Accident-Minor,17:00,-87.71,41.93,2
+3486,Accident-Minor,17:00,-87.7,41.74,2
+3576,Accident-Minor,18:00,-87.65,41.88,6
+3567,Accident-Minor,18:00,-87.66,41.89,5
+3574,Accident-Minor,18:00,-87.65,41.86,4
+3583,Accident-Minor,18:00,-87.64,41.84,4
+3559,Accident-Minor,18:00,-87.68,41.92,3
+3581,Accident-Minor,18:00,-87.64,41.82,3
+3530,Accident-Minor,18:00,-87.77,41.79,2
+3533,Accident-Minor,18:00,-87.76,41.96,2
+3540,Accident-Minor,18:00,-87.74,41.95,2
+3541,Accident-Minor,18:00,-87.73,41.95,2
+3649,Accident-Minor,19:00,-87.66,41.89,7
+3646,Accident-Minor,19:00,-87.67,41.91,6
+3652,Accident-Minor,19:00,-87.66,41.98,6
+3663,Accident-Minor,19:00,-87.64,41.83,4
+3633,Accident-Minor,19:00,-87.7,41.83,3
+3656,Accident-Minor,19:00,-87.65,41.87,3
+3657,Accident-Minor,19:00,-87.65,41.88,3
+3664,Accident-Minor,19:00,-87.64,41.84,3
+3609,Accident-Minor,19:00,-87.76,41.96,2
+3614,Accident-Minor,19:00,-87.75,41.96,2
+3756,Accident-Minor,20:00,-87.65,41.86,7
+3704,Accident-Minor,20:00,-87.75,41.96,5
+3688,Accident-Minor,20:00,-87.79,41.98,4
+3712,Accident-Minor,20:00,-87.74,41.95,4
+3722,Accident-Minor,20:00,-87.72,41.94,4
+3755,Accident-Minor,20:00,-87.65,41.85,4
+3768,Accident-Minor,20:00,-87.64,41.84,4
+3771,Accident-Minor,20:00,-87.64,41.92,4
+3695,Accident-Minor,20:00,-87.76,41.96,3
+3729,Accident-Minor,20:00,-87.7,41.83,3
+3872,Accident-Minor,21:00,-87.65,41.88,9
+3869,Accident-Minor,21:00,-87.65,41.85,7
+3822,Accident-Minor,21:00,-87.74,41.95,6
+3880,Accident-Minor,21:00,-87.64,41.84,6
+3905,Accident-Minor,21:00,-87.59,41.72,5
+3808,Accident-Minor,21:00,-87.77,41.87,4
+3821,Accident-Minor,21:00,-87.74,41.87,4
+3828,Accident-Minor,21:00,-87.72,41.94,4
+3843,Accident-Minor,21:00,-87.69,41.87,4
+3871,Accident-Minor,21:00,-87.65,41.87,4
+3943,Accident-Minor,22:00,-87.73,41.94,6
+3951,Accident-Minor,22:00,-87.72,41.94,6
+3998,Accident-Minor,22:00,-87.65,41.87,6
+3999,Accident-Minor,22:00,-87.65,41.88,5
+3917,Accident-Minor,22:00,-87.8,41.98,4
+3988,Accident-Minor,22:00,-87.66,41.89,4
+3996,Accident-Minor,22:00,-87.65,41.85,4
+4003,Accident-Minor,22:00,-87.64,41.79,4
+4008,Accident-Minor,22:00,-87.64,41.84,4
+4014,Accident-Minor,22:00,-87.64,41.93,4
+4057,Accident-Minor,23:00,-87.77,41.97,5
+4114,Accident-Minor,23:00,-87.66,41.84,5
+4119,Accident-Minor,23:00,-87.65,41.85,5
+4122,Accident-Minor,23:00,-87.65,41.88,5
+4054,Accident-Minor,23:00,-87.78,41.87,4
+4071,Accident-Minor,23:00,-87.74,41.95,4
+4078,Accident-Minor,23:00,-87.72,41.82,4
+4084,Accident-Minor,23:00,-87.71,41.93,4
+4109,Accident-Minor,23:00,-87.67,41.91,4
+4121,Accident-Minor,23:00,-87.65,41.87,4
+4385,Accident-Unclassified,00:00,-87.65,41.87,25
+4384,Accident-Unclassified,00:00,-87.65,41.86,22
+4429,Accident-Unclassified,00:00,-87.63,41.9,20
+4368,Accident-Unclassified,00:00,-87.66,41.89,18
+4386,Accident-Unclassified,00:00,-87.65,41.88,18
+4443,Accident-Unclassified,00:00,-87.62,41.89,18
+4383,Accident-Unclassified,00:00,-87.65,41.85,17
+4418,Accident-Unclassified,00:00,-87.63,41.76,15
+4179,Accident-Unclassified,00:00,-87.8,41.98,14
+4403,Accident-Unclassified,00:00,-87.64,41.84,14
+4650,Accident-Unclassified,01:00,-87.67,41.9,23
+4651,Accident-Unclassified,01:00,-87.67,41.91,23
+4683,Accident-Unclassified,01:00,-87.65,41.87,23
+4684,Accident-Unclassified,01:00,-87.65,41.88,23
+4665,Accident-Unclassified,01:00,-87.66,41.89,20
+4682,Accident-Unclassified,01:00,-87.65,41.86,16
+4662,Accident-Unclassified,01:00,-87.66,41.84,12
+4735,Accident-Unclassified,01:00,-87.62,41.89,12
+4681,Accident-Unclassified,01:00,-87.65,41.85,11
+4722,Accident-Unclassified,01:00,-87.63,41.91,11
+4916,Accident-Unclassified,02:00,-87.66,41.89,21
+4903,Accident-Unclassified,02:00,-87.67,41.9,19
+4979,Accident-Unclassified,02:00,-87.62,41.89,18
+4931,Accident-Unclassified,02:00,-87.65,41.86,17
+4932,Accident-Unclassified,02:00,-87.65,41.87,15
+4933,Accident-Unclassified,02:00,-87.65,41.88,15
+4904,Accident-Unclassified,02:00,-87.67,41.91,13
+4930,Accident-Unclassified,02:00,-87.65,41.85,12
+4878,Accident-Unclassified,02:00,-87.69,41.92,11
+4929,Accident-Unclassified,02:00,-87.65,41.84,11
+5156,Accident-Unclassified,03:00,-87.66,41.89,31
+5140,Accident-Unclassified,03:00,-87.67,41.9,19
+5166,Accident-Unclassified,03:00,-87.65,41.86,18
+5167,Accident-Unclassified,03:00,-87.65,41.87,18
+5212,Accident-Unclassified,03:00,-87.62,41.89,17
+5165,Accident-Unclassified,03:00,-87.65,41.85,14
+5168,Accident-Unclassified,03:00,-87.65,41.88,14
+5137,Accident-Unclassified,03:00,-87.67,41.87,12
+5141,Accident-Unclassified,03:00,-87.67,41.91,12
+5029,Accident-Unclassified,03:00,-87.77,41.87,10
+5362,Accident-Unclassified,04:00,-87.65,41.87,22
+5339,Accident-Unclassified,04:00,-87.67,41.9,15
+5361,Accident-Unclassified,04:00,-87.65,41.86,15
+5351,Accident-Unclassified,04:00,-87.66,41.89,14
+5381,Accident-Unclassified,04:00,-87.64,41.84,13
+5363,Accident-Unclassified,04:00,-87.65,41.88,12
+5416,Accident-Unclassified,04:00,-87.62,41.89,11
+5377,Accident-Unclassified,04:00,-87.64,41.8,10
+5383,Accident-Unclassified,04:00,-87.64,41.87,10
+5340,Accident-Unclassified,04:00,-87.67,41.91,9
+5553,Accident-Unclassified,05:00,-87.65,41.88,11
+5550,Accident-Unclassified,05:00,-87.65,41.85,8
+5561,Accident-Unclassified,05:00,-87.64,41.79,8
+5563,Accident-Unclassified,05:00,-87.64,41.81,8
+5528,Accident-Unclassified,05:00,-87.67,41.9,7
+5551,Accident-Unclassified,05:00,-87.65,41.86,7
+5560,Accident-Unclassified,05:00,-87.64,41.78,7
+5455,Accident-Unclassified,05:00,-87.79,41.98,6
+5474,Accident-Unclassified,05:00,-87.75,41.81,6
+5540,Accident-Unclassified,05:00,-87.66,41.89,6
+5710,Accident-Unclassified,06:00,-87.64,41.84,10
+5698,Accident-Unclassified,06:00,-87.65,41.86,6
+5704,Accident-Unclassified,06:00,-87.64,41.78,6
+5685,Accident-Unclassified,06:00,-87.67,41.91,5
+5696,Accident-Unclassified,06:00,-87.65,41.84,5
+5699,Accident-Unclassified,06:00,-87.65,41.87,5
+5700,Accident-Unclassified,06:00,-87.65,41.88,5
+5738,Accident-Unclassified,06:00,-87.61,41.68,5
+5631,Accident-Unclassified,06:00,-87.76,41.96,4
+5634,Accident-Unclassified,06:00,-87.75,41.81,4
+5837,Accident-Unclassified,07:00,-87.64,41.8,9
+5828,Accident-Unclassified,07:00,-87.65,41.85,8
+5841,Accident-Unclassified,07:00,-87.64,41.84,8
+5823,Accident-Unclassified,07:00,-87.66,41.89,7
+5838,Accident-Unclassified,07:00,-87.64,41.81,7
+5846,Accident-Unclassified,07:00,-87.63,41.72,7
+5789,Accident-Unclassified,07:00,-87.72,41.94,6
+5851,Accident-Unclassified,07:00,-87.63,41.77,6
+5831,Accident-Unclassified,07:00,-87.65,41.88,5
+5840,Accident-Unclassified,07:00,-87.64,41.83,5
+5945,Accident-Unclassified,08:00,-87.65,41.87,7
+5957,Accident-Unclassified,08:00,-87.64,41.84,7
+5953,Accident-Unclassified,08:00,-87.64,41.8,6
+5968,Accident-Unclassified,08:00,-87.63,41.76,6
+5974,Accident-Unclassified,08:00,-87.63,41.91,6
+5909,Accident-Unclassified,08:00,-87.71,41.82,5
+5942,Accident-Unclassified,08:00,-87.65,41.84,5
+5954,Accident-Unclassified,08:00,-87.64,41.81,5
+5973,Accident-Unclassified,08:00,-87.63,41.9,5
+5905,Accident-Unclassified,08:00,-87.72,41.87,4
+6077,Accident-Unclassified,09:00,-87.64,41.81,9
+6074,Accident-Unclassified,09:00,-87.64,41.78,7
+6080,Accident-Unclassified,09:00,-87.64,41.84,7
+6063,Accident-Unclassified,09:00,-87.66,41.89,6
+6068,Accident-Unclassified,09:00,-87.65,41.86,6
+6088,Accident-Unclassified,09:00,-87.63,41.75,6
+6090,Accident-Unclassified,09:00,-87.63,41.77,5
+6076,Accident-Unclassified,09:00,-87.64,41.8,4
+6079,Accident-Unclassified,09:00,-87.64,41.83,4
+6082,Accident-Unclassified,09:00,-87.64,41.89,4
+6218,Accident-Unclassified,10:00,-87.64,41.83,13
+6216,Accident-Unclassified,10:00,-87.64,41.81,10
+6219,Accident-Unclassified,10:00,-87.64,41.84,10
+6163,Accident-Unclassified,10:00,-87.72,41.94,9
+6125,Accident-Unclassified,10:00,-87.81,41.98,8
+6229,Accident-Unclassified,10:00,-87.63,41.76,8
+6243,Accident-Unclassified,10:00,-87.61,41.68,8
+6130,Accident-Unclassified,10:00,-87.8,41.98,7
+6206,Accident-Unclassified,10:00,-87.65,41.87,7
+6207,Accident-Unclassified,10:00,-87.65,41.88,7
+6402,Accident-Unclassified,11:00,-87.65,41.85,17
+6419,Accident-Unclassified,11:00,-87.64,41.83,17
+6417,Accident-Unclassified,11:00,-87.64,41.81,15
+6384,Accident-Unclassified,11:00,-87.67,41.91,13
+6404,Accident-Unclassified,11:00,-87.65,41.87,13
+6416,Accident-Unclassified,11:00,-87.64,41.8,13
+6420,Accident-Unclassified,11:00,-87.64,41.84,13
+6403,Accident-Unclassified,11:00,-87.65,41.86,11
+6418,Accident-Unclassified,11:00,-87.64,41.82,11
+6338,Accident-Unclassified,11:00,-87.72,41.94,10
+6744,Accident-Unclassified,12:00,-87.64,41.84,25
+6571,Accident-Unclassified,12:00,-87.74,41.95,22
+6602,Accident-Unclassified,12:00,-87.72,41.94,22
+6535,Accident-Unclassified,12:00,-87.76,41.96,21
+6498,Accident-Unclassified,12:00,-87.8,41.98,20
+6695,Accident-Unclassified,12:00,-87.67,41.91,20
+6724,Accident-Unclassified,12:00,-87.65,41.85,19
+6519,Accident-Unclassified,12:00,-87.77,41.87,18
+6557,Accident-Unclassified,12:00,-87.75,41.96,16
+6529,Accident-Unclassified,12:00,-87.76,41.87,14
+6905,Accident-Unclassified,13:00,-87.75,41.96,27
+7038,Accident-Unclassified,13:00,-87.67,41.91,26
+7093,Accident-Unclassified,13:00,-87.64,41.84,23
+7073,Accident-Unclassified,13:00,-87.65,41.87,21
+6975,Accident-Unclassified,13:00,-87.71,41.93,20
+6922,Accident-Unclassified,13:00,-87.74,41.95,19
+6892,Accident-Unclassified,13:00,-87.75,41.81,18
+6915,Accident-Unclassified,13:00,-87.74,41.87,18
+7052,Accident-Unclassified,13:00,-87.66,41.87,18
+7072,Accident-Unclassified,13:00,-87.65,41.86,18
+7306,Accident-Unclassified,14:00,-87.71,41.93,25
+7385,Accident-Unclassified,14:00,-87.66,41.89,22
+7366,Accident-Unclassified,14:00,-87.67,41.91,20
+7229,Accident-Unclassified,14:00,-87.76,41.96,19
+7320,Accident-Unclassified,14:00,-87.7,41.93,19
+7417,Accident-Unclassified,14:00,-87.64,41.83,19
+7400,Accident-Unclassified,14:00,-87.65,41.87,16
+7414,Accident-Unclassified,14:00,-87.64,41.8,16
+7336,Accident-Unclassified,14:00,-87.69,41.92,15
+7272,Accident-Unclassified,14:00,-87.73,41.87,14
+7530,Accident-Unclassified,15:00,-87.78,41.97,19
+7616,Accident-Unclassified,15:00,-87.7,41.93,19
+7588,Accident-Unclassified,15:00,-87.72,41.94,17
+7668,Accident-Unclassified,15:00,-87.67,41.91,17
+7682,Accident-Unclassified,15:00,-87.66,41.89,16
+7702,Accident-Unclassified,15:00,-87.65,41.87,16
+7667,Accident-Unclassified,15:00,-87.67,41.9,14
+7756,Accident-Unclassified,15:00,-87.62,41.86,14
+7703,Accident-Unclassified,15:00,-87.65,41.88,13
+7720,Accident-Unclassified,15:00,-87.64,41.83,13
+7982,Accident-Unclassified,16:00,-87.66,41.89,26
+7999,Accident-Unclassified,16:00,-87.65,41.86,24
+8018,Accident-Unclassified,16:00,-87.64,41.84,19
+7998,Accident-Unclassified,16:00,-87.65,41.85,18
+7960,Accident-Unclassified,16:00,-87.67,41.9,16
+8001,Accident-Unclassified,16:00,-87.65,41.88,15
+7857,Accident-Unclassified,16:00,-87.75,41.97,14
+7961,Accident-Unclassified,16:00,-87.67,41.91,14
+8065,Accident-Unclassified,16:00,-87.6,41.66,12
+7817,Accident-Unclassified,16:00,-87.79,41.98,11
+8293,Accident-Unclassified,17:00,-87.66,41.89,30
+8310,Accident-Unclassified,17:00,-87.65,41.86,25
+8275,Accident-Unclassified,17:00,-87.67,41.9,23
+8139,Accident-Unclassified,17:00,-87.76,41.96,21
+8154,Accident-Unclassified,17:00,-87.75,41.96,21
+8311,Accident-Unclassified,17:00,-87.65,41.87,20
+8312,Accident-Unclassified,17:00,-87.65,41.88,19
+8371,Accident-Unclassified,17:00,-87.62,41.89,19
+8276,Accident-Unclassified,17:00,-87.67,41.91,18
+8309,Accident-Unclassified,17:00,-87.65,41.85,18
+8618,Accident-Unclassified,18:00,-87.66,41.89,30
+8637,Accident-Unclassified,18:00,-87.65,41.87,29
+8635,Accident-Unclassified,18:00,-87.65,41.85,24
+8638,Accident-Unclassified,18:00,-87.65,41.88,24
+8517,Accident-Unclassified,18:00,-87.72,41.94,21
+8636,Accident-Unclassified,18:00,-87.65,41.86,21
+8598,Accident-Unclassified,18:00,-87.67,41.9,18
+8657,Accident-Unclassified,18:00,-87.64,41.84,18
+8700,Accident-Unclassified,18:00,-87.62,41.89,18
+8475,Accident-Unclassified,18:00,-87.75,41.97,17
+8990,Accident-Unclassified,19:00,-87.66,41.89,38
+9008,Accident-Unclassified,19:00,-87.65,41.87,31
+8969,Accident-Unclassified,19:00,-87.67,41.9,28
+9021,Accident-Unclassified,19:00,-87.64,41.78,25
+8986,Accident-Unclassified,19:00,-87.66,41.84,23
+9022,Accident-Unclassified,19:00,-87.64,41.79,22
+8820,Accident-Unclassified,19:00,-87.75,41.96,21
+8966,Accident-Unclassified,19:00,-87.67,41.87,21
+9007,Accident-Unclassified,19:00,-87.65,41.86,21
+8821,Accident-Unclassified,19:00,-87.75,41.97,20
+9399,Accident-Unclassified,20:00,-87.66,41.89,53
+9420,Accident-Unclassified,20:00,-87.65,41.86,38
+9376,Accident-Unclassified,20:00,-87.67,41.9,34
+9419,Accident-Unclassified,20:00,-87.65,41.85,34
+9421,Accident-Unclassified,20:00,-87.65,41.87,32
+9422,Accident-Unclassified,20:00,-87.65,41.88,29
+9487,Accident-Unclassified,20:00,-87.62,41.87,29
+9374,Accident-Unclassified,20:00,-87.67,41.87,28
+9213,Accident-Unclassified,20:00,-87.75,41.96,27
+9423,Accident-Unclassified,20:00,-87.65,41.89,27
+9787,Accident-Unclassified,21:00,-87.67,41.9,103
+9831,Accident-Unclassified,21:00,-87.65,41.86,52
+9809,Accident-Unclassified,21:00,-87.66,41.89,49
+9832,Accident-Unclassified,21:00,-87.65,41.87,46
+9833,Accident-Unclassified,21:00,-87.65,41.88,41
+9807,Accident-Unclassified,21:00,-87.66,41.87,38
+9830,Accident-Unclassified,21:00,-87.65,41.85,32
+9855,Accident-Unclassified,21:00,-87.64,41.84,28
+9851,Accident-Unclassified,21:00,-87.64,41.8,27
+9899,Accident-Unclassified,21:00,-87.62,41.89,26
+10236,Accident-Unclassified,22:00,-87.66,41.89,48
+10259,Accident-Unclassified,22:00,-87.65,41.87,45
+10260,Accident-Unclassified,22:00,-87.65,41.88,42
+10258,Accident-Unclassified,22:00,-87.65,41.86,40
+10325,Accident-Unclassified,22:00,-87.62,41.89,39
+10234,Accident-Unclassified,22:00,-87.66,41.87,35
+10261,Accident-Unclassified,22:00,-87.65,41.89,33
+10212,Accident-Unclassified,22:00,-87.67,41.9,31
+10271,Accident-Unclassified,22:00,-87.64,41.78,30
+10049,Accident-Unclassified,22:00,-87.75,41.96,29
+10662,Accident-Unclassified,23:00,-87.65,41.87,36
+10645,Accident-Unclassified,23:00,-87.66,41.89,33
+10663,Accident-Unclassified,23:00,-87.65,41.88,33
+10661,Accident-Unclassified,23:00,-87.65,41.86,30
+10660,Accident-Unclassified,23:00,-87.65,41.85,27
+10460,Accident-Unclassified,23:00,-87.75,41.97,26
+10725,Accident-Unclassified,23:00,-87.62,41.87,25
+10676,Accident-Unclassified,23:00,-87.64,41.79,22
+10620,Accident-Unclassified,23:00,-87.67,41.9,21
+10675,Accident-Unclassified,23:00,-87.64,41.78,20
+11172,Hazard-On Road,00:00,-87.65,41.88,78
+11142,Hazard-On Road,00:00,-87.66,41.89,73
+11169,Hazard-On Road,00:00,-87.65,41.85,65
+11054,Hazard-On Road,00:00,-87.69,41.92,64
+11114,Hazard-On Road,00:00,-87.67,41.91,60
+11170,Hazard-On Road,00:00,-87.65,41.86,60
+11151,Hazard-On Road,00:00,-87.66,41.98,58
+11253,Hazard-On Road,00:00,-87.62,41.88,57
+11254,Hazard-On Road,00:00,-87.62,41.89,55
+11171,Hazard-On Road,00:00,-87.65,41.87,54
+11666,Hazard-On Road,01:00,-87.66,41.89,68
+11694,Hazard-On Road,01:00,-87.65,41.88,58
+11691,Hazard-On Road,01:00,-87.65,41.85,51
+11692,Hazard-On Road,01:00,-87.65,41.86,47
+11717,Hazard-On Road,01:00,-87.64,41.84,47
+11636,Hazard-On Road,01:00,-87.67,41.9,46
+11637,Hazard-On Road,01:00,-87.67,41.91,45
+11693,Hazard-On Road,01:00,-87.65,41.87,44
+11463,Hazard-On Road,01:00,-87.74,41.95,43
+11748,Hazard-On Road,01:00,-87.63,41.89,43
+12166,Hazard-On Road,02:00,-87.66,41.89,77
+12137,Hazard-On Road,02:00,-87.67,41.91,61
+12191,Hazard-On Road,02:00,-87.65,41.86,61
+12193,Hazard-On Road,02:00,-87.65,41.88,56
+12213,Hazard-On Road,02:00,-87.64,41.8,56
+12133,Hazard-On Road,02:00,-87.67,41.87,51
+12217,Hazard-On Road,02:00,-87.64,41.84,49
+12192,Hazard-On Road,02:00,-87.65,41.87,44
+12083,Hazard-On Road,02:00,-87.69,41.92,40
+12222,Hazard-On Road,02:00,-87.64,41.89,40
+12605,Hazard-On Road,03:00,-87.67,41.87,84
+12660,Hazard-On Road,03:00,-87.65,41.87,80
+12635,Hazard-On Road,03:00,-87.66,41.89,60
+12675,Hazard-On Road,03:00,-87.64,41.8,49
+12661,Hazard-On Road,03:00,-87.65,41.88,48
+12609,Hazard-On Road,03:00,-87.67,41.91,43
+12678,Hazard-On Road,03:00,-87.64,41.83,40
+12552,Hazard-On Road,03:00,-87.69,41.92,39
+12658,Hazard-On Road,03:00,-87.65,41.85,39
+12411,Hazard-On Road,03:00,-87.76,41.96,35
+13086,Hazard-On Road,04:00,-87.65,41.88,92
+13085,Hazard-On Road,04:00,-87.65,41.87,57
+13063,Hazard-On Road,04:00,-87.66,41.89,55
+13033,Hazard-On Road,04:00,-87.67,41.87,43
+13084,Hazard-On Road,04:00,-87.65,41.86,43
+12881,Hazard-On Road,04:00,-87.75,41.96,41
+13037,Hazard-On Road,04:00,-87.67,41.91,36
+13083,Hazard-On Road,04:00,-87.65,41.85,35
+13036,Hazard-On Road,04:00,-87.67,41.9,34
+13112,Hazard-On Road,04:00,-87.64,41.87,30
+13472,Hazard-On Road,05:00,-87.65,41.88,70
+13470,Hazard-On Road,05:00,-87.65,41.86,66
+13471,Hazard-On Road,05:00,-87.65,41.87,48
+13488,Hazard-On Road,05:00,-87.64,41.8,37
+13429,Hazard-On Road,05:00,-87.67,41.87,35
+13453,Hazard-On Road,05:00,-87.66,41.89,33
+13492,Hazard-On Road,05:00,-87.64,41.84,33
+13432,Hazard-On Road,05:00,-87.67,41.91,31
+13309,Hazard-On Road,05:00,-87.74,41.95,30
+13469,Hazard-On Road,05:00,-87.65,41.85,28
+13781,Hazard-On Road,06:00,-87.67,41.87,101
+13838,Hazard-On Road,06:00,-87.64,41.8,53
+13782,Hazard-On Road,06:00,-87.67,41.88,47
+13803,Hazard-On Road,06:00,-87.66,41.89,45
+13823,Hazard-On Road,06:00,-87.65,41.88,40
+13668,Hazard-On Road,06:00,-87.74,41.87,34
+13822,Hazard-On Road,06:00,-87.65,41.87,31
+13821,Hazard-On Road,06:00,-87.65,41.86,30
+13842,Hazard-On Road,06:00,-87.64,41.84,28
+13836,Hazard-On Road,06:00,-87.64,41.78,25
+14112,Hazard-On Road,07:00,-87.67,41.87,115
+14006,Hazard-On Road,07:00,-87.74,41.87,67
+14163,Hazard-On Road,07:00,-87.64,41.8,52
+14113,Hazard-On Road,07:00,-87.67,41.88,51
+14150,Hazard-On Road,07:00,-87.65,41.86,46
+14152,Hazard-On Road,07:00,-87.65,41.88,24
+14129,Hazard-On Road,07:00,-87.66,41.89,22
+14221,Hazard-On Road,07:00,-87.6,41.69,20
+14149,Hazard-On Road,07:00,-87.65,41.85,19
+14166,Hazard-On Road,07:00,-87.64,41.83,19
+14381,Hazard-On Road,08:00,-87.67,41.87,62
+14304,Hazard-On Road,08:00,-87.74,41.87,37
+14382,Hazard-On Road,08:00,-87.67,41.88,28
+14398,Hazard-On Road,08:00,-87.66,41.89,26
+14426,Hazard-On Road,08:00,-87.64,41.8,25
+14277,Hazard-On Road,08:00,-87.76,41.96,22
+14411,Hazard-On Road,08:00,-87.65,41.85,22
+14414,Hazard-On Road,08:00,-87.65,41.88,22
+14445,Hazard-On Road,08:00,-87.63,41.77,21
+14413,Hazard-On Road,08:00,-87.65,41.87,20
+14536,Hazard-On Road,09:00,-87.76,41.96,82
+14667,Hazard-On Road,09:00,-87.66,41.89,51
+14691,Hazard-On Road,09:00,-87.64,41.8,33
+14694,Hazard-On Road,09:00,-87.64,41.83,30
+14679,Hazard-On Road,09:00,-87.65,41.87,29
+14695,Hazard-On Road,09:00,-87.64,41.84,28
+14551,Hazard-On Road,09:00,-87.75,41.96,27
+14677,Hazard-On Road,09:00,-87.65,41.85,26
+14565,Hazard-On Road,09:00,-87.74,41.95,24
+14693,Hazard-On Road,09:00,-87.64,41.82,23
+15029,Hazard-On Road,10:00,-87.65,41.86,55
+15097,Hazard-On Road,10:00,-87.61,41.68,53
+15079,Hazard-On Road,10:00,-87.63,41.9,51
+15111,Hazard-On Road,10:00,-87.6,41.69,44
+15031,Hazard-On Road,10:00,-87.65,41.88,43
+15030,Hazard-On Road,10:00,-87.65,41.87,42
+15049,Hazard-On Road,10:00,-87.64,41.84,41
+14842,Hazard-On Road,10:00,-87.76,41.96,39
+15048,Hazard-On Road,10:00,-87.64,41.83,39
+14994,Hazard-On Road,10:00,-87.67,41.87,37
+15180,Hazard-On Road,11:00,-87.81,41.97,91
+15454,Hazard-On Road,11:00,-87.67,41.87,85
+15509,Hazard-On Road,11:00,-87.65,41.87,58
+15508,Hazard-On Road,11:00,-87.65,41.86,56
+15529,Hazard-On Road,11:00,-87.64,41.84,55
+15525,Hazard-On Road,11:00,-87.64,41.8,54
+15507,Hazard-On Road,11:00,-87.65,41.85,52
+15407,Hazard-On Road,11:00,-87.69,41.92,49
+15402,Hazard-On Road,11:00,-87.69,41.87,48
+15257,Hazard-On Road,11:00,-87.75,41.81,45
+16067,Hazard-On Road,12:00,-87.65,41.85,94
+16133,Hazard-On Road,12:00,-87.63,41.91,78
+16069,Hazard-On Road,12:00,-87.65,41.87,76
+16098,Hazard-On Road,12:00,-87.64,41.84,76
+16156,Hazard-On Road,12:00,-87.62,41.89,75
+15863,Hazard-On Road,12:00,-87.72,41.93,74
+16011,Hazard-On Road,12:00,-87.67,41.91,74
+16068,Hazard-On Road,12:00,-87.65,41.86,74
+15940,Hazard-On Road,12:00,-87.69,41.85,70
+15794,Hazard-On Road,12:00,-87.75,41.96,69
+16469,Hazard-On Road,13:00,-87.71,41.93,139
+16369,Hazard-On Road,13:00,-87.75,41.96,104
+16346,Hazard-On Road,13:00,-87.76,41.96,96
+16681,Hazard-On Road,13:00,-87.64,41.84,89
+16652,Hazard-On Road,13:00,-87.65,41.85,88
+16653,Hazard-On Road,13:00,-87.65,41.86,86
+16591,Hazard-On Road,13:00,-87.67,41.91,83
+16441,Hazard-On Road,13:00,-87.72,41.93,81
+16553,Hazard-On Road,13:00,-87.68,41.87,78
+16654,Hazard-On Road,13:00,-87.65,41.87,77
+16949,Hazard-On Road,14:00,-87.75,41.96,106
+17212,Hazard-On Road,14:00,-87.66,41.98,102
+17130,Hazard-On Road,14:00,-87.68,41.87,99
+17293,Hazard-On Road,14:00,-87.63,41.88,98
+17235,Hazard-On Road,14:00,-87.65,41.87,90
+17319,Hazard-On Road,14:00,-87.62,41.88,87
+17165,Hazard-On Road,14:00,-87.67,41.87,85
+17261,Hazard-On Road,14:00,-87.64,41.84,84
+17257,Hazard-On Road,14:00,-87.64,41.8,83
+17236,Hazard-On Road,14:00,-87.65,41.88,82
+17851,Hazard-On Road,15:00,-87.64,41.84,99
+17823,Hazard-On Road,15:00,-87.65,41.87,95
+17822,Hazard-On Road,15:00,-87.65,41.86,91
+17722,Hazard-On Road,15:00,-87.68,41.87,89
+17801,Hazard-On Road,15:00,-87.66,41.98,87
+17542,Hazard-On Road,15:00,-87.75,41.96,83
+17640,Hazard-On Road,15:00,-87.71,41.94,75
+17847,Hazard-On Road,15:00,-87.64,41.8,75
+17761,Hazard-On Road,15:00,-87.67,41.91,73
+17883,Hazard-On Road,15:00,-87.63,41.89,73
+18411,Hazard-On Road,16:00,-87.65,41.85,96
+18412,Hazard-On Road,16:00,-87.65,41.86,90
+18391,Hazard-On Road,16:00,-87.66,41.98,85
+18414,Hazard-On Road,16:00,-87.65,41.88,85
+18128,Hazard-On Road,16:00,-87.75,41.96,84
+18439,Hazard-On Road,16:00,-87.64,41.84,82
+18382,Hazard-On Road,16:00,-87.66,41.89,81
+18352,Hazard-On Road,16:00,-87.67,41.91,73
+18435,Hazard-On Road,16:00,-87.64,41.8,73
+18470,Hazard-On Road,16:00,-87.63,41.88,73
+18990,Hazard-On Road,17:00,-87.65,41.88,103
+18988,Hazard-On Road,17:00,-87.65,41.86,99
+18927,Hazard-On Road,17:00,-87.67,41.91,95
+19073,Hazard-On Road,17:00,-87.62,41.88,95
+18710,Hazard-On Road,17:00,-87.75,41.96,94
+18987,Hazard-On Road,17:00,-87.65,41.85,89
+18923,Hazard-On Road,17:00,-87.67,41.87,86
+18958,Hazard-On Road,17:00,-87.66,41.89,80
+18967,Hazard-On Road,17:00,-87.66,41.98,73
+18890,Hazard-On Road,17:00,-87.68,41.87,72
+19579,Hazard-On Road,18:00,-87.65,41.86,100
+19557,Hazard-On Road,18:00,-87.66,41.98,96
+19515,Hazard-On Road,18:00,-87.67,41.87,92
+19295,Hazard-On Road,18:00,-87.75,41.96,89
+19480,Hazard-On Road,18:00,-87.68,41.87,89
+19578,Hazard-On Road,18:00,-87.65,41.85,87
+19548,Hazard-On Road,18:00,-87.66,41.89,85
+19581,Hazard-On Road,18:00,-87.65,41.88,83
+19660,Hazard-On Road,18:00,-87.62,41.88,83
+19580,Hazard-On Road,18:00,-87.65,41.87,79
+20267,Hazard-On Road,19:00,-87.62,41.88,245
+20180,Hazard-On Road,19:00,-87.65,41.86,142
+20182,Hazard-On Road,19:00,-87.65,41.88,113
+19953,Hazard-On Road,19:00,-87.72,41.82,107
+20179,Hazard-On Road,19:00,-87.65,41.85,97
+20079,Hazard-On Road,19:00,-87.68,41.87,89
+20181,Hazard-On Road,19:00,-87.65,41.87,83
+19874,Hazard-On Road,19:00,-87.75,41.81,80
+19994,Hazard-On Road,19:00,-87.71,41.94,76
+20052,Hazard-On Road,19:00,-87.69,41.92,76
+20812,Hazard-On Road,20:00,-87.64,41.8,133
+20786,Hazard-On Road,20:00,-87.65,41.85,114
+20789,Hazard-On Road,20:00,-87.65,41.88,112
+20787,Hazard-On Road,20:00,-87.65,41.86,106
+20788,Hazard-On Road,20:00,-87.65,41.87,106
+20816,Hazard-On Road,20:00,-87.64,41.84,97
+20560,Hazard-On Road,20:00,-87.72,41.82,95
+20766,Hazard-On Road,20:00,-87.66,41.98,91
+20724,Hazard-On Road,20:00,-87.67,41.9,89
+20497,Hazard-On Road,20:00,-87.75,41.96,84
+21474,Hazard-On Road,21:00,-87.62,41.88,146
+21390,Hazard-On Road,21:00,-87.65,41.85,112
+21393,Hazard-On Road,21:00,-87.65,41.88,108
+21392,Hazard-On Road,21:00,-87.65,41.87,104
+21204,Hazard-On Road,21:00,-87.71,41.93,101
+21451,Hazard-On Road,21:00,-87.63,41.9,96
+21102,Hazard-On Road,21:00,-87.75,41.96,94
+21419,Hazard-On Road,21:00,-87.64,41.84,91
+21391,Hazard-On Road,21:00,-87.65,41.86,83
+21325,Hazard-On Road,21:00,-87.67,41.87,77
+21990,Hazard-On Road,22:00,-87.65,41.88,107
+21988,Hazard-On Road,22:00,-87.65,41.86,99
+21987,Hazard-On Road,22:00,-87.65,41.85,96
+21989,Hazard-On Road,22:00,-87.65,41.87,93
+21705,Hazard-On Road,22:00,-87.75,41.96,84
+21968,Hazard-On Road,22:00,-87.66,41.98,83
+22051,Hazard-On Road,22:00,-87.63,41.9,79
+21927,Hazard-On Road,22:00,-87.67,41.91,77
+21861,Hazard-On Road,22:00,-87.69,41.92,76
+21923,Hazard-On Road,22:00,-87.67,41.87,72
+22594,Hazard-On Road,23:00,-87.65,41.88,122
+22591,Hazard-On Road,23:00,-87.65,41.85,89
+22593,Hazard-On Road,23:00,-87.65,41.87,89
+22592,Hazard-On Road,23:00,-87.65,41.86,80
+22673,Hazard-On Road,23:00,-87.62,41.88,77
+22463,Hazard-On Road,23:00,-87.69,41.92,76
+22652,Hazard-On Road,23:00,-87.63,41.9,75
+22306,Hazard-On Road,23:00,-87.75,41.96,74
+22530,Hazard-On Road,23:00,-87.67,41.91,71
+22674,Hazard-On Road,23:00,-87.62,41.89,71
+22928,Hazard-On Shoulder,00:00,-87.66,41.89,213
+22940,Hazard-On Shoulder,00:00,-87.65,41.87,199
+22960,Hazard-On Shoulder,00:00,-87.64,41.83,159
+22819,Hazard-On Shoulder,00:00,-87.75,41.96,156
+22912,Hazard-On Shoulder,00:00,-87.67,41.9,144
+23030,Hazard-On Shoulder,00:00,-87.59,41.65,141
+22957,Hazard-On Shoulder,00:00,-87.64,41.8,137
+22939,Hazard-On Shoulder,00:00,-87.65,41.86,131
+22961,Hazard-On Shoulder,00:00,-87.64,41.84,126
+22805,Hazard-On Shoulder,00:00,-87.76,41.96,119
+23219,Hazard-On Shoulder,01:00,-87.66,41.89,189
+23235,Hazard-On Shoulder,01:00,-87.65,41.87,165
+23207,Hazard-On Shoulder,01:00,-87.67,41.9,125
+23234,Hazard-On Shoulder,01:00,-87.65,41.86,122
+23252,Hazard-On Shoulder,01:00,-87.64,41.83,121
+23105,Hazard-On Shoulder,01:00,-87.76,41.96,114
+23118,Hazard-On Shoulder,01:00,-87.75,41.96,113
+23314,Hazard-On Shoulder,01:00,-87.59,41.65,111
+23249,Hazard-On Shoulder,01:00,-87.64,41.8,101
+23296,Hazard-On Shoulder,01:00,-87.61,41.71,101
+23482,Hazard-On Shoulder,02:00,-87.66,41.89,175
+23492,Hazard-On Shoulder,02:00,-87.65,41.87,152
+23575,Hazard-On Shoulder,02:00,-87.59,41.65,143
+23466,Hazard-On Shoulder,02:00,-87.67,41.9,121
+23491,Hazard-On Shoulder,02:00,-87.65,41.86,107
+23510,Hazard-On Shoulder,02:00,-87.64,41.84,99
+23509,Hazard-On Shoulder,02:00,-87.64,41.83,93
+23564,Hazard-On Shoulder,02:00,-87.6,41.66,92
+23508,Hazard-On Shoulder,02:00,-87.64,41.82,90
+23504,Hazard-On Shoulder,02:00,-87.64,41.78,89
+23739,Hazard-On Shoulder,03:00,-87.66,41.89,128
+23752,Hazard-On Shoulder,03:00,-87.65,41.87,123
+23728,Hazard-On Shoulder,03:00,-87.67,41.9,111
+23767,Hazard-On Shoulder,03:00,-87.64,41.83,99
+23829,Hazard-On Shoulder,03:00,-87.59,41.65,89
+23751,Hazard-On Shoulder,03:00,-87.65,41.86,84
+23648,Hazard-On Shoulder,03:00,-87.76,41.96,79
+23818,Hazard-On Shoulder,03:00,-87.6,41.66,71
+23779,Hazard-On Shoulder,03:00,-87.63,41.72,70
+23762,Hazard-On Shoulder,03:00,-87.64,41.78,68
+23989,Hazard-On Shoulder,04:00,-87.65,41.87,100
+23979,Hazard-On Shoulder,04:00,-87.66,41.89,98
+24004,Hazard-On Shoulder,04:00,-87.64,41.83,72
+23988,Hazard-On Shoulder,04:00,-87.65,41.86,68
+23970,Hazard-On Shoulder,04:00,-87.67,41.9,66
+24005,Hazard-On Shoulder,04:00,-87.64,41.84,65
+24061,Hazard-On Shoulder,04:00,-87.59,41.65,64
+23914,Hazard-On Shoulder,04:00,-87.73,41.82,56
+23977,Hazard-On Shoulder,04:00,-87.66,41.84,54
+24024,Hazard-On Shoulder,04:00,-87.63,41.84,54
+24187,Hazard-On Shoulder,05:00,-87.65,41.87,65
+24178,Hazard-On Shoulder,05:00,-87.66,41.89,59
+24245,Hazard-On Shoulder,05:00,-87.6,41.66,48
+24186,Hazard-On Shoulder,05:00,-87.65,41.86,47
+24200,Hazard-On Shoulder,05:00,-87.64,41.83,46
+24198,Hazard-On Shoulder,05:00,-87.64,41.81,45
+24254,Hazard-On Shoulder,05:00,-87.59,41.65,43
+24169,Hazard-On Shoulder,05:00,-87.67,41.9,42
+24199,Hazard-On Shoulder,05:00,-87.64,41.82,42
+24197,Hazard-On Shoulder,05:00,-87.64,41.8,41
+24358,Hazard-On Shoulder,06:00,-87.66,41.89,47
+24365,Hazard-On Shoulder,06:00,-87.65,41.87,47
+24378,Hazard-On Shoulder,06:00,-87.64,41.84,40
+24349,Hazard-On Shoulder,06:00,-87.67,41.9,35
+24364,Hazard-On Shoulder,06:00,-87.65,41.86,34
+24389,Hazard-On Shoulder,06:00,-87.63,41.75,34
+24374,Hazard-On Shoulder,06:00,-87.64,41.8,33
+24424,Hazard-On Shoulder,06:00,-87.59,41.65,33
+24375,Hazard-On Shoulder,06:00,-87.64,41.81,31
+24415,Hazard-On Shoulder,06:00,-87.6,41.66,31
+24587,Hazard-On Shoulder,07:00,-87.59,41.65,43
+24573,Hazard-On Shoulder,07:00,-87.61,41.71,36
+24538,Hazard-On Shoulder,07:00,-87.64,41.83,35
+24576,Hazard-On Shoulder,07:00,-87.6,41.66,35
+24525,Hazard-On Shoulder,07:00,-87.65,41.86,34
+24539,Hazard-On Shoulder,07:00,-87.64,41.84,34
+24514,Hazard-On Shoulder,07:00,-87.67,41.9,30
+24533,Hazard-On Shoulder,07:00,-87.64,41.78,30
+24579,Hazard-On Shoulder,07:00,-87.6,41.69,30
+24519,Hazard-On Shoulder,07:00,-87.66,41.89,28
+24737,Hazard-On Shoulder,08:00,-87.6,41.69,34
+24677,Hazard-On Shoulder,08:00,-87.66,41.89,33
+24744,Hazard-On Shoulder,08:00,-87.59,41.65,33
+24734,Hazard-On Shoulder,08:00,-87.6,41.66,32
+24683,Hazard-On Shoulder,08:00,-87.65,41.87,31
+24730,Hazard-On Shoulder,08:00,-87.61,41.71,31
+24691,Hazard-On Shoulder,08:00,-87.64,41.79,30
+24682,Hazard-On Shoulder,08:00,-87.65,41.86,28
+24690,Hazard-On Shoulder,08:00,-87.64,41.78,27
+24695,Hazard-On Shoulder,08:00,-87.64,41.83,27
+24839,Hazard-On Shoulder,09:00,-87.66,41.84,49
+24859,Hazard-On Shoulder,09:00,-87.64,41.82,44
+24912,Hazard-On Shoulder,09:00,-87.59,41.65,44
+24848,Hazard-On Shoulder,09:00,-87.65,41.87,39
+24861,Hazard-On Shoulder,09:00,-87.64,41.84,38
+24780,Hazard-On Shoulder,09:00,-87.76,41.96,37
+24836,Hazard-On Shoulder,09:00,-87.67,41.9,37
+24860,Hazard-On Shoulder,09:00,-87.64,41.83,37
+24901,Hazard-On Shoulder,09:00,-87.6,41.66,37
+24855,Hazard-On Shoulder,09:00,-87.64,41.78,33
+25116,Hazard-On Shoulder,10:00,-87.59,41.65,107
+25036,Hazard-On Shoulder,10:00,-87.66,41.84,78
+25045,Hazard-On Shoulder,10:00,-87.65,41.87,78
+25100,Hazard-On Shoulder,10:00,-87.61,41.71,78
+25057,Hazard-On Shoulder,10:00,-87.64,41.82,77
+24955,Hazard-On Shoulder,10:00,-87.76,41.96,73
+24981,Hazard-On Shoulder,10:00,-87.73,41.82,73
+25055,Hazard-On Shoulder,10:00,-87.64,41.8,72
+25109,Hazard-On Shoulder,10:00,-87.6,41.69,70
+25059,Hazard-On Shoulder,10:00,-87.64,41.84,67
+25375,Hazard-On Shoulder,11:00,-87.59,41.65,141
+25313,Hazard-On Shoulder,11:00,-87.64,41.83,129
+25310,Hazard-On Shoulder,11:00,-87.64,41.8,117
+25210,Hazard-On Shoulder,11:00,-87.73,41.82,106
+25325,Hazard-On Shoulder,11:00,-87.63,41.73,102
+25314,Hazard-On Shoulder,11:00,-87.64,41.84,101
+25312,Hazard-On Shoulder,11:00,-87.64,41.82,96
+25282,Hazard-On Shoulder,11:00,-87.66,41.84,95
+25297,Hazard-On Shoulder,11:00,-87.65,41.87,95
+25237,Hazard-On Shoulder,11:00,-87.7,41.93,93
+25657,Hazard-On Shoulder,12:00,-87.64,41.83,165
+25658,Hazard-On Shoulder,12:00,-87.64,41.84,162
+25478,Hazard-On Shoulder,12:00,-87.75,41.96,153
+25721,Hazard-On Shoulder,12:00,-87.59,41.65,153
+25656,Hazard-On Shoulder,12:00,-87.64,41.82,148
+25654,Hazard-On Shoulder,12:00,-87.64,41.8,147
+25499,Hazard-On Shoulder,12:00,-87.73,41.82,133
+25622,Hazard-On Shoulder,12:00,-87.66,41.89,132
+25640,Hazard-On Shoulder,12:00,-87.65,41.87,131
+25652,Hazard-On Shoulder,12:00,-87.64,41.78,129
+26042,Hazard-On Shoulder,13:00,-87.64,41.83,224
+25839,Hazard-On Shoulder,13:00,-87.75,41.96,187
+26043,Hazard-On Shoulder,13:00,-87.64,41.84,184
+26039,Hazard-On Shoulder,13:00,-87.64,41.8,177
+26025,Hazard-On Shoulder,13:00,-87.65,41.87,157
+26041,Hazard-On Shoulder,13:00,-87.64,41.82,156
+26037,Hazard-On Shoulder,13:00,-87.64,41.78,152
+26006,Hazard-On Shoulder,13:00,-87.66,41.89,149
+25869,Hazard-On Shoulder,13:00,-87.73,41.87,148
+25864,Hazard-On Shoulder,13:00,-87.73,41.82,147
+26400,Hazard-On Shoulder,14:00,-87.64,41.83,255
+26397,Hazard-On Shoulder,14:00,-87.64,41.8,180
+26226,Hazard-On Shoulder,14:00,-87.75,41.96,178
+26251,Hazard-On Shoulder,14:00,-87.73,41.87,173
+26395,Hazard-On Shoulder,14:00,-87.64,41.78,173
+26401,Hazard-On Shoulder,14:00,-87.64,41.84,170
+26399,Hazard-On Shoulder,14:00,-87.64,41.82,164
+26365,Hazard-On Shoulder,14:00,-87.66,41.89,158
+26292,Hazard-On Shoulder,14:00,-87.7,41.93,146
+26396,Hazard-On Shoulder,14:00,-87.64,41.79,145
+26746,Hazard-On Shoulder,15:00,-87.64,41.83,267
+26747,Hazard-On Shoulder,15:00,-87.64,41.84,204
+26715,Hazard-On Shoulder,15:00,-87.66,41.89,185
+26574,Hazard-On Shoulder,15:00,-87.75,41.96,168
+26596,Hazard-On Shoulder,15:00,-87.73,41.87,168
+26743,Hazard-On Shoulder,15:00,-87.64,41.8,164
+26692,Hazard-On Shoulder,15:00,-87.67,41.9,163
+26741,Hazard-On Shoulder,15:00,-87.64,41.78,162
+26762,Hazard-On Shoulder,15:00,-87.63,41.75,158
+26638,Hazard-On Shoulder,15:00,-87.7,41.93,153
+27092,Hazard-On Shoulder,16:00,-87.64,41.83,216
+27054,Hazard-On Shoulder,16:00,-87.66,41.89,206
+26936,Hazard-On Shoulder,16:00,-87.73,41.87,171
+27087,Hazard-On Shoulder,16:00,-87.64,41.78,162
+27155,Hazard-On Shoulder,16:00,-87.59,41.65,160
+26934,Hazard-On Shoulder,16:00,-87.73,41.82,158
+27031,Hazard-On Shoulder,16:00,-87.67,41.9,155
+27093,Hazard-On Shoulder,16:00,-87.64,41.84,154
+26918,Hazard-On Shoulder,16:00,-87.75,41.96,148
+27075,Hazard-On Shoulder,16:00,-87.65,41.87,148
+27401,Hazard-On Shoulder,17:00,-87.66,41.89,243
+27439,Hazard-On Shoulder,17:00,-87.64,41.83,241
+27434,Hazard-On Shoulder,17:00,-87.64,41.78,196
+27258,Hazard-On Shoulder,17:00,-87.75,41.96,187
+27278,Hazard-On Shoulder,17:00,-87.73,41.82,180
+27419,Hazard-On Shoulder,17:00,-87.65,41.87,170
+27279,Hazard-On Shoulder,17:00,-87.73,41.87,165
+27440,Hazard-On Shoulder,17:00,-87.64,41.84,163
+27508,Hazard-On Shoulder,17:00,-87.59,41.65,158
+27438,Hazard-On Shoulder,17:00,-87.64,41.82,154
+27749,Hazard-On Shoulder,18:00,-87.66,41.89,231
+27786,Hazard-On Shoulder,18:00,-87.64,41.83,231
+27767,Hazard-On Shoulder,18:00,-87.65,41.87,212
+27783,Hazard-On Shoulder,18:00,-87.64,41.8,189
+27848,Hazard-On Shoulder,18:00,-87.59,41.65,187
+27785,Hazard-On Shoulder,18:00,-87.64,41.82,183
+27781,Hazard-On Shoulder,18:00,-87.64,41.78,178
+27787,Hazard-On Shoulder,18:00,-87.64,41.84,178
+27782,Hazard-On Shoulder,18:00,-87.64,41.79,165
+27590,Hazard-On Shoulder,18:00,-87.76,41.96,163
+28139,Hazard-On Shoulder,19:00,-87.64,41.83,225
+28119,Hazard-On Shoulder,19:00,-87.65,41.87,209
+28138,Hazard-On Shoulder,19:00,-87.64,41.82,205
+28103,Hazard-On Shoulder,19:00,-87.66,41.89,202
+27974,Hazard-On Shoulder,19:00,-87.73,41.82,188
+28213,Hazard-On Shoulder,19:00,-87.59,41.65,188
+28079,Hazard-On Shoulder,19:00,-87.67,41.9,180
+28118,Hazard-On Shoulder,19:00,-87.65,41.86,178
+28136,Hazard-On Shoulder,19:00,-87.64,41.8,177
+28140,Hazard-On Shoulder,19:00,-87.64,41.84,176
+28498,Hazard-On Shoulder,20:00,-87.65,41.87,282
+28519,Hazard-On Shoulder,20:00,-87.64,41.83,248
+28479,Hazard-On Shoulder,20:00,-87.66,41.89,230
+28516,Hazard-On Shoulder,20:00,-87.64,41.8,222
+28327,Hazard-On Shoulder,20:00,-87.75,41.96,220
+28514,Hazard-On Shoulder,20:00,-87.64,41.78,214
+28518,Hazard-On Shoulder,20:00,-87.64,41.82,213
+28520,Hazard-On Shoulder,20:00,-87.64,41.84,206
+28459,Hazard-On Shoulder,20:00,-87.67,41.9,194
+28309,Hazard-On Shoulder,20:00,-87.76,41.96,179
+28881,Hazard-On Shoulder,21:00,-87.65,41.87,253
+28862,Hazard-On Shoulder,21:00,-87.66,41.89,247
+28902,Hazard-On Shoulder,21:00,-87.64,41.83,244
+28703,Hazard-On Shoulder,21:00,-87.75,41.96,236
+28899,Hazard-On Shoulder,21:00,-87.64,41.8,225
+28880,Hazard-On Shoulder,21:00,-87.65,41.86,212
+28901,Hazard-On Shoulder,21:00,-87.64,41.82,211
+28898,Hazard-On Shoulder,21:00,-87.64,41.79,204
+28975,Hazard-On Shoulder,21:00,-87.59,41.65,202
+28685,Hazard-On Shoulder,21:00,-87.76,41.96,200
+29288,Hazard-On Shoulder,22:00,-87.65,41.87,289
+29267,Hazard-On Shoulder,22:00,-87.66,41.89,232
+29287,Hazard-On Shoulder,22:00,-87.65,41.86,227
+29302,Hazard-On Shoulder,22:00,-87.64,41.78,222
+29101,Hazard-On Shoulder,22:00,-87.75,41.96,218
+29303,Hazard-On Shoulder,22:00,-87.64,41.79,215
+29304,Hazard-On Shoulder,22:00,-87.64,41.8,215
+29307,Hazard-On Shoulder,22:00,-87.64,41.83,207
+29306,Hazard-On Shoulder,22:00,-87.64,41.82,194
+29308,Hazard-On Shoulder,22:00,-87.64,41.84,192
+29645,Hazard-On Shoulder,23:00,-87.66,41.89,247
+29661,Hazard-On Shoulder,23:00,-87.65,41.87,246
+29495,Hazard-On Shoulder,23:00,-87.75,41.96,194
+29675,Hazard-On Shoulder,23:00,-87.64,41.8,189
+29678,Hazard-On Shoulder,23:00,-87.64,41.83,185
+29623,Hazard-On Shoulder,23:00,-87.67,41.9,173
+29660,Hazard-On Shoulder,23:00,-87.65,41.86,173
+29674,Hazard-On Shoulder,23:00,-87.64,41.79,171
+29679,Hazard-On Shoulder,23:00,-87.64,41.84,170
+29677,Hazard-On Shoulder,23:00,-87.64,41.82,166
+29775,Hazard-Unclassified,00:00,-87.83,41.97,10
+29776,Hazard-Unclassified,00:00,-87.83,41.98,7
+29779,Hazard-Unclassified,00:00,-87.82,41.98,7
+29777,Hazard-Unclassified,00:00,-87.83,41.99,6
+29782,Hazard-Unclassified,00:00,-87.81,41.97,6
+29781,Hazard-Unclassified,00:00,-87.81,41.96,4
+29788,Hazard-Unclassified,00:00,-87.75,41.96,4
+29789,Hazard-Unclassified,00:00,-87.74,41.95,4
+29773,Hazard-Unclassified,00:00,-87.84,41.97,3
+29774,Hazard-Unclassified,00:00,-87.84,41.98,3
+29829,Hazard-Unclassified,01:00,-87.82,41.98,20
+29834,Hazard-Unclassified,01:00,-87.81,41.98,9
+29833,Hazard-Unclassified,01:00,-87.81,41.97,8
+29827,Hazard-Unclassified,01:00,-87.83,41.99,7
+29832,Hazard-Unclassified,01:00,-87.81,41.96,7
+29830,Hazard-Unclassified,01:00,-87.82,41.99,6
+29824,Hazard-Unclassified,01:00,-87.84,41.98,5
+29825,Hazard-Unclassified,01:00,-87.83,41.97,5
+29840,Hazard-Unclassified,01:00,-87.75,41.96,5
+29872,Hazard-Unclassified,01:00,-87.63,41.81,4
+29893,Hazard-Unclassified,02:00,-87.82,41.98,13
+29897,Hazard-Unclassified,02:00,-87.81,41.98,10
+29924,Hazard-Unclassified,02:00,-87.66,41.89,9
+29918,Hazard-Unclassified,02:00,-87.7,41.86,8
+29888,Hazard-Unclassified,02:00,-87.84,41.98,7
+29905,Hazard-Unclassified,02:00,-87.74,41.85,6
+29906,Hazard-Unclassified,02:00,-87.74,41.86,6
+29936,Hazard-Unclassified,02:00,-87.64,41.84,6
+29892,Hazard-Unclassified,02:00,-87.82,41.97,5
+29894,Hazard-Unclassified,02:00,-87.82,41.99,5
+29966,Hazard-Unclassified,03:00,-87.82,41.98,9
+29963,Hazard-Unclassified,03:00,-87.83,41.98,6
+29964,Hazard-Unclassified,03:00,-87.83,41.99,6
+29967,Hazard-Unclassified,03:00,-87.82,41.99,6
+29973,Hazard-Unclassified,03:00,-87.81,41.98,6
+30038,Hazard-Unclassified,03:00,-87.61,41.68,5
+29969,Hazard-Unclassified,03:00,-87.81,41.92,4
+29972,Hazard-Unclassified,03:00,-87.81,41.97,4
+29987,Hazard-Unclassified,03:00,-87.74,41.87,4
+30022,Hazard-Unclassified,03:00,-87.64,41.78,4
+30088,Hazard-Unclassified,04:00,-87.73,41.87,11
+30059,Hazard-Unclassified,04:00,-87.82,41.98,10
+30091,Hazard-Unclassified,04:00,-87.72,41.87,9
+30056,Hazard-Unclassified,04:00,-87.83,41.97,8
+30055,Hazard-Unclassified,04:00,-87.84,41.98,7
+30085,Hazard-Unclassified,04:00,-87.74,41.87,7
+30065,Hazard-Unclassified,04:00,-87.81,41.97,6
+30069,Hazard-Unclassified,04:00,-87.77,41.78,6
+30060,Hazard-Unclassified,04:00,-87.82,41.99,5
+30066,Hazard-Unclassified,04:00,-87.81,41.98,5
+30139,Hazard-Unclassified,05:00,-87.82,41.98,9
+30143,Hazard-Unclassified,05:00,-87.81,41.98,9
+30140,Hazard-Unclassified,05:00,-87.82,41.99,7
+30142,Hazard-Unclassified,05:00,-87.81,41.97,7
+30187,Hazard-Unclassified,05:00,-87.64,41.83,7
+30132,Hazard-Unclassified,05:00,-87.91,41.98,5
+30184,Hazard-Unclassified,05:00,-87.64,41.8,5
+30188,Hazard-Unclassified,05:00,-87.64,41.84,5
+30137,Hazard-Unclassified,05:00,-87.83,41.98,4
+30151,Hazard-Unclassified,05:00,-87.75,41.77,4
+30207,Hazard-Unclassified,06:00,-87.82,41.98,10
+30219,Hazard-Unclassified,06:00,-87.75,41.78,7
+30247,Hazard-Unclassified,06:00,-87.64,41.78,5
+30252,Hazard-Unclassified,06:00,-87.64,41.84,5
+30201,Hazard-Unclassified,06:00,-87.91,41.98,4
+30205,Hazard-Unclassified,06:00,-87.85,41.97,4
+30208,Hazard-Unclassified,06:00,-87.82,41.99,4
+30209,Hazard-Unclassified,06:00,-87.81,41.97,4
+30211,Hazard-Unclassified,06:00,-87.8,41.79,4
+30227,Hazard-Unclassified,06:00,-87.73,41.87,4
+30313,Hazard-Unclassified,07:00,-87.63,41.75,6
+30265,Hazard-Unclassified,07:00,-87.91,41.97,4
+30267,Hazard-Unclassified,07:00,-87.9,41.97,4
+30277,Hazard-Unclassified,07:00,-87.81,41.96,3
+30279,Hazard-Unclassified,07:00,-87.81,41.98,3
+30286,Hazard-Unclassified,07:00,-87.75,41.78,3
+30302,Hazard-Unclassified,07:00,-87.65,41.85,3
+30303,Hazard-Unclassified,07:00,-87.65,41.86,3
+30304,Hazard-Unclassified,07:00,-87.65,41.87,3
+30306,Hazard-Unclassified,07:00,-87.64,41.8,3
+30323,Hazard-Unclassified,08:00,-87.89,41.97,6
+30344,Hazard-Unclassified,08:00,-87.75,41.79,6
+30321,Hazard-Unclassified,08:00,-87.9,41.97,5
+30367,Hazard-Unclassified,08:00,-87.64,41.83,5
+30324,Hazard-Unclassified,08:00,-87.89,41.98,4
+30335,Hazard-Unclassified,08:00,-87.77,41.78,4
+30363,Hazard-Unclassified,08:00,-87.64,41.79,4
+30350,Hazard-Unclassified,08:00,-87.71,41.82,3
+30353,Hazard-Unclassified,08:00,-87.68,41.83,3
+30356,Hazard-Unclassified,08:00,-87.67,41.9,3
+30424,Hazard-Unclassified,09:00,-87.64,41.83,13
+30416,Hazard-Unclassified,09:00,-87.65,41.85,8
+30425,Hazard-Unclassified,09:00,-87.64,41.84,7
+30396,Hazard-Unclassified,09:00,-87.76,41.79,5
+30388,Hazard-Unclassified,09:00,-87.83,41.97,4
+30422,Hazard-Unclassified,09:00,-87.64,41.81,4
+30427,Hazard-Unclassified,09:00,-87.63,41.75,4
+30389,Hazard-Unclassified,09:00,-87.82,41.98,3
+30390,Hazard-Unclassified,09:00,-87.82,41.99,3
+30420,Hazard-Unclassified,09:00,-87.64,41.79,3
+30444,Hazard-Unclassified,10:00,-87.82,41.98,14
+30446,Hazard-Unclassified,10:00,-87.81,41.97,8
+30471,Hazard-Unclassified,10:00,-87.64,41.84,7
+30447,Hazard-Unclassified,10:00,-87.81,41.98,5
+30466,Hazard-Unclassified,10:00,-87.65,41.85,5
+30440,Hazard-Unclassified,10:00,-87.85,41.98,4
+30470,Hazard-Unclassified,10:00,-87.64,41.83,4
+30438,Hazard-Unclassified,10:00,-87.88,41.98,3
+30445,Hazard-Unclassified,10:00,-87.81,41.96,3
+30441,Hazard-Unclassified,10:00,-87.84,41.97,2
+30481,Hazard-Unclassified,11:00,-87.82,41.98,6
+30508,Hazard-Unclassified,11:00,-87.6,41.7,5
+30482,Hazard-Unclassified,11:00,-87.82,41.99,4
+30496,Hazard-Unclassified,11:00,-87.64,41.82,4
+30484,Hazard-Unclassified,11:00,-87.77,41.86,3
+30492,Hazard-Unclassified,11:00,-87.64,41.78,3
+30494,Hazard-Unclassified,11:00,-87.64,41.8,3
+30498,Hazard-Unclassified,11:00,-87.64,41.84,3
+30479,Hazard-Unclassified,11:00,-87.83,41.97,2
+30486,Hazard-Unclassified,11:00,-87.73,41.95,2
+30515,Hazard-Unclassified,12:00,-87.82,41.98,6
+30516,Hazard-Unclassified,12:00,-87.81,41.97,6
+30542,Hazard-Unclassified,12:00,-87.64,41.8,5
+30514,Hazard-Unclassified,12:00,-87.83,41.98,4
+30517,Hazard-Unclassified,12:00,-87.81,41.98,4
+30518,Hazard-Unclassified,12:00,-87.8,41.79,4
+30538,Hazard-Unclassified,12:00,-87.65,41.85,3
+30544,Hazard-Unclassified,12:00,-87.64,41.84,3
+30547,Hazard-Unclassified,12:00,-87.63,41.74,3
+30548,Hazard-Unclassified,12:00,-87.63,41.75,3
+30566,Hazard-Unclassified,13:00,-87.82,41.99,7
+30596,Hazard-Unclassified,13:00,-87.64,41.84,7
+30570,Hazard-Unclassified,13:00,-87.81,41.98,6
+30592,Hazard-Unclassified,13:00,-87.64,41.8,6
+30561,Hazard-Unclassified,13:00,-87.83,41.97,5
+30569,Hazard-Unclassified,13:00,-87.81,41.97,5
+30568,Hazard-Unclassified,13:00,-87.81,41.96,4
+30587,Hazard-Unclassified,13:00,-87.65,41.85,4
+30589,Hazard-Unclassified,13:00,-87.64,41.77,4
+30594,Hazard-Unclassified,13:00,-87.64,41.82,4
+30629,Hazard-Unclassified,14:00,-87.81,41.98,8
+30622,Hazard-Unclassified,14:00,-87.83,41.99,5
+30623,Hazard-Unclassified,14:00,-87.82,41.98,5
+30628,Hazard-Unclassified,14:00,-87.81,41.97,5
+30608,Hazard-Unclassified,14:00,-87.94,41.98,4
+30611,Hazard-Unclassified,14:00,-87.88,41.98,3
+30620,Hazard-Unclassified,14:00,-87.83,41.97,3
+30621,Hazard-Unclassified,14:00,-87.83,41.98,3
+30624,Hazard-Unclassified,14:00,-87.82,41.99,3
+30632,Hazard-Unclassified,14:00,-87.78,41.97,3
+30690,Hazard-Unclassified,15:00,-87.81,41.98,11
+30683,Hazard-Unclassified,15:00,-87.82,41.98,9
+30681,Hazard-Unclassified,15:00,-87.83,41.99,8
+30671,Hazard-Unclassified,15:00,-87.94,41.98,7
+30684,Hazard-Unclassified,15:00,-87.82,41.99,7
+30679,Hazard-Unclassified,15:00,-87.83,41.97,5
+30688,Hazard-Unclassified,15:00,-87.81,41.96,5
+30696,Hazard-Unclassified,15:00,-87.74,41.95,5
+30694,Hazard-Unclassified,15:00,-87.75,41.96,4
+30705,Hazard-Unclassified,15:00,-87.67,41.92,4
+30731,Hazard-Unclassified,16:00,-87.82,41.98,16
+30728,Hazard-Unclassified,16:00,-87.83,41.97,8
+30732,Hazard-Unclassified,16:00,-87.82,41.99,7
+30735,Hazard-Unclassified,16:00,-87.81,41.97,6
+30721,Hazard-Unclassified,16:00,-87.89,41.99,4
+30736,Hazard-Unclassified,16:00,-87.81,41.98,4
+30722,Hazard-Unclassified,16:00,-87.88,41.98,3
+30719,Hazard-Unclassified,16:00,-87.94,41.98,2
+30723,Hazard-Unclassified,16:00,-87.87,41.97,2
+30727,Hazard-Unclassified,16:00,-87.84,41.98,2
+30788,Hazard-Unclassified,17:00,-87.81,41.97,11
+30786,Hazard-Unclassified,17:00,-87.82,41.98,8
+30789,Hazard-Unclassified,17:00,-87.81,41.98,8
+30787,Hazard-Unclassified,17:00,-87.82,41.99,7
+30771,Hazard-Unclassified,17:00,-87.94,41.98,6
+30791,Hazard-Unclassified,17:00,-87.79,41.79,6
+30778,Hazard-Unclassified,17:00,-87.88,41.98,5
+30785,Hazard-Unclassified,17:00,-87.83,41.99,4
+30773,Hazard-Unclassified,17:00,-87.89,41.96,3
+30783,Hazard-Unclassified,17:00,-87.83,41.97,3
+30829,Hazard-Unclassified,18:00,-87.82,41.98,9
+30824,Hazard-Unclassified,18:00,-87.84,41.97,8
+30830,Hazard-Unclassified,18:00,-87.82,41.99,7
+30854,Hazard-Unclassified,18:00,-87.69,41.75,7
+30832,Hazard-Unclassified,18:00,-87.81,41.96,6
+30856,Hazard-Unclassified,18:00,-87.69,41.78,5
+30834,Hazard-Unclassified,18:00,-87.81,41.98,4
+30818,Hazard-Unclassified,18:00,-87.94,41.98,3
+30820,Hazard-Unclassified,18:00,-87.88,41.98,3
+30826,Hazard-Unclassified,18:00,-87.83,41.97,3
+30916,Hazard-Unclassified,19:00,-87.67,41.75,12
+30939,Hazard-Unclassified,19:00,-87.62,41.86,11
+30918,Hazard-Unclassified,19:00,-87.67,41.98,10
+30924,Hazard-Unclassified,19:00,-87.65,41.94,10
+30938,Hazard-Unclassified,19:00,-87.62,41.84,10
+30934,Hazard-Unclassified,19:00,-87.63,41.76,9
+30937,Hazard-Unclassified,19:00,-87.63,41.91,9
+30891,Hazard-Unclassified,19:00,-87.82,41.98,8
+30921,Hazard-Unclassified,19:00,-87.66,41.98,8
+30923,Hazard-Unclassified,19:00,-87.65,41.75,8
+30983,Hazard-Unclassified,20:00,-87.68,41.98,11
+30959,Hazard-Unclassified,20:00,-87.81,41.98,9
+30954,Hazard-Unclassified,20:00,-87.82,41.98,8
+30955,Hazard-Unclassified,20:00,-87.82,41.99,8
+30981,Hazard-Unclassified,20:00,-87.69,41.99,8
+30958,Hazard-Unclassified,20:00,-87.81,41.97,5
+30947,Hazard-Unclassified,20:00,-87.85,41.97,4
+30960,Hazard-Unclassified,20:00,-87.81,41.99,4
+30977,Hazard-Unclassified,20:00,-87.7,41.99,4
+30985,Hazard-Unclassified,20:00,-87.67,41.92,4
+31014,Hazard-Unclassified,21:00,-87.82,41.98,21
+31018,Hazard-Unclassified,21:00,-87.81,41.97,17
+31019,Hazard-Unclassified,21:00,-87.81,41.98,17
+31015,Hazard-Unclassified,21:00,-87.82,41.99,8
+31011,Hazard-Unclassified,21:00,-87.83,41.98,7
+31017,Hazard-Unclassified,21:00,-87.81,41.96,5
+31009,Hazard-Unclassified,21:00,-87.84,41.98,4
+31016,Hazard-Unclassified,21:00,-87.81,41.78,4
+31006,Hazard-Unclassified,21:00,-87.87,41.97,3
+31007,Hazard-Unclassified,21:00,-87.85,41.97,2
+31065,Hazard-Unclassified,22:00,-87.82,41.98,12
+31068,Hazard-Unclassified,22:00,-87.81,41.96,8
+31066,Hazard-Unclassified,22:00,-87.82,41.99,4
+31070,Hazard-Unclassified,22:00,-87.81,41.98,4
+31058,Hazard-Unclassified,22:00,-87.85,41.98,3
+31059,Hazard-Unclassified,22:00,-87.84,41.97,3
+31060,Hazard-Unclassified,22:00,-87.83,41.97,3
+31062,Hazard-Unclassified,22:00,-87.83,41.99,3
+31067,Hazard-Unclassified,22:00,-87.82,42.0,3
+31069,Hazard-Unclassified,22:00,-87.81,41.97,3
+31128,Hazard-Unclassified,23:00,-87.82,41.98,15
+31131,Hazard-Unclassified,23:00,-87.81,41.97,11
+31129,Hazard-Unclassified,23:00,-87.82,41.99,9
+31132,Hazard-Unclassified,23:00,-87.81,41.98,8
+31160,Hazard-Unclassified,23:00,-87.67,41.9,7
+31123,Hazard-Unclassified,23:00,-87.84,41.98,6
+31124,Hazard-Unclassified,23:00,-87.83,41.97,6
+31125,Hazard-Unclassified,23:00,-87.83,41.98,6
+31126,Hazard-Unclassified,23:00,-87.83,41.99,5
+31130,Hazard-Unclassified,23:00,-87.81,41.96,4
+31307,Hazard-Weather,00:00,-87.66,41.99,7
+31291,Hazard-Weather,00:00,-87.67,41.91,6
+31306,Hazard-Weather,00:00,-87.66,41.98,6
+31332,Hazard-Weather,00:00,-87.64,41.93,6
+31270,Hazard-Weather,00:00,-87.7,42.0,5
+31276,Hazard-Weather,00:00,-87.69,41.97,5
+31346,Hazard-Weather,00:00,-87.62,41.89,5
+31354,Hazard-Weather,00:00,-87.59,41.65,5
+31226,Hazard-Weather,00:00,-87.75,41.97,4
+31246,Hazard-Weather,00:00,-87.72,41.82,4
+31405,Hazard-Weather,01:00,-87.72,41.82,8
+31385,Hazard-Weather,01:00,-87.75,41.81,6
+31443,Hazard-Weather,01:00,-87.67,41.91,6
+31493,Hazard-Weather,01:00,-87.59,41.65,6
+31382,Hazard-Weather,01:00,-87.75,41.78,4
+31389,Hazard-Weather,01:00,-87.75,41.96,4
+31435,Hazard-Weather,01:00,-87.68,41.93,4
+31437,Hazard-Weather,01:00,-87.68,42.0,4
+31479,Hazard-Weather,01:00,-87.63,41.9,4
+31403,Hazard-Weather,01:00,-87.72,41.77,3
+31524,Hazard-Weather,02:00,-87.72,41.82,4
+31571,Hazard-Weather,02:00,-87.65,41.85,4
+31591,Hazard-Weather,02:00,-87.63,41.88,4
+31517,Hazard-Weather,02:00,-87.75,41.97,3
+31537,Hazard-Weather,02:00,-87.7,41.83,3
+31545,Hazard-Weather,02:00,-87.69,41.92,3
+31548,Hazard-Weather,02:00,-87.68,41.83,3
+31562,Hazard-Weather,02:00,-87.67,41.91,3
+31563,Hazard-Weather,02:00,-87.67,41.99,3
+31572,Hazard-Weather,02:00,-87.65,41.86,3
+31720,Hazard-Weather,03:00,-87.59,41.65,9
+31681,Hazard-Weather,03:00,-87.65,41.85,7
+31630,Hazard-Weather,03:00,-87.72,41.82,6
+31669,Hazard-Weather,03:00,-87.67,41.9,6
+31683,Hazard-Weather,03:00,-87.65,41.87,5
+31617,Hazard-Weather,03:00,-87.75,41.81,4
+31638,Hazard-Weather,03:00,-87.71,41.93,4
+31666,Hazard-Weather,03:00,-87.67,41.87,4
+31680,Hazard-Weather,03:00,-87.65,41.84,4
+31684,Hazard-Weather,03:00,-87.65,41.88,4
+31750,Hazard-Weather,04:00,-87.72,41.82,7
+31792,Hazard-Weather,04:00,-87.67,41.91,7
+31806,Hazard-Weather,04:00,-87.65,41.85,7
+31797,Hazard-Weather,04:00,-87.66,41.84,6
+31805,Hazard-Weather,04:00,-87.65,41.84,6
+31736,Hazard-Weather,04:00,-87.75,41.81,5
+31759,Hazard-Weather,04:00,-87.71,41.99,5
+31809,Hazard-Weather,04:00,-87.65,41.88,5
+31831,Hazard-Weather,04:00,-87.62,41.89,5
+31761,Hazard-Weather,04:00,-87.7,41.83,4
+31918,Hazard-Weather,05:00,-87.62,41.89,7
+31897,Hazard-Weather,05:00,-87.65,41.84,6
+31898,Hazard-Weather,05:00,-87.65,41.85,6
+31861,Hazard-Weather,05:00,-87.72,41.82,5
+31851,Hazard-Weather,05:00,-87.75,41.79,4
+31863,Hazard-Weather,05:00,-87.71,41.82,4
+31868,Hazard-Weather,05:00,-87.7,41.83,4
+31900,Hazard-Weather,05:00,-87.65,41.87,4
+31901,Hazard-Weather,05:00,-87.65,41.88,4
+31906,Hazard-Weather,05:00,-87.64,41.83,4
+31974,Hazard-Weather,06:00,-87.65,41.84,6
+31994,Hazard-Weather,06:00,-87.6,41.66,5
+31944,Hazard-Weather,06:00,-87.72,41.82,3
+31969,Hazard-Weather,06:00,-87.66,41.84,3
+31976,Hazard-Weather,06:00,-87.65,41.87,3
+31992,Hazard-Weather,06:00,-87.61,41.74,3
+31939,Hazard-Weather,06:00,-87.75,41.81,2
+31951,Hazard-Weather,06:00,-87.7,41.87,2
+31957,Hazard-Weather,06:00,-87.68,41.83,2
+31964,Hazard-Weather,06:00,-87.67,41.87,2
+32063,Hazard-Weather,07:00,-87.6,41.7,10
+32015,Hazard-Weather,07:00,-87.75,41.81,5
+32060,Hazard-Weather,07:00,-87.6,41.66,5
+32062,Hazard-Weather,07:00,-87.6,41.69,5
+32019,Hazard-Weather,07:00,-87.72,41.82,4
+32032,Hazard-Weather,07:00,-87.67,41.87,4
+32066,Hazard-Weather,07:00,-87.59,41.65,4
+32018,Hazard-Weather,07:00,-87.72,41.74,3
+32044,Hazard-Weather,07:00,-87.65,41.88,3
+32014,Hazard-Weather,07:00,-87.75,41.79,2
+32105,Hazard-Weather,08:00,-87.6,41.66,8
+32095,Hazard-Weather,08:00,-87.65,41.88,6
+32106,Hazard-Weather,08:00,-87.6,41.69,6
+32109,Hazard-Weather,08:00,-87.59,41.65,6
+32093,Hazard-Weather,08:00,-87.65,41.84,3
+32078,Hazard-Weather,08:00,-87.75,41.81,2
+32086,Hazard-Weather,08:00,-87.68,41.83,2
+32089,Hazard-Weather,08:00,-87.67,41.87,2
+32090,Hazard-Weather,08:00,-87.67,41.88,2
+32096,Hazard-Weather,08:00,-87.64,41.84,2
+32170,Hazard-Weather,09:00,-87.59,41.65,10
+32166,Hazard-Weather,09:00,-87.6,41.66,6
+32164,Hazard-Weather,09:00,-87.61,41.68,4
+32167,Hazard-Weather,09:00,-87.6,41.69,4
+32171,Hazard-Weather,09:00,-87.59,41.66,4
+32119,Hazard-Weather,09:00,-87.75,41.79,3
+32161,Hazard-Weather,09:00,-87.63,41.9,3
+32120,Hazard-Weather,09:00,-87.75,41.81,2
+32125,Hazard-Weather,09:00,-87.72,41.82,2
+32128,Hazard-Weather,09:00,-87.7,41.83,2
+32275,Hazard-Weather,10:00,-87.59,41.65,19
+32209,Hazard-Weather,10:00,-87.7,41.83,15
+32269,Hazard-Weather,10:00,-87.62,41.89,10
+32248,Hazard-Weather,10:00,-87.65,41.95,9
+32264,Hazard-Weather,10:00,-87.63,41.9,8
+32272,Hazard-Weather,10:00,-87.6,41.66,8
+32257,Hazard-Weather,10:00,-87.64,41.92,7
+32222,Hazard-Weather,10:00,-87.68,41.83,6
+32243,Hazard-Weather,10:00,-87.65,41.85,6
+32245,Hazard-Weather,10:00,-87.65,41.87,6
+32407,Hazard-Weather,11:00,-87.59,41.65,23
+32388,Hazard-Weather,11:00,-87.63,41.9,16
+32333,Hazard-Weather,11:00,-87.68,41.84,12
+32402,Hazard-Weather,11:00,-87.6,41.66,10
+32367,Hazard-Weather,11:00,-87.65,41.95,8
+32336,Hazard-Weather,11:00,-87.68,41.99,7
+32362,Hazard-Weather,11:00,-87.65,41.85,7
+32378,Hazard-Weather,11:00,-87.64,41.93,7
+32389,Hazard-Weather,11:00,-87.63,41.91,7
+32398,Hazard-Weather,11:00,-87.61,41.68,7
+32581,Hazard-Weather,12:00,-87.63,41.91,11
+32552,Hazard-Weather,12:00,-87.65,41.96,9
+32539,Hazard-Weather,12:00,-87.66,41.99,7
+32601,Hazard-Weather,12:00,-87.59,41.65,7
+32510,Hazard-Weather,12:00,-87.68,41.84,6
+32538,Hazard-Weather,12:00,-87.66,41.98,6
+32547,Hazard-Weather,12:00,-87.65,41.88,6
+32425,Hazard-Weather,12:00,-87.84,41.98,5
+32482,Hazard-Weather,12:00,-87.71,41.92,5
+32485,Hazard-Weather,12:00,-87.71,41.99,5
+32819,Hazard-Weather,13:00,-87.59,41.65,14
+32759,Hazard-Weather,13:00,-87.65,41.85,10
+32810,Hazard-Weather,13:00,-87.6,41.66,9
+32662,Hazard-Weather,13:00,-87.75,41.96,7
+32753,Hazard-Weather,13:00,-87.66,41.98,7
+32797,Hazard-Weather,13:00,-87.63,41.91,7
+32723,Hazard-Weather,13:00,-87.68,41.87,6
+32737,Hazard-Weather,13:00,-87.67,41.87,6
+32631,Hazard-Weather,13:00,-87.82,41.98,5
+32635,Hazard-Weather,13:00,-87.81,41.98,5
+32984,Hazard-Weather,14:00,-87.59,41.65,7
+32979,Hazard-Weather,14:00,-87.6,41.66,6
+32923,Hazard-Weather,14:00,-87.66,41.99,5
+32928,Hazard-Weather,14:00,-87.65,41.85,5
+32942,Hazard-Weather,14:00,-87.64,41.84,5
+32961,Hazard-Weather,14:00,-87.63,41.9,5
+32962,Hazard-Weather,14:00,-87.63,41.91,5
+32967,Hazard-Weather,14:00,-87.62,41.84,5
+32981,Hazard-Weather,14:00,-87.6,41.7,5
+32951,Hazard-Weather,14:00,-87.63,41.72,4
+33077,Hazard-Weather,15:00,-87.66,41.98,5
+33078,Hazard-Weather,15:00,-87.66,41.99,5
+33081,Hazard-Weather,15:00,-87.65,41.85,5
+33116,Hazard-Weather,15:00,-87.62,41.88,5
+33038,Hazard-Weather,15:00,-87.71,41.93,4
+33107,Hazard-Weather,15:00,-87.63,41.9,4
+33127,Hazard-Weather,15:00,-87.59,41.65,4
+32996,Hazard-Weather,15:00,-87.81,41.98,3
+32997,Hazard-Weather,15:00,-87.8,41.93,3
+33001,Hazard-Weather,15:00,-87.79,41.98,3
+33164,Hazard-Weather,16:00,-87.72,41.82,6
+33237,Hazard-Weather,16:00,-87.64,41.83,6
+33196,Hazard-Weather,16:00,-87.68,41.83,5
+33211,Hazard-Weather,16:00,-87.67,41.91,5
+33252,Hazard-Weather,16:00,-87.63,41.9,5
+33259,Hazard-Weather,16:00,-87.62,41.89,5
+33222,Hazard-Weather,16:00,-87.66,41.98,4
+33253,Hazard-Weather,16:00,-87.63,41.91,4
+33258,Hazard-Weather,16:00,-87.62,41.88,4
+33221,Hazard-Weather,16:00,-87.66,41.97,3
+33322,Hazard-Weather,17:00,-87.7,41.83,6
+33310,Hazard-Weather,17:00,-87.72,41.82,5
+33400,Hazard-Weather,17:00,-87.63,41.88,5
+33412,Hazard-Weather,17:00,-87.6,41.66,4
+33416,Hazard-Weather,17:00,-87.59,41.65,4
+33300,Hazard-Weather,17:00,-87.74,41.95,3
+33357,Hazard-Weather,17:00,-87.67,41.91,3
+33375,Hazard-Weather,17:00,-87.66,41.99,3
+33408,Hazard-Weather,17:00,-87.62,41.89,3
+33414,Hazard-Weather,17:00,-87.6,41.69,3
+33578,Hazard-Weather,18:00,-87.6,41.66,8
+33582,Hazard-Weather,18:00,-87.59,41.65,8
+33529,Hazard-Weather,18:00,-87.65,41.84,6
+33562,Hazard-Weather,18:00,-87.63,41.91,6
+33571,Hazard-Weather,18:00,-87.62,41.89,6
+33532,Hazard-Weather,18:00,-87.65,41.87,5
+33530,Hazard-Weather,18:00,-87.65,41.85,4
+33531,Hazard-Weather,18:00,-87.65,41.86,4
+33533,Hazard-Weather,18:00,-87.65,41.88,4
+33550,Hazard-Weather,18:00,-87.64,41.92,4
+33716,Hazard-Weather,19:00,-87.65,41.85,9
+33663,Hazard-Weather,19:00,-87.69,41.87,7
+33736,Hazard-Weather,19:00,-87.64,41.92,7
+33755,Hazard-Weather,19:00,-87.62,41.89,7
+33631,Hazard-Weather,19:00,-87.72,41.88,6
+33646,Hazard-Weather,19:00,-87.7,41.83,6
+33719,Hazard-Weather,19:00,-87.65,41.88,6
+33725,Hazard-Weather,19:00,-87.65,41.96,6
+33756,Hazard-Weather,19:00,-87.61,41.68,6
+33763,Hazard-Weather,19:00,-87.6,41.69,6
+33872,Hazard-Weather,20:00,-87.68,41.87,13
+33937,Hazard-Weather,20:00,-87.64,41.93,11
+33820,Hazard-Weather,20:00,-87.72,41.82,8
+33871,Hazard-Weather,20:00,-87.68,41.83,7
+33974,Hazard-Weather,20:00,-87.59,41.65,6
+33888,Hazard-Weather,20:00,-87.67,41.91,5
+33915,Hazard-Weather,20:00,-87.65,41.88,5
+33967,Hazard-Weather,20:00,-87.6,41.66,5
+33792,Hazard-Weather,20:00,-87.77,41.97,4
+33822,Hazard-Weather,20:00,-87.72,41.88,4
+34186,Hazard-Weather,21:00,-87.59,41.65,18
+34100,Hazard-Weather,21:00,-87.67,41.91,10
+34180,Hazard-Weather,21:00,-87.6,41.66,10
+34176,Hazard-Weather,21:00,-87.61,41.68,8
+33994,Hazard-Weather,21:00,-87.81,41.98,7
+34131,Hazard-Weather,21:00,-87.65,41.87,7
+34162,Hazard-Weather,21:00,-87.63,41.9,7
+34015,Hazard-Weather,21:00,-87.76,41.96,6
+34124,Hazard-Weather,21:00,-87.66,41.97,6
+34082,Hazard-Weather,21:00,-87.68,41.84,5
+34368,Hazard-Weather,22:00,-87.62,41.89,11
+34274,Hazard-Weather,22:00,-87.7,41.83,6
+34307,Hazard-Weather,22:00,-87.67,41.91,5
+34311,Hazard-Weather,22:00,-87.67,41.99,5
+34327,Hazard-Weather,22:00,-87.65,41.85,5
+34367,Hazard-Weather,22:00,-87.62,41.88,5
+34267,Hazard-Weather,22:00,-87.71,41.91,4
+34268,Hazard-Weather,22:00,-87.71,41.92,4
+34269,Hazard-Weather,22:00,-87.71,41.93,4
+34329,Hazard-Weather,22:00,-87.65,41.87,4
+34544,Hazard-Weather,23:00,-87.59,41.65,10
+34540,Hazard-Weather,23:00,-87.6,41.66,7
+34535,Hazard-Weather,23:00,-87.61,41.68,5
+34511,Hazard-Weather,23:00,-87.65,41.94,4
+34523,Hazard-Weather,23:00,-87.63,41.73,4
+34525,Hazard-Weather,23:00,-87.63,41.77,4
+34404,Hazard-Weather,23:00,-87.81,41.99,3
+34439,Hazard-Weather,23:00,-87.72,41.82,3
+34447,Hazard-Weather,23:00,-87.71,41.89,3
+34462,Hazard-Weather,23:00,-87.69,41.84,3
+34794,Jam-Heavy Traffic,00:00,-87.66,41.89,292
+34778,Jam-Heavy Traffic,00:00,-87.67,41.9,218
+34812,Jam-Heavy Traffic,00:00,-87.65,41.88,183
+34645,Jam-Heavy Traffic,00:00,-87.75,41.96,159
+34811,Jam-Heavy Traffic,00:00,-87.65,41.87,154
+34615,Jam-Heavy Traffic,00:00,-87.77,41.97,143
+34594,Jam-Heavy Traffic,00:00,-87.79,41.98,140
+34626,Jam-Heavy Traffic,00:00,-87.76,41.96,133
+34601,Jam-Heavy Traffic,00:00,-87.78,41.97,132
+34688,Jam-Heavy Traffic,00:00,-87.72,41.94,129
+35075,Jam-Heavy Traffic,01:00,-87.66,41.89,258
+35091,Jam-Heavy Traffic,01:00,-87.65,41.88,146
+35061,Jam-Heavy Traffic,01:00,-87.67,41.9,142
+35090,Jam-Heavy Traffic,01:00,-87.65,41.87,142
+34961,Jam-Heavy Traffic,01:00,-87.75,41.96,80
+34936,Jam-Heavy Traffic,01:00,-87.77,41.97,77
+35089,Jam-Heavy Traffic,01:00,-87.65,41.86,71
+34946,Jam-Heavy Traffic,01:00,-87.76,41.96,68
+35033,Jam-Heavy Traffic,01:00,-87.69,41.92,65
+35062,Jam-Heavy Traffic,01:00,-87.67,41.91,57
+35294,Jam-Heavy Traffic,02:00,-87.66,41.89,201
+35282,Jam-Heavy Traffic,02:00,-87.67,41.9,131
+35309,Jam-Heavy Traffic,02:00,-87.65,41.87,78
+35308,Jam-Heavy Traffic,02:00,-87.65,41.86,61
+35283,Jam-Heavy Traffic,02:00,-87.67,41.91,59
+35307,Jam-Heavy Traffic,02:00,-87.65,41.85,59
+35310,Jam-Heavy Traffic,02:00,-87.65,41.88,56
+35202,Jam-Heavy Traffic,02:00,-87.75,41.96,37
+35258,Jam-Heavy Traffic,02:00,-87.69,41.92,35
+35189,Jam-Heavy Traffic,02:00,-87.77,41.97,33
+35489,Jam-Heavy Traffic,03:00,-87.66,41.89,168
+35476,Jam-Heavy Traffic,03:00,-87.67,41.9,129
+35504,Jam-Heavy Traffic,03:00,-87.65,41.87,104
+35505,Jam-Heavy Traffic,03:00,-87.65,41.88,71
+35477,Jam-Heavy Traffic,03:00,-87.67,41.91,49
+35503,Jam-Heavy Traffic,03:00,-87.65,41.86,38
+35502,Jam-Heavy Traffic,03:00,-87.65,41.85,36
+35506,Jam-Heavy Traffic,03:00,-87.65,41.89,26
+35454,Jam-Heavy Traffic,03:00,-87.69,41.92,24
+35465,Jam-Heavy Traffic,03:00,-87.68,41.91,24
+35654,Jam-Heavy Traffic,04:00,-87.66,41.89,93
+35666,Jam-Heavy Traffic,04:00,-87.65,41.87,76
+35641,Jam-Heavy Traffic,04:00,-87.67,41.9,61
+35667,Jam-Heavy Traffic,04:00,-87.65,41.88,49
+35665,Jam-Heavy Traffic,04:00,-87.65,41.86,37
+35642,Jam-Heavy Traffic,04:00,-87.67,41.91,21
+35668,Jam-Heavy Traffic,04:00,-87.65,41.89,19
+35682,Jam-Heavy Traffic,04:00,-87.64,41.84,17
+35638,Jam-Heavy Traffic,04:00,-87.67,41.87,16
+35611,Jam-Heavy Traffic,04:00,-87.71,41.87,15
+35784,Jam-Heavy Traffic,05:00,-87.66,41.89,34
+35791,Jam-Heavy Traffic,05:00,-87.65,41.87,28
+35792,Jam-Heavy Traffic,05:00,-87.65,41.88,23
+35778,Jam-Heavy Traffic,05:00,-87.67,41.9,15
+35790,Jam-Heavy Traffic,05:00,-87.65,41.86,11
+35832,Jam-Heavy Traffic,05:00,-87.6,41.69,11
+35733,Jam-Heavy Traffic,05:00,-87.82,41.98,10
+35779,Jam-Heavy Traffic,05:00,-87.67,41.91,10
+35789,Jam-Heavy Traffic,05:00,-87.65,41.85,10
+35833,Jam-Heavy Traffic,05:00,-87.6,41.7,10
+35869,Jam-Heavy Traffic,06:00,-87.66,41.89,16
+35875,Jam-Heavy Traffic,06:00,-87.65,41.88,11
+35879,Jam-Heavy Traffic,06:00,-87.65,41.94,5
+35895,Jam-Heavy Traffic,06:00,-87.6,41.7,5
+35874,Jam-Heavy Traffic,06:00,-87.65,41.87,4
+35844,Jam-Heavy Traffic,06:00,-87.75,41.96,3
+35850,Jam-Heavy Traffic,06:00,-87.73,41.87,3
+35856,Jam-Heavy Traffic,06:00,-87.71,41.93,3
+35867,Jam-Heavy Traffic,06:00,-87.67,41.91,3
+35873,Jam-Heavy Traffic,06:00,-87.65,41.86,3
+35912,Jam-Heavy Traffic,07:00,-87.65,41.88,6
+35909,Jam-Heavy Traffic,07:00,-87.66,41.89,3
+35901,Jam-Heavy Traffic,07:00,-87.72,41.82,2
+35911,Jam-Heavy Traffic,07:00,-87.65,41.86,2
+35923,Jam-Heavy Traffic,07:00,-87.6,41.71,2
+35897,Jam-Heavy Traffic,07:00,-87.81,41.98,1
+35898,Jam-Heavy Traffic,07:00,-87.8,41.98,1
+35899,Jam-Heavy Traffic,07:00,-87.77,41.87,1
+35900,Jam-Heavy Traffic,07:00,-87.75,41.81,1
+35902,Jam-Heavy Traffic,07:00,-87.71,41.87,1
+35925,Jam-Heavy Traffic,08:00,-87.81,41.98,2
+35929,Jam-Heavy Traffic,08:00,-87.76,41.96,2
+35932,Jam-Heavy Traffic,08:00,-87.72,41.82,2
+35934,Jam-Heavy Traffic,08:00,-87.67,41.9,2
+35924,Jam-Heavy Traffic,08:00,-87.82,41.98,1
+35926,Jam-Heavy Traffic,08:00,-87.8,41.98,1
+35927,Jam-Heavy Traffic,08:00,-87.78,41.91,1
+35928,Jam-Heavy Traffic,08:00,-87.77,41.87,1
+35930,Jam-Heavy Traffic,08:00,-87.75,41.95,1
+35931,Jam-Heavy Traffic,08:00,-87.73,41.83,1
+35950,Jam-Heavy Traffic,09:00,-87.8,41.98,7
+35956,Jam-Heavy Traffic,09:00,-87.75,41.81,4
+35992,Jam-Heavy Traffic,09:00,-87.59,41.65,4
+35949,Jam-Heavy Traffic,09:00,-87.82,41.98,3
+35953,Jam-Heavy Traffic,09:00,-87.76,41.96,3
+35967,Jam-Heavy Traffic,09:00,-87.7,41.93,3
+35989,Jam-Heavy Traffic,09:00,-87.6,41.69,3
+35948,Jam-Heavy Traffic,09:00,-87.83,41.98,2
+35961,Jam-Heavy Traffic,09:00,-87.73,41.94,2
+35962,Jam-Heavy Traffic,09:00,-87.73,41.95,2
+36077,Jam-Heavy Traffic,10:00,-87.64,41.83,98
+36082,Jam-Heavy Traffic,10:00,-87.63,41.72,78
+36106,Jam-Heavy Traffic,10:00,-87.6,41.7,77
+36076,Jam-Heavy Traffic,10:00,-87.64,41.82,70
+36105,Jam-Heavy Traffic,10:00,-87.6,41.69,70
+36081,Jam-Heavy Traffic,10:00,-87.63,41.71,57
+36010,Jam-Heavy Traffic,10:00,-87.77,41.97,56
+36083,Jam-Heavy Traffic,10:00,-87.63,41.73,56
+36054,Jam-Heavy Traffic,10:00,-87.67,41.83,55
+36020,Jam-Heavy Traffic,10:00,-87.75,41.81,54
+36155,Jam-Heavy Traffic,11:00,-87.77,41.87,188
+36191,Jam-Heavy Traffic,11:00,-87.75,41.96,163
+36234,Jam-Heavy Traffic,11:00,-87.72,41.94,138
+36173,Jam-Heavy Traffic,11:00,-87.76,41.96,137
+36192,Jam-Heavy Traffic,11:00,-87.75,41.97,133
+36351,Jam-Heavy Traffic,11:00,-87.64,41.83,122
+36162,Jam-Heavy Traffic,11:00,-87.77,41.97,120
+36149,Jam-Heavy Traffic,11:00,-87.78,41.97,117
+36181,Jam-Heavy Traffic,11:00,-87.75,41.81,113
+36207,Jam-Heavy Traffic,11:00,-87.74,41.95,113
+36527,Jam-Heavy Traffic,12:00,-87.75,41.96,335
+36595,Jam-Heavy Traffic,12:00,-87.72,41.94,278
+36549,Jam-Heavy Traffic,12:00,-87.74,41.95,213
+36671,Jam-Heavy Traffic,12:00,-87.69,41.92,201
+36618,Jam-Heavy Traffic,12:00,-87.71,41.93,198
+36528,Jam-Heavy Traffic,12:00,-87.75,41.97,180
+36504,Jam-Heavy Traffic,12:00,-87.76,41.96,177
+36644,Jam-Heavy Traffic,12:00,-87.7,41.93,177
+36574,Jam-Heavy Traffic,12:00,-87.73,41.95,173
+36734,Jam-Heavy Traffic,12:00,-87.67,41.98,164
+37000,Jam-Heavy Traffic,13:00,-87.75,41.96,274
+37092,Jam-Heavy Traffic,13:00,-87.71,41.93,272
+37091,Jam-Heavy Traffic,13:00,-87.71,41.92,256
+37068,Jam-Heavy Traffic,13:00,-87.72,41.94,244
+37022,Jam-Heavy Traffic,13:00,-87.74,41.95,207
+36976,Jam-Heavy Traffic,13:00,-87.76,41.96,206
+37146,Jam-Heavy Traffic,13:00,-87.69,41.92,180
+37202,Jam-Heavy Traffic,13:00,-87.67,41.9,171
+37001,Jam-Heavy Traffic,13:00,-87.75,41.97,163
+37203,Jam-Heavy Traffic,13:00,-87.67,41.91,163
+37513,Jam-Heavy Traffic,14:00,-87.72,41.94,182
+37461,Jam-Heavy Traffic,14:00,-87.75,41.96,180
+37536,Jam-Heavy Traffic,14:00,-87.71,41.93,168
+37440,Jam-Heavy Traffic,14:00,-87.76,41.96,164
+37479,Jam-Heavy Traffic,14:00,-87.74,41.95,163
+37428,Jam-Heavy Traffic,14:00,-87.77,41.97,158
+37636,Jam-Heavy Traffic,14:00,-87.67,41.91,153
+37653,Jam-Heavy Traffic,14:00,-87.66,41.89,152
+37635,Jam-Heavy Traffic,14:00,-87.67,41.9,150
+37587,Jam-Heavy Traffic,14:00,-87.69,41.92,148
+37901,Jam-Heavy Traffic,15:00,-87.72,41.94,217
+38022,Jam-Heavy Traffic,15:00,-87.66,41.89,209
+38004,Jam-Heavy Traffic,15:00,-87.67,41.9,195
+37833,Jam-Heavy Traffic,15:00,-87.77,41.97,191
+37844,Jam-Heavy Traffic,15:00,-87.76,41.96,176
+37862,Jam-Heavy Traffic,15:00,-87.75,41.96,176
+37821,Jam-Heavy Traffic,15:00,-87.78,41.97,171
+37874,Jam-Heavy Traffic,15:00,-87.74,41.95,161
+37920,Jam-Heavy Traffic,15:00,-87.71,41.93,150
+37815,Jam-Heavy Traffic,15:00,-87.79,41.98,144
+38393,Jam-Heavy Traffic,16:00,-87.66,41.89,277
+38267,Jam-Heavy Traffic,16:00,-87.72,41.94,227
+38190,Jam-Heavy Traffic,16:00,-87.77,41.97,206
+38374,Jam-Heavy Traffic,16:00,-87.67,41.9,197
+38201,Jam-Heavy Traffic,16:00,-87.76,41.96,193
+38413,Jam-Heavy Traffic,16:00,-87.65,41.87,170
+38414,Jam-Heavy Traffic,16:00,-87.65,41.88,164
+38165,Jam-Heavy Traffic,16:00,-87.79,41.98,162
+38221,Jam-Heavy Traffic,16:00,-87.75,41.96,159
+38287,Jam-Heavy Traffic,16:00,-87.71,41.93,154
+38809,Jam-Heavy Traffic,17:00,-87.66,41.89,326
+38831,Jam-Heavy Traffic,17:00,-87.65,41.87,242
+38584,Jam-Heavy Traffic,17:00,-87.77,41.97,231
+38672,Jam-Heavy Traffic,17:00,-87.72,41.94,223
+38620,Jam-Heavy Traffic,17:00,-87.75,41.96,213
+38787,Jam-Heavy Traffic,17:00,-87.67,41.9,212
+38600,Jam-Heavy Traffic,17:00,-87.76,41.96,206
+38556,Jam-Heavy Traffic,17:00,-87.79,41.98,201
+38832,Jam-Heavy Traffic,17:00,-87.65,41.88,188
+38567,Jam-Heavy Traffic,17:00,-87.78,41.97,186
+39226,Jam-Heavy Traffic,18:00,-87.66,41.89,344
+39247,Jam-Heavy Traffic,18:00,-87.65,41.87,293
+39000,Jam-Heavy Traffic,18:00,-87.77,41.97,233
+39013,Jam-Heavy Traffic,18:00,-87.76,41.96,226
+39031,Jam-Heavy Traffic,18:00,-87.75,41.96,220
+39204,Jam-Heavy Traffic,18:00,-87.67,41.9,219
+39085,Jam-Heavy Traffic,18:00,-87.72,41.94,205
+39248,Jam-Heavy Traffic,18:00,-87.65,41.88,202
+38985,Jam-Heavy Traffic,18:00,-87.78,41.97,182
+39107,Jam-Heavy Traffic,18:00,-87.71,41.93,180
+39700,Jam-Heavy Traffic,19:00,-87.66,41.89,460
+39724,Jam-Heavy Traffic,19:00,-87.65,41.87,402
+39725,Jam-Heavy Traffic,19:00,-87.65,41.88,352
+39675,Jam-Heavy Traffic,19:00,-87.67,41.9,344
+39446,Jam-Heavy Traffic,19:00,-87.76,41.96,266
+39468,Jam-Heavy Traffic,19:00,-87.75,41.96,246
+39431,Jam-Heavy Traffic,19:00,-87.77,41.97,237
+39535,Jam-Heavy Traffic,19:00,-87.72,41.94,237
+39722,Jam-Heavy Traffic,19:00,-87.65,41.85,223
+39617,Jam-Heavy Traffic,19:00,-87.69,41.92,217
+40220,Jam-Heavy Traffic,20:00,-87.66,41.89,555
+40247,Jam-Heavy Traffic,20:00,-87.65,41.87,483
+40190,Jam-Heavy Traffic,20:00,-87.67,41.9,409
+40248,Jam-Heavy Traffic,20:00,-87.65,41.88,340
+39966,Jam-Heavy Traffic,20:00,-87.75,41.96,298
+40191,Jam-Heavy Traffic,20:00,-87.67,41.91,289
+40039,Jam-Heavy Traffic,20:00,-87.72,41.94,283
+40271,Jam-Heavy Traffic,20:00,-87.64,41.84,243
+39925,Jam-Heavy Traffic,20:00,-87.77,41.97,238
+40125,Jam-Heavy Traffic,20:00,-87.69,41.92,235
+40800,Jam-Heavy Traffic,21:00,-87.65,41.87,527
+40771,Jam-Heavy Traffic,21:00,-87.66,41.89,469
+40740,Jam-Heavy Traffic,21:00,-87.67,41.9,423
+40618,Jam-Heavy Traffic,21:00,-87.71,41.93,385
+40801,Jam-Heavy Traffic,21:00,-87.65,41.88,380
+40519,Jam-Heavy Traffic,21:00,-87.75,41.96,327
+40741,Jam-Heavy Traffic,21:00,-87.67,41.91,309
+40494,Jam-Heavy Traffic,21:00,-87.76,41.96,263
+40617,Jam-Heavy Traffic,21:00,-87.71,41.92,259
+40676,Jam-Heavy Traffic,21:00,-87.69,41.92,256
+41344,Jam-Heavy Traffic,22:00,-87.65,41.87,529
+41319,Jam-Heavy Traffic,22:00,-87.66,41.89,487
+41345,Jam-Heavy Traffic,22:00,-87.65,41.88,414
+41293,Jam-Heavy Traffic,22:00,-87.67,41.9,322
+41294,Jam-Heavy Traffic,22:00,-87.67,41.91,270
+41079,Jam-Heavy Traffic,22:00,-87.75,41.96,258
+41056,Jam-Heavy Traffic,22:00,-87.76,41.96,240
+41233,Jam-Heavy Traffic,22:00,-87.69,41.92,224
+41041,Jam-Heavy Traffic,22:00,-87.77,41.97,213
+41175,Jam-Heavy Traffic,22:00,-87.71,41.93,213
+41832,Jam-Heavy Traffic,23:00,-87.65,41.87,345
+41811,Jam-Heavy Traffic,23:00,-87.66,41.89,332
+41791,Jam-Heavy Traffic,23:00,-87.67,41.9,270
+41833,Jam-Heavy Traffic,23:00,-87.65,41.88,263
+41663,Jam-Heavy Traffic,23:00,-87.72,41.94,224
+41577,Jam-Heavy Traffic,23:00,-87.76,41.96,223
+41562,Jam-Heavy Traffic,23:00,-87.77,41.97,214
+41532,Jam-Heavy Traffic,23:00,-87.79,41.98,202
+41495,Jam-Heavy Traffic,23:00,-87.82,41.98,196
+41792,Jam-Heavy Traffic,23:00,-87.67,41.91,196
+41941,Jam-Light Traffic,16:00,-87.81,41.92,1
+41942,Jam-Light Traffic,19:00,-87.62,41.85,1
+41943,Jam-Light Traffic,20:00,-87.63,41.88,1
+41944,Jam-Light Traffic,21:00,-87.72,41.83,1
+41945,Jam-Light Traffic,21:00,-87.63,41.88,1
+41970,Jam-Moderate Traffic,00:00,-87.75,41.96,10
+42011,Jam-Moderate Traffic,00:00,-87.7,41.97,9
+42018,Jam-Moderate Traffic,00:00,-87.69,41.92,9
+42021,Jam-Moderate Traffic,00:00,-87.69,41.96,7
+42040,Jam-Moderate Traffic,00:00,-87.67,41.91,7
+42039,Jam-Moderate Traffic,00:00,-87.67,41.9,6
+42046,Jam-Moderate Traffic,00:00,-87.66,41.84,6
+42048,Jam-Moderate Traffic,00:00,-87.66,41.89,6
+42055,Jam-Moderate Traffic,00:00,-87.65,41.85,6
+42070,Jam-Moderate Traffic,00:00,-87.64,41.83,6
+42156,Jam-Moderate Traffic,01:00,-87.67,41.94,7
+42154,Jam-Moderate Traffic,01:00,-87.67,41.91,6
+42157,Jam-Moderate Traffic,01:00,-87.67,41.98,6
+42116,Jam-Moderate Traffic,01:00,-87.74,41.95,5
+42118,Jam-Moderate Traffic,01:00,-87.73,41.82,5
+42130,Jam-Moderate Traffic,01:00,-87.71,41.94,5
+42142,Jam-Moderate Traffic,01:00,-87.69,41.94,5
+42159,Jam-Moderate Traffic,01:00,-87.66,41.84,5
+42114,Jam-Moderate Traffic,01:00,-87.75,41.96,4
+42147,Jam-Moderate Traffic,01:00,-87.68,41.92,4
+42232,Jam-Moderate Traffic,02:00,-87.65,41.95,5
+42203,Jam-Moderate Traffic,02:00,-87.73,41.97,3
+42207,Jam-Moderate Traffic,02:00,-87.7,41.87,3
+42225,Jam-Moderate Traffic,02:00,-87.66,41.89,3
+42229,Jam-Moderate Traffic,02:00,-87.65,41.88,3
+42231,Jam-Moderate Traffic,02:00,-87.65,41.94,3
+42195,Jam-Moderate Traffic,02:00,-87.76,41.98,2
+42200,Jam-Moderate Traffic,02:00,-87.73,41.87,2
+42216,Jam-Moderate Traffic,02:00,-87.68,41.93,2
+42220,Jam-Moderate Traffic,02:00,-87.67,41.9,2
+42248,Jam-Moderate Traffic,03:00,-87.77,41.87,4
+42268,Jam-Moderate Traffic,03:00,-87.66,41.89,3
+42247,Jam-Moderate Traffic,03:00,-87.8,41.98,2
+42250,Jam-Moderate Traffic,03:00,-87.76,41.87,2
+42253,Jam-Moderate Traffic,03:00,-87.74,41.95,2
+42259,Jam-Moderate Traffic,03:00,-87.69,41.94,2
+42264,Jam-Moderate Traffic,03:00,-87.67,41.91,2
+42267,Jam-Moderate Traffic,03:00,-87.66,41.87,2
+42274,Jam-Moderate Traffic,03:00,-87.65,41.94,2
+42245,Jam-Moderate Traffic,03:00,-87.82,41.98,1
+42286,Jam-Moderate Traffic,04:00,-87.75,41.97,3
+42307,Jam-Moderate Traffic,04:00,-87.65,41.88,3
+42284,Jam-Moderate Traffic,04:00,-87.77,41.97,2
+42291,Jam-Moderate Traffic,04:00,-87.72,41.94,2
+42292,Jam-Moderate Traffic,04:00,-87.72,41.95,2
+42298,Jam-Moderate Traffic,04:00,-87.69,41.97,2
+42301,Jam-Moderate Traffic,04:00,-87.68,41.92,2
+42303,Jam-Moderate Traffic,04:00,-87.66,41.89,2
+42281,Jam-Moderate Traffic,04:00,-87.82,41.98,1
+42282,Jam-Moderate Traffic,04:00,-87.78,41.87,1
+42325,Jam-Moderate Traffic,05:00,-87.63,41.88,4
+42317,Jam-Moderate Traffic,05:00,-87.69,41.99,3
+42323,Jam-Moderate Traffic,05:00,-87.64,41.89,2
+42313,Jam-Moderate Traffic,05:00,-87.76,41.96,1
+42314,Jam-Moderate Traffic,05:00,-87.75,41.97,1
+42315,Jam-Moderate Traffic,05:00,-87.7,41.93,1
+42316,Jam-Moderate Traffic,05:00,-87.69,41.98,1
+42318,Jam-Moderate Traffic,05:00,-87.67,41.91,1
+42319,Jam-Moderate Traffic,05:00,-87.66,41.89,1
+42320,Jam-Moderate Traffic,05:00,-87.66,41.94,1
+42328,Jam-Moderate Traffic,06:00,-87.74,41.82,1
+42329,Jam-Moderate Traffic,06:00,-87.67,41.74,1
+42330,Jam-Moderate Traffic,08:00,-87.75,41.81,1
+42331,Jam-Moderate Traffic,09:00,-87.61,41.71,1
+42344,Jam-Moderate Traffic,10:00,-87.64,41.83,3
+42333,Jam-Moderate Traffic,10:00,-87.76,41.96,2
+42340,Jam-Moderate Traffic,10:00,-87.66,41.84,2
+42346,Jam-Moderate Traffic,10:00,-87.63,41.73,2
+42347,Jam-Moderate Traffic,10:00,-87.63,41.74,2
+42332,Jam-Moderate Traffic,10:00,-87.77,41.97,1
+42334,Jam-Moderate Traffic,10:00,-87.75,41.81,1
+42335,Jam-Moderate Traffic,10:00,-87.75,41.98,1
+42336,Jam-Moderate Traffic,10:00,-87.74,41.95,1
+42337,Jam-Moderate Traffic,10:00,-87.72,41.97,1
+42389,Jam-Moderate Traffic,11:00,-87.63,41.71,7
+42361,Jam-Moderate Traffic,11:00,-87.74,41.81,5
+42378,Jam-Moderate Traffic,11:00,-87.66,41.84,5
+42390,Jam-Moderate Traffic,11:00,-87.63,41.72,5
+42366,Jam-Moderate Traffic,11:00,-87.72,41.82,4
+42391,Jam-Moderate Traffic,11:00,-87.63,41.73,4
+42392,Jam-Moderate Traffic,11:00,-87.63,41.74,3
+42393,Jam-Moderate Traffic,11:00,-87.63,41.75,3
+42354,Jam-Moderate Traffic,11:00,-87.78,41.87,2
+42355,Jam-Moderate Traffic,11:00,-87.78,41.97,2
+42415,Jam-Moderate Traffic,12:00,-87.79,41.98,9
+42468,Jam-Moderate Traffic,12:00,-87.67,41.87,8
+42490,Jam-Moderate Traffic,12:00,-87.64,41.83,8
+42406,Jam-Moderate Traffic,12:00,-87.82,41.98,6
+42412,Jam-Moderate Traffic,12:00,-87.8,41.98,6
+42418,Jam-Moderate Traffic,12:00,-87.78,41.97,6
+42465,Jam-Moderate Traffic,12:00,-87.68,41.92,6
+42475,Jam-Moderate Traffic,12:00,-87.66,41.89,6
+42496,Jam-Moderate Traffic,12:00,-87.63,41.72,6
+42409,Jam-Moderate Traffic,12:00,-87.81,41.98,5
+42663,Jam-Moderate Traffic,13:00,-87.66,41.89,12
+42603,Jam-Moderate Traffic,13:00,-87.71,41.93,11
+42564,Jam-Moderate Traffic,13:00,-87.75,41.96,10
+42652,Jam-Moderate Traffic,13:00,-87.67,41.9,9
+42653,Jam-Moderate Traffic,13:00,-87.67,41.91,9
+42599,Jam-Moderate Traffic,13:00,-87.71,41.89,8
+42693,Jam-Moderate Traffic,13:00,-87.64,41.92,8
+42593,Jam-Moderate Traffic,13:00,-87.71,41.82,7
+42608,Jam-Moderate Traffic,13:00,-87.7,41.89,7
+42565,Jam-Moderate Traffic,13:00,-87.75,41.97,6
+42818,Jam-Moderate Traffic,14:00,-87.67,41.9,10
+42790,Jam-Moderate Traffic,14:00,-87.7,41.93,8
+42723,Jam-Moderate Traffic,14:00,-87.8,41.98,7
+42756,Jam-Moderate Traffic,14:00,-87.74,41.87,7
+42749,Jam-Moderate Traffic,14:00,-87.75,41.96,6
+42784,Jam-Moderate Traffic,14:00,-87.71,41.97,5
+42831,Jam-Moderate Traffic,14:00,-87.66,41.89,5
+42834,Jam-Moderate Traffic,14:00,-87.66,41.94,5
+42838,Jam-Moderate Traffic,14:00,-87.65,41.85,5
+42841,Jam-Moderate Traffic,14:00,-87.65,41.88,5
+42897,Jam-Moderate Traffic,15:00,-87.79,41.98,7
+42896,Jam-Moderate Traffic,15:00,-87.8,41.98,6
+42899,Jam-Moderate Traffic,15:00,-87.78,41.97,6
+42957,Jam-Moderate Traffic,15:00,-87.65,41.84,6
+42966,Jam-Moderate Traffic,15:00,-87.64,41.89,5
+42933,Jam-Moderate Traffic,15:00,-87.69,41.92,4
+42954,Jam-Moderate Traffic,15:00,-87.66,41.89,4
+42971,Jam-Moderate Traffic,15:00,-87.63,41.74,4
+42978,Jam-Moderate Traffic,15:00,-87.62,41.71,4
+42892,Jam-Moderate Traffic,15:00,-87.82,41.98,3
+43047,Jam-Moderate Traffic,16:00,-87.67,41.91,8
+42995,Jam-Moderate Traffic,16:00,-87.78,41.97,5
+42996,Jam-Moderate Traffic,16:00,-87.77,41.87,5
+43033,Jam-Moderate Traffic,16:00,-87.69,41.92,5
+43046,Jam-Moderate Traffic,16:00,-87.67,41.9,5
+43059,Jam-Moderate Traffic,16:00,-87.65,41.85,5
+42987,Jam-Moderate Traffic,16:00,-87.82,41.98,4
+43010,Jam-Moderate Traffic,16:00,-87.74,41.82,4
+43028,Jam-Moderate Traffic,16:00,-87.7,41.93,4
+43040,Jam-Moderate Traffic,16:00,-87.68,41.93,4
+43125,Jam-Moderate Traffic,17:00,-87.72,41.94,9
+43098,Jam-Moderate Traffic,17:00,-87.8,41.98,7
+43150,Jam-Moderate Traffic,17:00,-87.68,41.92,6
+43166,Jam-Moderate Traffic,17:00,-87.66,41.89,5
+43100,Jam-Moderate Traffic,17:00,-87.79,41.98,4
+43151,Jam-Moderate Traffic,17:00,-87.68,41.93,4
+43160,Jam-Moderate Traffic,17:00,-87.67,41.96,4
+43167,Jam-Moderate Traffic,17:00,-87.66,41.91,4
+43176,Jam-Moderate Traffic,17:00,-87.65,41.86,4
+43177,Jam-Moderate Traffic,17:00,-87.65,41.87,4
+43284,Jam-Moderate Traffic,18:00,-87.65,41.87,13
+43269,Jam-Moderate Traffic,18:00,-87.67,41.9,7
+43198,Jam-Moderate Traffic,18:00,-87.82,41.98,6
+43201,Jam-Moderate Traffic,18:00,-87.8,41.98,6
+43224,Jam-Moderate Traffic,18:00,-87.74,41.95,6
+43205,Jam-Moderate Traffic,18:00,-87.79,41.98,5
+43220,Jam-Moderate Traffic,18:00,-87.75,41.96,5
+43278,Jam-Moderate Traffic,18:00,-87.66,41.89,5
+43283,Jam-Moderate Traffic,18:00,-87.65,41.86,5
+43200,Jam-Moderate Traffic,18:00,-87.81,41.98,4
+43343,Jam-Moderate Traffic,19:00,-87.75,41.96,13
+43369,Jam-Moderate Traffic,19:00,-87.71,41.82,6
+43372,Jam-Moderate Traffic,19:00,-87.71,41.93,6
+43403,Jam-Moderate Traffic,19:00,-87.67,41.87,6
+43406,Jam-Moderate Traffic,19:00,-87.67,41.91,6
+43412,Jam-Moderate Traffic,19:00,-87.66,41.89,6
+43434,Jam-Moderate Traffic,19:00,-87.64,41.83,6
+43338,Jam-Moderate Traffic,19:00,-87.75,41.81,5
+43339,Jam-Moderate Traffic,19:00,-87.75,41.82,5
+43344,Jam-Moderate Traffic,19:00,-87.75,41.97,5
+43539,Jam-Moderate Traffic,20:00,-87.69,41.92,11
+43497,Jam-Moderate Traffic,20:00,-87.74,41.95,10
+43521,Jam-Moderate Traffic,20:00,-87.71,41.93,9
+43561,Jam-Moderate Traffic,20:00,-87.67,41.9,9
+43551,Jam-Moderate Traffic,20:00,-87.68,41.92,8
+43461,Jam-Moderate Traffic,20:00,-87.81,41.98,7
+43491,Jam-Moderate Traffic,20:00,-87.75,41.96,7
+43550,Jam-Moderate Traffic,20:00,-87.68,41.91,7
+43576,Jam-Moderate Traffic,20:00,-87.65,41.87,7
+43504,Jam-Moderate Traffic,20:00,-87.73,41.93,6
+43730,Jam-Moderate Traffic,21:00,-87.67,41.91,13
+43648,Jam-Moderate Traffic,21:00,-87.75,41.97,12
+43706,Jam-Moderate Traffic,21:00,-87.69,41.96,9
+43729,Jam-Moderate Traffic,21:00,-87.67,41.9,9
+43703,Jam-Moderate Traffic,21:00,-87.69,41.92,8
+43716,Jam-Moderate Traffic,21:00,-87.68,41.92,8
+43726,Jam-Moderate Traffic,21:00,-87.67,41.87,8
+43647,Jam-Moderate Traffic,21:00,-87.75,41.96,7
+43749,Jam-Moderate Traffic,21:00,-87.65,41.85,7
+43618,Jam-Moderate Traffic,21:00,-87.82,41.98,6
+43876,Jam-Moderate Traffic,22:00,-87.72,41.94,11
+43953,Jam-Moderate Traffic,22:00,-87.65,41.87,11
+43930,Jam-Moderate Traffic,22:00,-87.67,41.91,9
+43916,Jam-Moderate Traffic,22:00,-87.68,41.92,8
+43926,Jam-Moderate Traffic,22:00,-87.67,41.87,8
+43908,Jam-Moderate Traffic,22:00,-87.69,41.93,7
+43950,Jam-Moderate Traffic,22:00,-87.65,41.84,7
+43984,Jam-Moderate Traffic,22:00,-87.63,41.87,7
+43807,Jam-Moderate Traffic,22:00,-87.83,41.98,6
+43808,Jam-Moderate Traffic,22:00,-87.82,41.98,6
+44134,Jam-Moderate Traffic,23:00,-87.67,41.91,10
+44048,Jam-Moderate Traffic,23:00,-87.75,41.96,9
+44132,Jam-Moderate Traffic,23:00,-87.67,41.89,7
+44014,Jam-Moderate Traffic,23:00,-87.82,41.98,6
+44021,Jam-Moderate Traffic,23:00,-87.8,41.98,6
+44028,Jam-Moderate Traffic,23:00,-87.78,41.97,6
+44095,Jam-Moderate Traffic,23:00,-87.7,41.96,6
+44059,Jam-Moderate Traffic,23:00,-87.74,41.97,5
+44133,Jam-Moderate Traffic,23:00,-87.67,41.9,5
+44159,Jam-Moderate Traffic,23:00,-87.65,41.87,5
+44436,Jam-Stand-Still Traffic,00:00,-87.66,41.89,217
+44452,Jam-Stand-Still Traffic,00:00,-87.65,41.88,146
+44451,Jam-Stand-Still Traffic,00:00,-87.65,41.87,125
+44266,Jam-Stand-Still Traffic,00:00,-87.76,41.96,115
+44246,Jam-Stand-Still Traffic,00:00,-87.78,41.97,98
+44283,Jam-Stand-Still Traffic,00:00,-87.75,41.96,96
+44256,Jam-Stand-Still Traffic,00:00,-87.77,41.97,95
+44513,Jam-Stand-Still Traffic,00:00,-87.62,41.89,93
+44445,Jam-Stand-Still Traffic,00:00,-87.66,41.98,85
+44418,Jam-Stand-Still Traffic,00:00,-87.67,41.9,79
+44702,Jam-Stand-Still Traffic,01:00,-87.66,41.89,178
+44717,Jam-Stand-Still Traffic,01:00,-87.65,41.88,123
+44716,Jam-Stand-Still Traffic,01:00,-87.65,41.87,107
+44687,Jam-Stand-Still Traffic,01:00,-87.67,41.9,84
+44688,Jam-Stand-Still Traffic,01:00,-87.67,41.91,51
+44715,Jam-Stand-Still Traffic,01:00,-87.65,41.86,46
+44718,Jam-Stand-Still Traffic,01:00,-87.65,41.89,43
+44722,Jam-Stand-Still Traffic,01:00,-87.65,41.95,43
+44582,Jam-Stand-Still Traffic,01:00,-87.76,41.96,41
+44637,Jam-Stand-Still Traffic,01:00,-87.71,41.93,40
+44915,Jam-Stand-Still Traffic,02:00,-87.66,41.89,133
+44928,Jam-Stand-Still Traffic,02:00,-87.65,41.87,65
+44903,Jam-Stand-Still Traffic,02:00,-87.67,41.9,58
+44926,Jam-Stand-Still Traffic,02:00,-87.65,41.85,46
+44929,Jam-Stand-Still Traffic,02:00,-87.65,41.88,40
+44976,Jam-Stand-Still Traffic,02:00,-87.62,41.88,33
+44881,Jam-Stand-Still Traffic,02:00,-87.69,41.92,30
+44977,Jam-Stand-Still Traffic,02:00,-87.62,41.89,30
+44904,Jam-Stand-Still Traffic,02:00,-87.67,41.91,29
+44927,Jam-Stand-Still Traffic,02:00,-87.65,41.86,27
+45117,Jam-Stand-Still Traffic,03:00,-87.66,41.89,116
+45128,Jam-Stand-Still Traffic,03:00,-87.65,41.87,71
+45106,Jam-Stand-Still Traffic,03:00,-87.67,41.9,68
+45129,Jam-Stand-Still Traffic,03:00,-87.65,41.88,67
+45176,Jam-Stand-Still Traffic,03:00,-87.62,41.89,53
+45174,Jam-Stand-Still Traffic,03:00,-87.62,41.87,32
+45127,Jam-Stand-Still Traffic,03:00,-87.65,41.86,30
+45130,Jam-Stand-Still Traffic,03:00,-87.65,41.89,30
+45175,Jam-Stand-Still Traffic,03:00,-87.62,41.88,26
+45107,Jam-Stand-Still Traffic,03:00,-87.67,41.91,25
+45279,Jam-Stand-Still Traffic,04:00,-87.66,41.89,76
+45290,Jam-Stand-Still Traffic,04:00,-87.65,41.87,69
+45291,Jam-Stand-Still Traffic,04:00,-87.65,41.88,58
+45270,Jam-Stand-Still Traffic,04:00,-87.67,41.9,49
+45334,Jam-Stand-Still Traffic,04:00,-87.62,41.86,34
+45268,Jam-Stand-Still Traffic,04:00,-87.67,41.88,30
+45337,Jam-Stand-Still Traffic,04:00,-87.62,41.89,22
+45292,Jam-Stand-Still Traffic,04:00,-87.65,41.89,21
+45289,Jam-Stand-Still Traffic,04:00,-87.65,41.86,20
+45271,Jam-Stand-Still Traffic,04:00,-87.67,41.91,19
+45437,Jam-Stand-Still Traffic,05:00,-87.65,41.88,28
+45427,Jam-Stand-Still Traffic,05:00,-87.66,41.89,25
+45436,Jam-Stand-Still Traffic,05:00,-87.65,41.87,25
+45423,Jam-Stand-Still Traffic,05:00,-87.67,41.9,14
+45415,Jam-Stand-Still Traffic,05:00,-87.68,41.88,10
+45421,Jam-Stand-Still Traffic,05:00,-87.67,41.88,10
+45398,Jam-Stand-Still Traffic,05:00,-87.71,41.82,9
+45468,Jam-Stand-Still Traffic,05:00,-87.62,41.85,9
+45473,Jam-Stand-Still Traffic,05:00,-87.61,41.68,9
+45374,Jam-Stand-Still Traffic,05:00,-87.76,41.96,8
+45524,Jam-Stand-Still Traffic,06:00,-87.66,41.89,17
+45531,Jam-Stand-Still Traffic,06:00,-87.65,41.88,17
+45530,Jam-Stand-Still Traffic,06:00,-87.65,41.87,12
+45502,Jam-Stand-Still Traffic,06:00,-87.72,41.94,7
+45520,Jam-Stand-Still Traffic,06:00,-87.67,41.9,6
+45507,Jam-Stand-Still Traffic,06:00,-87.7,41.83,5
+45511,Jam-Stand-Still Traffic,06:00,-87.69,41.92,5
+45540,Jam-Stand-Still Traffic,06:00,-87.63,41.71,5
+45493,Jam-Stand-Still Traffic,06:00,-87.76,41.96,4
+45500,Jam-Stand-Still Traffic,06:00,-87.72,41.82,4
+45576,Jam-Stand-Still Traffic,07:00,-87.65,41.88,9
+45565,Jam-Stand-Still Traffic,07:00,-87.71,41.82,4
+45577,Jam-Stand-Still Traffic,07:00,-87.64,41.78,4
+45555,Jam-Stand-Still Traffic,07:00,-87.82,41.98,3
+45557,Jam-Stand-Still Traffic,07:00,-87.75,41.96,3
+45572,Jam-Stand-Still Traffic,07:00,-87.67,41.91,3
+45574,Jam-Stand-Still Traffic,07:00,-87.66,41.89,3
+45558,Jam-Stand-Still Traffic,07:00,-87.74,41.95,2
+45563,Jam-Stand-Still Traffic,07:00,-87.72,41.95,2
+45566,Jam-Stand-Still Traffic,07:00,-87.71,41.93,2
+45594,Jam-Stand-Still Traffic,08:00,-87.82,41.98,4
+45605,Jam-Stand-Still Traffic,08:00,-87.67,41.9,4
+45599,Jam-Stand-Still Traffic,08:00,-87.71,41.82,2
+45601,Jam-Stand-Still Traffic,08:00,-87.7,41.87,2
+45610,Jam-Stand-Still Traffic,08:00,-87.65,41.87,2
+45611,Jam-Stand-Still Traffic,08:00,-87.65,41.88,2
+45612,Jam-Stand-Still Traffic,08:00,-87.64,41.77,2
+45625,Jam-Stand-Still Traffic,08:00,-87.6,41.7,2
+45595,Jam-Stand-Still Traffic,08:00,-87.76,41.96,1
+45596,Jam-Stand-Still Traffic,08:00,-87.75,41.81,1
+45644,Jam-Stand-Still Traffic,09:00,-87.71,41.93,6
+45643,Jam-Stand-Still Traffic,09:00,-87.72,41.94,5
+45653,Jam-Stand-Still Traffic,09:00,-87.67,41.9,4
+45632,Jam-Stand-Still Traffic,09:00,-87.76,41.81,3
+45641,Jam-Stand-Still Traffic,09:00,-87.73,41.95,3
+45665,Jam-Stand-Still Traffic,09:00,-87.63,41.72,3
+45627,Jam-Stand-Still Traffic,09:00,-87.8,41.98,2
+45634,Jam-Stand-Still Traffic,09:00,-87.75,41.81,2
+45637,Jam-Stand-Still Traffic,09:00,-87.74,41.95,2
+45645,Jam-Stand-Still Traffic,09:00,-87.7,41.83,2
+45751,Jam-Stand-Still Traffic,10:00,-87.64,41.82,44
+45776,Jam-Stand-Still Traffic,10:00,-87.6,41.69,32
+45752,Jam-Stand-Still Traffic,10:00,-87.64,41.83,31
+45688,Jam-Stand-Still Traffic,10:00,-87.78,41.97,29
+45757,Jam-Stand-Still Traffic,10:00,-87.63,41.72,25
+45691,Jam-Stand-Still Traffic,10:00,-87.77,41.97,24
+45772,Jam-Stand-Still Traffic,10:00,-87.61,41.71,22
+45700,Jam-Stand-Still Traffic,10:00,-87.75,41.81,21
+45718,Jam-Stand-Still Traffic,10:00,-87.72,41.94,21
+45742,Jam-Stand-Still Traffic,10:00,-87.65,41.87,21
+45827,Jam-Stand-Still Traffic,11:00,-87.76,41.96,127
+45846,Jam-Stand-Still Traffic,11:00,-87.75,41.96,110
+45847,Jam-Stand-Still Traffic,11:00,-87.75,41.97,104
+45816,Jam-Stand-Still Traffic,11:00,-87.77,41.87,90
+45861,Jam-Stand-Still Traffic,11:00,-87.74,41.95,89
+45881,Jam-Stand-Still Traffic,11:00,-87.72,41.94,72
+45810,Jam-Stand-Still Traffic,11:00,-87.78,41.97,71
+45837,Jam-Stand-Still Traffic,11:00,-87.75,41.81,71
+45819,Jam-Stand-Still Traffic,11:00,-87.77,41.97,64
+45803,Jam-Stand-Still Traffic,11:00,-87.79,41.98,62
+46151,Jam-Stand-Still Traffic,12:00,-87.75,41.96,301
+46129,Jam-Stand-Still Traffic,12:00,-87.76,41.96,257
+46172,Jam-Stand-Still Traffic,12:00,-87.74,41.95,247
+46215,Jam-Stand-Still Traffic,12:00,-87.72,41.94,238
+46348,Jam-Stand-Still Traffic,12:00,-87.67,41.98,228
+46103,Jam-Stand-Still Traffic,12:00,-87.77,41.87,204
+46194,Jam-Stand-Still Traffic,12:00,-87.73,41.95,189
+46237,Jam-Stand-Still Traffic,12:00,-87.71,41.93,168
+46152,Jam-Stand-Still Traffic,12:00,-87.75,41.97,160
+46288,Jam-Stand-Still Traffic,12:00,-87.69,41.92,157
+46667,Jam-Stand-Still Traffic,13:00,-87.72,41.94,377
+46626,Jam-Stand-Still Traffic,13:00,-87.74,41.95,320
+46604,Jam-Stand-Still Traffic,13:00,-87.75,41.96,296
+46687,Jam-Stand-Still Traffic,13:00,-87.71,41.93,292
+46739,Jam-Stand-Still Traffic,13:00,-87.69,41.92,230
+46650,Jam-Stand-Still Traffic,13:00,-87.73,41.95,225
+46583,Jam-Stand-Still Traffic,13:00,-87.76,41.96,219
+46558,Jam-Stand-Still Traffic,13:00,-87.77,41.87,215
+46711,Jam-Stand-Still Traffic,13:00,-87.7,41.93,185
+46791,Jam-Stand-Still Traffic,13:00,-87.67,41.91,173
+47019,Jam-Stand-Still Traffic,14:00,-87.76,41.96,206
+47059,Jam-Stand-Still Traffic,14:00,-87.74,41.95,200
+47040,Jam-Stand-Still Traffic,14:00,-87.75,41.96,186
+47092,Jam-Stand-Still Traffic,14:00,-87.72,41.94,177
+47006,Jam-Stand-Still Traffic,14:00,-87.77,41.97,134
+47112,Jam-Stand-Still Traffic,14:00,-87.71,41.93,134
+47204,Jam-Stand-Still Traffic,14:00,-87.67,41.98,127
+47158,Jam-Stand-Still Traffic,14:00,-87.69,41.92,126
+47217,Jam-Stand-Still Traffic,14:00,-87.66,41.89,124
+47041,Jam-Stand-Still Traffic,14:00,-87.75,41.97,110
+47396,Jam-Stand-Still Traffic,15:00,-87.76,41.96,189
+47387,Jam-Stand-Still Traffic,15:00,-87.77,41.97,157
+47430,Jam-Stand-Still Traffic,15:00,-87.74,41.95,150
+47553,Jam-Stand-Still Traffic,15:00,-87.66,41.89,127
+47415,Jam-Stand-Still Traffic,15:00,-87.75,41.96,126
+47454,Jam-Stand-Still Traffic,15:00,-87.72,41.94,121
+47569,Jam-Stand-Still Traffic,15:00,-87.65,41.87,121
+47371,Jam-Stand-Still Traffic,15:00,-87.79,41.98,120
+47377,Jam-Stand-Still Traffic,15:00,-87.78,41.97,120
+47445,Jam-Stand-Still Traffic,15:00,-87.73,41.95,120
+47892,Jam-Stand-Still Traffic,16:00,-87.66,41.89,231
+47727,Jam-Stand-Still Traffic,16:00,-87.76,41.96,145
+47909,Jam-Stand-Still Traffic,16:00,-87.65,41.87,144
+47703,Jam-Stand-Still Traffic,16:00,-87.78,41.97,128
+47715,Jam-Stand-Still Traffic,16:00,-87.77,41.97,124
+47910,Jam-Stand-Still Traffic,16:00,-87.65,41.88,120
+47784,Jam-Stand-Still Traffic,16:00,-87.72,41.94,106
+47747,Jam-Stand-Still Traffic,16:00,-87.75,41.96,102
+47696,Jam-Stand-Still Traffic,16:00,-87.79,41.98,98
+47761,Jam-Stand-Still Traffic,16:00,-87.74,41.95,96
+48255,Jam-Stand-Still Traffic,17:00,-87.66,41.89,258
+48274,Jam-Stand-Still Traffic,17:00,-87.65,41.87,225
+48275,Jam-Stand-Still Traffic,17:00,-87.65,41.88,174
+48076,Jam-Stand-Still Traffic,17:00,-87.76,41.96,157
+48065,Jam-Stand-Still Traffic,17:00,-87.77,41.97,154
+48049,Jam-Stand-Still Traffic,17:00,-87.78,41.97,132
+48141,Jam-Stand-Still Traffic,17:00,-87.72,41.94,130
+48337,Jam-Stand-Still Traffic,17:00,-87.62,41.89,113
+48096,Jam-Stand-Still Traffic,17:00,-87.75,41.96,105
+48160,Jam-Stand-Still Traffic,17:00,-87.71,41.93,103
+48664,Jam-Stand-Still Traffic,18:00,-87.66,41.89,266
+48687,Jam-Stand-Still Traffic,18:00,-87.65,41.88,240
+48686,Jam-Stand-Still Traffic,18:00,-87.65,41.87,234
+48458,Jam-Stand-Still Traffic,18:00,-87.76,41.96,206
+48446,Jam-Stand-Still Traffic,18:00,-87.77,41.97,142
+48479,Jam-Stand-Still Traffic,18:00,-87.75,41.96,130
+48532,Jam-Stand-Still Traffic,18:00,-87.72,41.94,128
+48421,Jam-Stand-Still Traffic,18:00,-87.79,41.98,125
+48748,Jam-Stand-Still Traffic,18:00,-87.62,41.89,121
+48688,Jam-Stand-Still Traffic,18:00,-87.65,41.89,115
+49130,Jam-Stand-Still Traffic,19:00,-87.65,41.88,369
+49105,Jam-Stand-Still Traffic,19:00,-87.66,41.89,368
+49129,Jam-Stand-Still Traffic,19:00,-87.65,41.87,362
+48875,Jam-Stand-Still Traffic,19:00,-87.76,41.96,228
+49131,Jam-Stand-Still Traffic,19:00,-87.65,41.89,210
+48895,Jam-Stand-Still Traffic,19:00,-87.75,41.96,180
+48863,Jam-Stand-Still Traffic,19:00,-87.77,41.97,167
+49085,Jam-Stand-Still Traffic,19:00,-87.67,41.9,166
+49034,Jam-Stand-Still Traffic,19:00,-87.69,41.92,147
+48954,Jam-Stand-Still Traffic,19:00,-87.72,41.94,143
+49605,Jam-Stand-Still Traffic,20:00,-87.66,41.89,544
+49629,Jam-Stand-Still Traffic,20:00,-87.65,41.87,501
+49630,Jam-Stand-Still Traffic,20:00,-87.65,41.88,433
+49631,Jam-Stand-Still Traffic,20:00,-87.65,41.89,282
+49580,Jam-Stand-Still Traffic,20:00,-87.67,41.9,227
+49341,Jam-Stand-Still Traffic,20:00,-87.76,41.96,223
+49326,Jam-Stand-Still Traffic,20:00,-87.77,41.97,210
+49365,Jam-Stand-Still Traffic,20:00,-87.75,41.96,210
+49581,Jam-Stand-Still Traffic,20:00,-87.67,41.91,187
+49697,Jam-Stand-Still Traffic,20:00,-87.62,41.89,185
+50124,Jam-Stand-Still Traffic,21:00,-87.66,41.89,710
+50146,Jam-Stand-Still Traffic,21:00,-87.65,41.87,593
+50147,Jam-Stand-Still Traffic,21:00,-87.65,41.88,583
+50148,Jam-Stand-Still Traffic,21:00,-87.65,41.89,409
+50098,Jam-Stand-Still Traffic,21:00,-87.67,41.9,310
+50099,Jam-Stand-Still Traffic,21:00,-87.67,41.91,284
+50126,Jam-Stand-Still Traffic,21:00,-87.66,41.91,275
+50125,Jam-Stand-Still Traffic,21:00,-87.66,41.9,269
+49862,Jam-Stand-Still Traffic,21:00,-87.76,41.96,247
+49884,Jam-Stand-Still Traffic,21:00,-87.75,41.96,229
+50635,Jam-Stand-Still Traffic,22:00,-87.66,41.89,675
+50657,Jam-Stand-Still Traffic,22:00,-87.65,41.87,636
+50658,Jam-Stand-Still Traffic,22:00,-87.65,41.88,621
+50659,Jam-Stand-Still Traffic,22:00,-87.65,41.89,479
+50637,Jam-Stand-Still Traffic,22:00,-87.66,41.91,337
+50636,Jam-Stand-Still Traffic,22:00,-87.66,41.9,322
+50613,Jam-Stand-Still Traffic,22:00,-87.67,41.9,319
+50614,Jam-Stand-Still Traffic,22:00,-87.67,41.91,287
+50685,Jam-Stand-Still Traffic,22:00,-87.64,41.88,283
+50727,Jam-Stand-Still Traffic,22:00,-87.62,41.89,278
+51106,Jam-Stand-Still Traffic,23:00,-87.66,41.89,408
+51128,Jam-Stand-Still Traffic,23:00,-87.65,41.88,372
+51127,Jam-Stand-Still Traffic,23:00,-87.65,41.87,348
+51129,Jam-Stand-Still Traffic,23:00,-87.65,41.89,224
+50870,Jam-Stand-Still Traffic,23:00,-87.77,41.97,204
+50905,Jam-Stand-Still Traffic,23:00,-87.75,41.96,202
+50885,Jam-Stand-Still Traffic,23:00,-87.76,41.96,197
+51083,Jam-Stand-Still Traffic,23:00,-87.67,41.9,192
+51196,Jam-Stand-Still Traffic,23:00,-87.62,41.89,191
+50842,Jam-Stand-Still Traffic,23:00,-87.79,41.98,184
+51496,Jam-Unclassified,00:00,-87.66,41.89,70
+51522,Jam-Unclassified,00:00,-87.65,41.88,58
+51476,Jam-Unclassified,00:00,-87.67,41.9,45
+51407,Jam-Unclassified,00:00,-87.7,41.93,41
+51521,Jam-Unclassified,00:00,-87.65,41.87,39
+51427,Jam-Unclassified,00:00,-87.69,41.92,38
+51271,Jam-Unclassified,00:00,-87.79,41.98,35
+51265,Jam-Unclassified,00:00,-87.8,41.98,31
+51294,Jam-Unclassified,00:00,-87.77,41.97,31
+51368,Jam-Unclassified,00:00,-87.72,41.94,30
+51851,Jam-Unclassified,01:00,-87.66,41.89,62
+51832,Jam-Unclassified,01:00,-87.67,41.9,47
+51871,Jam-Unclassified,01:00,-87.65,41.88,43
+51870,Jam-Unclassified,01:00,-87.65,41.87,32
+51793,Jam-Unclassified,01:00,-87.69,41.92,25
+51687,Jam-Unclassified,01:00,-87.76,41.96,24
+51702,Jam-Unclassified,01:00,-87.75,41.96,23
+51833,Jam-Unclassified,01:00,-87.67,41.91,23
+51926,Jam-Unclassified,01:00,-87.62,41.89,21
+51813,Jam-Unclassified,01:00,-87.68,41.92,20
+52150,Jam-Unclassified,02:00,-87.66,41.89,57
+52132,Jam-Unclassified,02:00,-87.67,41.9,38
+52171,Jam-Unclassified,02:00,-87.65,41.88,32
+52133,Jam-Unclassified,02:00,-87.67,41.91,20
+52170,Jam-Unclassified,02:00,-87.65,41.87,19
+52107,Jam-Unclassified,02:00,-87.69,41.92,17
+52224,Jam-Unclassified,02:00,-87.62,41.89,17
+52027,Jam-Unclassified,02:00,-87.75,41.96,16
+52169,Jam-Unclassified,02:00,-87.65,41.86,16
+52168,Jam-Unclassified,02:00,-87.65,41.85,14
+52402,Jam-Unclassified,03:00,-87.66,41.89,43
+52417,Jam-Unclassified,03:00,-87.65,41.87,29
+52418,Jam-Unclassified,03:00,-87.65,41.88,28
+52469,Jam-Unclassified,03:00,-87.62,41.89,25
+52386,Jam-Unclassified,03:00,-87.67,41.9,24
+52387,Jam-Unclassified,03:00,-87.67,41.91,21
+52416,Jam-Unclassified,03:00,-87.65,41.86,18
+52275,Jam-Unclassified,03:00,-87.77,41.87,16
+52268,Jam-Unclassified,03:00,-87.78,41.87,12
+52466,Jam-Unclassified,03:00,-87.62,41.86,12
+52644,Jam-Unclassified,04:00,-87.65,41.87,27
+52634,Jam-Unclassified,04:00,-87.66,41.89,19
+52645,Jam-Unclassified,04:00,-87.65,41.88,19
+52619,Jam-Unclassified,04:00,-87.67,41.9,15
+52620,Jam-Unclassified,04:00,-87.67,41.91,15
+52696,Jam-Unclassified,04:00,-87.62,41.89,13
+52643,Jam-Unclassified,04:00,-87.65,41.86,12
+52642,Jam-Unclassified,04:00,-87.65,41.85,10
+52692,Jam-Unclassified,04:00,-87.62,41.85,10
+52660,Jam-Unclassified,04:00,-87.64,41.84,9
+52804,Jam-Unclassified,05:00,-87.66,41.89,8
+52815,Jam-Unclassified,05:00,-87.65,41.87,8
+52816,Jam-Unclassified,05:00,-87.65,41.88,7
+52829,Jam-Unclassified,05:00,-87.64,41.88,6
+52840,Jam-Unclassified,05:00,-87.63,41.89,6
+52727,Jam-Unclassified,05:00,-87.8,41.98,5
+52784,Jam-Unclassified,05:00,-87.68,41.91,5
+52790,Jam-Unclassified,05:00,-87.67,41.87,5
+52793,Jam-Unclassified,05:00,-87.67,41.9,5
+52838,Jam-Unclassified,05:00,-87.63,41.87,5
+52934,Jam-Unclassified,06:00,-87.66,41.89,7
+52946,Jam-Unclassified,06:00,-87.65,41.88,7
+52968,Jam-Unclassified,06:00,-87.63,41.89,5
+52927,Jam-Unclassified,06:00,-87.67,41.9,4
+52913,Jam-Unclassified,06:00,-87.71,41.92,3
+52914,Jam-Unclassified,06:00,-87.71,41.93,3
+52951,Jam-Unclassified,06:00,-87.64,41.79,3
+52959,Jam-Unclassified,06:00,-87.64,41.89,3
+52965,Jam-Unclassified,06:00,-87.63,41.75,3
+52906,Jam-Unclassified,06:00,-87.72,41.78,2
+53040,Jam-Unclassified,07:00,-87.64,41.89,4
+53008,Jam-Unclassified,07:00,-87.7,41.74,3
+52986,Jam-Unclassified,07:00,-87.81,41.98,2
+53002,Jam-Unclassified,07:00,-87.72,41.87,2
+53004,Jam-Unclassified,07:00,-87.71,41.74,2
+53007,Jam-Unclassified,07:00,-87.71,41.99,2
+53015,Jam-Unclassified,07:00,-87.68,41.92,2
+53017,Jam-Unclassified,07:00,-87.67,41.83,2
+53019,Jam-Unclassified,07:00,-87.67,41.91,2
+53025,Jam-Unclassified,07:00,-87.66,41.93,2
+53104,Jam-Unclassified,08:00,-87.65,41.88,6
+53067,Jam-Unclassified,08:00,-87.75,41.79,2
+53086,Jam-Unclassified,08:00,-87.7,41.83,2
+53092,Jam-Unclassified,08:00,-87.68,41.91,2
+53094,Jam-Unclassified,08:00,-87.67,41.87,2
+53096,Jam-Unclassified,08:00,-87.67,41.91,2
+53114,Jam-Unclassified,08:00,-87.63,41.75,2
+53118,Jam-Unclassified,08:00,-87.62,41.88,2
+53059,Jam-Unclassified,08:00,-87.91,41.97,1
+53060,Jam-Unclassified,08:00,-87.89,41.97,1
+53177,Jam-Unclassified,09:00,-87.65,41.84,5
+53200,Jam-Unclassified,09:00,-87.6,41.69,4
+53148,Jam-Unclassified,09:00,-87.7,41.87,3
+53166,Jam-Unclassified,09:00,-87.67,41.91,3
+53180,Jam-Unclassified,09:00,-87.65,41.87,3
+53181,Jam-Unclassified,09:00,-87.65,41.88,3
+53130,Jam-Unclassified,09:00,-87.81,41.93,2
+53131,Jam-Unclassified,09:00,-87.81,41.98,2
+53132,Jam-Unclassified,09:00,-87.8,41.98,2
+53134,Jam-Unclassified,09:00,-87.75,41.78,2
+53337,Jam-Unclassified,10:00,-87.64,41.83,29
+53343,Jam-Unclassified,10:00,-87.63,41.72,29
+53346,Jam-Unclassified,10:00,-87.63,41.75,28
+53224,Jam-Unclassified,10:00,-87.79,41.98,23
+53344,Jam-Unclassified,10:00,-87.63,41.73,23
+53345,Jam-Unclassified,10:00,-87.63,41.74,22
+53369,Jam-Unclassified,10:00,-87.6,41.69,20
+53370,Jam-Unclassified,10:00,-87.6,41.7,19
+53222,Jam-Unclassified,10:00,-87.8,41.98,18
+53336,Jam-Unclassified,10:00,-87.64,41.82,18
+53609,Jam-Unclassified,11:00,-87.65,41.88,56
+53458,Jam-Unclassified,11:00,-87.75,41.96,46
+53420,Jam-Unclassified,11:00,-87.78,41.97,42
+53459,Jam-Unclassified,11:00,-87.75,41.97,39
+53412,Jam-Unclassified,11:00,-87.79,41.98,38
+53571,Jam-Unclassified,11:00,-87.67,41.9,35
+53440,Jam-Unclassified,11:00,-87.76,41.96,32
+53626,Jam-Unclassified,11:00,-87.64,41.83,31
+53471,Jam-Unclassified,11:00,-87.74,41.95,30
+53404,Jam-Unclassified,11:00,-87.8,41.98,29
+53866,Jam-Unclassified,12:00,-87.72,41.94,54
+53797,Jam-Unclassified,12:00,-87.75,41.96,52
+53888,Jam-Unclassified,12:00,-87.71,41.93,45
+53843,Jam-Unclassified,12:00,-87.73,41.95,44
+53940,Jam-Unclassified,12:00,-87.69,41.92,43
+53817,Jam-Unclassified,12:00,-87.74,41.95,42
+53992,Jam-Unclassified,12:00,-87.67,41.9,42
+54037,Jam-Unclassified,12:00,-87.65,41.85,42
+53889,Jam-Unclassified,12:00,-87.71,41.94,40
+53798,Jam-Unclassified,12:00,-87.75,41.97,38
+54259,Jam-Unclassified,13:00,-87.75,41.96,58
+54319,Jam-Unclassified,13:00,-87.72,41.94,51
+54341,Jam-Unclassified,13:00,-87.71,41.93,51
+54437,Jam-Unclassified,13:00,-87.67,41.91,51
+54237,Jam-Unclassified,13:00,-87.76,41.96,45
+54485,Jam-Unclassified,13:00,-87.65,41.87,41
+54486,Jam-Unclassified,13:00,-87.65,41.88,41
+54388,Jam-Unclassified,13:00,-87.69,41.92,40
+54436,Jam-Unclassified,13:00,-87.67,41.9,40
+54226,Jam-Unclassified,13:00,-87.77,41.97,39
+54870,Jam-Unclassified,14:00,-87.67,41.9,54
+54871,Jam-Unclassified,14:00,-87.67,41.91,48
+54700,Jam-Unclassified,14:00,-87.75,41.97,46
+54668,Jam-Unclassified,14:00,-87.77,41.97,44
+54755,Jam-Unclassified,14:00,-87.72,41.94,44
+54891,Jam-Unclassified,14:00,-87.66,41.89,42
+54776,Jam-Unclassified,14:00,-87.71,41.93,39
+54699,Jam-Unclassified,14:00,-87.75,41.96,38
+54825,Jam-Unclassified,14:00,-87.69,41.92,38
+54682,Jam-Unclassified,14:00,-87.76,41.96,35
+55297,Jam-Unclassified,15:00,-87.66,41.89,73
+55064,Jam-Unclassified,15:00,-87.79,41.98,72
+55276,Jam-Unclassified,15:00,-87.67,41.9,43
+55080,Jam-Unclassified,15:00,-87.77,41.97,42
+55072,Jam-Unclassified,15:00,-87.78,41.97,39
+55055,Jam-Unclassified,15:00,-87.8,41.98,38
+55142,Jam-Unclassified,15:00,-87.73,41.82,38
+55339,Jam-Unclassified,15:00,-87.64,41.84,37
+55321,Jam-Unclassified,15:00,-87.65,41.87,36
+55322,Jam-Unclassified,15:00,-87.65,41.88,36
+55705,Jam-Unclassified,16:00,-87.66,41.89,66
+55682,Jam-Unclassified,16:00,-87.67,41.9,65
+55457,Jam-Unclassified,16:00,-87.79,41.98,54
+55480,Jam-Unclassified,16:00,-87.77,41.97,53
+55582,Jam-Unclassified,16:00,-87.71,41.93,46
+55742,Jam-Unclassified,16:00,-87.64,41.83,43
+55446,Jam-Unclassified,16:00,-87.8,41.98,42
+55726,Jam-Unclassified,16:00,-87.65,41.88,42
+55469,Jam-Unclassified,16:00,-87.78,41.97,39
+55564,Jam-Unclassified,16:00,-87.72,41.94,39
+56129,Jam-Unclassified,17:00,-87.66,41.89,78
+56154,Jam-Unclassified,17:00,-87.65,41.88,66
+55880,Jam-Unclassified,17:00,-87.79,41.98,52
+55903,Jam-Unclassified,17:00,-87.77,41.97,51
+55916,Jam-Unclassified,17:00,-87.76,41.96,50
+56105,Jam-Unclassified,17:00,-87.67,41.9,50
+55887,Jam-Unclassified,17:00,-87.78,41.97,45
+56012,Jam-Unclassified,17:00,-87.71,41.93,45
+56151,Jam-Unclassified,17:00,-87.65,41.85,45
+56153,Jam-Unclassified,17:00,-87.65,41.87,43
+56598,Jam-Unclassified,18:00,-87.65,41.88,68
+56573,Jam-Unclassified,18:00,-87.66,41.89,60
+56597,Jam-Unclassified,18:00,-87.65,41.87,57
+56370,Jam-Unclassified,18:00,-87.75,41.96,54
+56664,Jam-Unclassified,18:00,-87.62,41.87,54
+56426,Jam-Unclassified,18:00,-87.72,41.94,51
+56351,Jam-Unclassified,18:00,-87.76,41.96,50
+56335,Jam-Unclassified,18:00,-87.77,41.97,49
+56550,Jam-Unclassified,18:00,-87.67,41.9,49
+56666,Jam-Unclassified,18:00,-87.62,41.89,46
+57030,Jam-Unclassified,19:00,-87.67,41.9,91
+57056,Jam-Unclassified,19:00,-87.66,41.89,89
+57085,Jam-Unclassified,19:00,-87.65,41.87,74
+57086,Jam-Unclassified,19:00,-87.65,41.88,70
+56828,Jam-Unclassified,19:00,-87.75,41.96,61
+56736,Jam-Unclassified,19:00,-87.82,41.98,55
+57084,Jam-Unclassified,19:00,-87.65,41.86,53
+56893,Jam-Unclassified,19:00,-87.72,41.94,52
+57083,Jam-Unclassified,19:00,-87.65,41.85,52
+57106,Jam-Unclassified,19:00,-87.64,41.84,52
+57570,Jam-Unclassified,20:00,-87.66,41.89,102
+57596,Jam-Unclassified,20:00,-87.65,41.87,83
+57485,Jam-Unclassified,20:00,-87.69,41.92,70
+57597,Jam-Unclassified,20:00,-87.65,41.88,70
+57545,Jam-Unclassified,20:00,-87.67,41.9,66
+57333,Jam-Unclassified,20:00,-87.75,41.96,62
+57546,Jam-Unclassified,20:00,-87.67,41.91,59
+57404,Jam-Unclassified,20:00,-87.72,41.94,58
+57353,Jam-Unclassified,20:00,-87.74,41.95,48
+57595,Jam-Unclassified,20:00,-87.65,41.86,47
+58088,Jam-Unclassified,21:00,-87.66,41.89,100
+58114,Jam-Unclassified,21:00,-87.65,41.87,100
+58063,Jam-Unclassified,21:00,-87.67,41.9,81
+57853,Jam-Unclassified,21:00,-87.75,41.96,69
+58115,Jam-Unclassified,21:00,-87.65,41.88,66
+57975,Jam-Unclassified,21:00,-87.7,41.93,58
+57922,Jam-Unclassified,21:00,-87.72,41.94,56
+58064,Jam-Unclassified,21:00,-87.67,41.91,54
+58033,Jam-Unclassified,21:00,-87.68,41.92,50
+58090,Jam-Unclassified,21:00,-87.66,41.91,49
+58611,Jam-Unclassified,22:00,-87.66,41.89,92
+58638,Jam-Unclassified,22:00,-87.65,41.87,91
+58639,Jam-Unclassified,22:00,-87.65,41.88,77
+58584,Jam-Unclassified,22:00,-87.67,41.91,67
+58583,Jam-Unclassified,22:00,-87.67,41.9,62
+58378,Jam-Unclassified,22:00,-87.75,41.96,54
+58357,Jam-Unclassified,22:00,-87.76,41.96,53
+58323,Jam-Unclassified,22:00,-87.78,41.97,50
+58497,Jam-Unclassified,22:00,-87.7,41.93,48
+58527,Jam-Unclassified,22:00,-87.69,41.92,47
+59088,Jam-Unclassified,23:00,-87.66,41.89,71
+59064,Jam-Unclassified,23:00,-87.67,41.91,55
+59063,Jam-Unclassified,23:00,-87.67,41.9,51
+59110,Jam-Unclassified,23:00,-87.65,41.87,51
+58859,Jam-Unclassified,23:00,-87.76,41.96,49
+59111,Jam-Unclassified,23:00,-87.65,41.88,49
+58831,Jam-Unclassified,23:00,-87.78,41.97,46
+58940,Jam-Unclassified,23:00,-87.72,41.94,46
+59013,Jam-Unclassified,23:00,-87.69,41.92,42
+58817,Jam-Unclassified,23:00,-87.79,41.98,40
+59239,Road_closed-Construction,00:00,-87.68,41.99,1
+59240,Road_closed-Construction,00:00,-87.66,41.9,1
+59241,Road_closed-Construction,00:00,-87.64,41.83,1
+59242,Road_closed-Construction,00:00,-87.64,41.84,1
+59243,Road_closed-Construction,01:00,-87.66,41.9,1
+59244,Road_closed-Construction,01:00,-87.66,41.94,1
+59245,Road_closed-Construction,01:00,-87.65,41.94,1
+59246,Road_closed-Construction,01:00,-87.65,41.97,1
+59247,Road_closed-Construction,01:00,-87.64,41.92,1
+59248,Road_closed-Construction,02:00,-87.74,41.95,1
+59249,Road_closed-Construction,02:00,-87.64,41.83,1
+59251,Road_closed-Construction,03:00,-87.65,41.88,3
+59250,Road_closed-Construction,03:00,-87.66,41.94,1
+59252,Road_closed-Construction,04:00,-87.66,41.85,1
+59253,Road_closed-Construction,06:00,-87.66,41.9,1
+59254,Road_closed-Construction,11:00,-87.75,41.96,1
+59256,Road_closed-Construction,12:00,-87.73,41.97,2
+59255,Road_closed-Construction,12:00,-87.74,41.96,1
+59257,Road_closed-Construction,12:00,-87.72,41.98,1
+59258,Road_closed-Construction,12:00,-87.71,41.93,1
+59259,Road_closed-Construction,12:00,-87.69,41.96,1
+59260,Road_closed-Construction,12:00,-87.66,41.9,1
+59261,Road_closed-Construction,12:00,-87.65,41.91,1
+59263,Road_closed-Construction,13:00,-87.77,41.94,2
+59264,Road_closed-Construction,13:00,-87.74,41.97,2
+59262,Road_closed-Construction,13:00,-87.78,41.96,1
+59265,Road_closed-Construction,13:00,-87.66,41.98,1
+59266,Road_closed-Construction,13:00,-87.64,41.87,1
+59273,Road_closed-Construction,14:00,-87.68,41.98,2
+59267,Road_closed-Construction,14:00,-87.79,41.94,1
+59268,Road_closed-Construction,14:00,-87.75,41.96,1
+59269,Road_closed-Construction,14:00,-87.74,41.94,1
+59270,Road_closed-Construction,14:00,-87.71,41.98,1
+59271,Road_closed-Construction,14:00,-87.69,41.88,1
+59272,Road_closed-Construction,14:00,-87.68,41.94,1
+59274,Road_closed-Construction,14:00,-87.68,41.99,1
+59275,Road_closed-Construction,14:00,-87.68,42.0,1
+59276,Road_closed-Construction,14:00,-87.66,41.85,1
+59279,Road_closed-Construction,15:00,-87.68,41.99,1
+59280,Road_closed-Construction,15:00,-87.68,42.01,1
+59281,Road_closed-Construction,15:00,-87.65,41.88,1
+59282,Road_closed-Construction,15:00,-87.64,41.85,1
+59283,Road_closed-Construction,15:00,-87.64,41.87,1
+59288,Road_closed-Construction,16:00,-87.67,41.94,2
+59284,Road_closed-Construction,16:00,-87.74,41.94,1
+59285,Road_closed-Construction,16:00,-87.7,41.96,1
+59286,Road_closed-Construction,16:00,-87.7,41.99,1
+59287,Road_closed-Construction,16:00,-87.68,42.01,1
+59289,Road_closed-Construction,16:00,-87.66,41.98,1
+59290,Road_closed-Construction,16:00,-87.61,41.67,1
+59291,Road_closed-Construction,17:00,-87.67,41.95,1
+59292,Road_closed-Construction,17:00,-87.66,41.85,1
+59293,Road_closed-Construction,17:00,-87.64,41.88,1
+59298,Road_closed-Construction,18:00,-87.66,41.9,2
+59294,Road_closed-Construction,18:00,-87.7,42.0,1
+59295,Road_closed-Construction,18:00,-87.68,42.01,1
+59296,Road_closed-Construction,18:00,-87.67,41.88,1
+59297,Road_closed-Construction,18:00,-87.66,41.89,1
+59299,Road_closed-Construction,18:00,-87.65,41.88,1
+59300,Road_closed-Construction,18:00,-87.64,41.92,1
+59301,Road_closed-Construction,18:00,-87.58,41.74,1
+59305,Road_closed-Construction,19:00,-87.7,41.96,2
+59310,Road_closed-Construction,19:00,-87.65,41.88,2
+59302,Road_closed-Construction,19:00,-87.76,41.94,1
+59303,Road_closed-Construction,19:00,-87.75,41.96,1
+59304,Road_closed-Construction,19:00,-87.73,41.89,1
+59306,Road_closed-Construction,19:00,-87.68,41.88,1
+59307,Road_closed-Construction,19:00,-87.67,41.92,1
+59308,Road_closed-Construction,19:00,-87.66,41.88,1
+59309,Road_closed-Construction,19:00,-87.66,41.94,1
+59311,Road_closed-Construction,20:00,-87.75,41.96,2
+59312,Road_closed-Construction,20:00,-87.74,41.97,1
+59313,Road_closed-Construction,20:00,-87.71,41.99,1
+59314,Road_closed-Construction,20:00,-87.7,41.96,1
+59315,Road_closed-Construction,20:00,-87.67,41.88,1
+59316,Road_closed-Construction,20:00,-87.67,41.94,1
+59317,Road_closed-Construction,20:00,-87.66,41.9,1
+59318,Road_closed-Construction,20:00,-87.64,41.87,1
+59319,Road_closed-Construction,20:00,-87.62,41.88,1
+59329,Road_closed-Construction,21:00,-87.65,41.88,4
+59321,Road_closed-Construction,21:00,-87.75,41.96,3
+59328,Road_closed-Construction,21:00,-87.66,41.9,3
+59330,Road_closed-Construction,21:00,-87.64,41.83,2
+59320,Road_closed-Construction,21:00,-87.76,41.96,1
+59322,Road_closed-Construction,21:00,-87.71,41.93,1
+59323,Road_closed-Construction,21:00,-87.69,41.88,1
+59324,Road_closed-Construction,21:00,-87.69,41.96,1
+59325,Road_closed-Construction,21:00,-87.68,41.76,1
+59326,Road_closed-Construction,21:00,-87.67,41.98,1
+59333,Road_closed-Construction,22:00,-87.71,41.91,1
+59334,Road_closed-Construction,22:00,-87.7,41.96,1
+59335,Road_closed-Construction,22:00,-87.65,41.88,1
+59336,Road_closed-Construction,22:00,-87.63,41.87,1
+59337,Road_closed-Construction,22:00,-87.58,41.67,1
+59339,Road_closed-Construction,23:00,-87.69,41.88,2
+59343,Road_closed-Construction,23:00,-87.66,41.9,2
+59344,Road_closed-Construction,23:00,-87.65,41.88,2
+59338,Road_closed-Construction,23:00,-87.75,41.94,1
+59340,Road_closed-Construction,23:00,-87.69,42.0,1
+59341,Road_closed-Construction,23:00,-87.68,41.76,1
+59342,Road_closed-Construction,23:00,-87.68,41.88,1
+59345,Road_closed-Construction,23:00,-87.59,41.81,1
+59346,Road_closed-Event,00:00,-87.75,41.96,654
+59353,Road_closed-Event,00:00,-87.65,41.88,438
+59369,Road_closed-Event,00:00,-87.6,41.69,218
+59357,Road_closed-Event,00:00,-87.64,41.83,216
+59356,Road_closed-Event,00:00,-87.64,41.71,215
+59352,Road_closed-Event,00:00,-87.66,41.98,18
+59364,Road_closed-Event,00:00,-87.63,41.87,6
+59354,Road_closed-Event,00:00,-87.65,41.94,5
+59358,Road_closed-Event,00:00,-87.64,41.88,5
+59360,Road_closed-Event,00:00,-87.64,41.92,5
+59371,Road_closed-Event,01:00,-87.75,41.96,642
+59391,Road_closed-Event,01:00,-87.65,41.88,435
+59396,Road_closed-Event,01:00,-87.64,41.71,214
+59415,Road_closed-Event,01:00,-87.6,41.69,214
+59397,Road_closed-Event,01:00,-87.64,41.83,213
+59409,Road_closed-Event,01:00,-87.63,41.88,52
+59408,Road_closed-Event,01:00,-87.63,41.87,51
+59399,Road_closed-Event,01:00,-87.64,41.87,27
+59374,Road_closed-Event,01:00,-87.69,41.69,26
+59400,Road_closed-Event,01:00,-87.64,41.88,26
+59418,Road_closed-Event,02:00,-87.75,41.96,580
+59433,Road_closed-Event,02:00,-87.65,41.88,396
+59461,Road_closed-Event,02:00,-87.6,41.69,195
+59440,Road_closed-Event,02:00,-87.64,41.83,192
+59439,Road_closed-Event,02:00,-87.64,41.71,190
+59431,Road_closed-Event,02:00,-87.65,41.86,50
+59417,Road_closed-Event,02:00,-87.8,41.99,19
+59443,Road_closed-Event,02:00,-87.64,41.92,19
+59429,Road_closed-Event,02:00,-87.66,41.98,16
+59451,Road_closed-Event,02:00,-87.63,41.91,15
+59467,Road_closed-Event,03:00,-87.75,41.96,564
+59485,Road_closed-Event,03:00,-87.65,41.88,371
+59491,Road_closed-Event,03:00,-87.64,41.71,191
+59492,Road_closed-Event,03:00,-87.64,41.83,188
+59508,Road_closed-Event,03:00,-87.6,41.69,186
+59487,Road_closed-Event,03:00,-87.65,41.93,50
+59488,Road_closed-Event,03:00,-87.65,41.94,44
+59480,Road_closed-Event,03:00,-87.66,41.95,18
+59497,Road_closed-Event,03:00,-87.64,41.93,17
+59489,Road_closed-Event,03:00,-87.65,41.95,14
+59510,Road_closed-Event,04:00,-87.75,41.96,657
+59526,Road_closed-Event,04:00,-87.65,41.88,444
+59530,Road_closed-Event,04:00,-87.64,41.71,220
+59531,Road_closed-Event,04:00,-87.64,41.83,219
+59547,Road_closed-Event,04:00,-87.6,41.69,219
+59520,Road_closed-Event,04:00,-87.66,41.96,19
+59516,Road_closed-Event,04:00,-87.67,41.96,17
+59525,Road_closed-Event,04:00,-87.65,41.87,12
+59544,Road_closed-Event,04:00,-87.62,41.86,11
+59533,Road_closed-Event,04:00,-87.64,41.92,10
+59551,Road_closed-Event,05:00,-87.75,41.96,660
+59557,Road_closed-Event,05:00,-87.65,41.88,443
+59561,Road_closed-Event,05:00,-87.64,41.71,220
+59562,Road_closed-Event,05:00,-87.64,41.83,220
+59575,Road_closed-Event,05:00,-87.6,41.69,220
+59569,Road_closed-Event,05:00,-87.63,41.88,20
+59566,Road_closed-Event,05:00,-87.64,41.93,10
+59565,Road_closed-Event,05:00,-87.64,41.92,9
+59568,Road_closed-Event,05:00,-87.63,41.87,6
+59570,Road_closed-Event,05:00,-87.63,41.91,6
+59577,Road_closed-Event,06:00,-87.75,41.96,590
+59583,Road_closed-Event,06:00,-87.65,41.88,402
+59596,Road_closed-Event,06:00,-87.6,41.69,199
+59586,Road_closed-Event,06:00,-87.64,41.83,198
+59585,Road_closed-Event,06:00,-87.64,41.71,194
+59579,Road_closed-Event,06:00,-87.66,41.89,4
+59582,Road_closed-Event,06:00,-87.65,41.87,4
+59588,Road_closed-Event,06:00,-87.64,41.92,4
+59589,Road_closed-Event,06:00,-87.64,41.93,3
+59580,Road_closed-Event,06:00,-87.66,41.9,2
+59599,Road_closed-Event,07:00,-87.75,41.96,557
+59604,Road_closed-Event,07:00,-87.65,41.88,358
+59605,Road_closed-Event,07:00,-87.64,41.71,188
+59606,Road_closed-Event,07:00,-87.64,41.83,187
+59611,Road_closed-Event,07:00,-87.6,41.69,185
+59601,Road_closed-Event,07:00,-87.68,41.88,25
+59602,Road_closed-Event,07:00,-87.67,41.88,11
+59603,Road_closed-Event,07:00,-87.66,41.89,2
+59609,Road_closed-Event,07:00,-87.63,41.76,2
+59597,Road_closed-Event,07:00,-87.83,41.98,1
+59612,Road_closed-Event,08:00,-87.75,41.96,657
+59616,Road_closed-Event,08:00,-87.65,41.88,438
+59619,Road_closed-Event,08:00,-87.64,41.71,219
+59620,Road_closed-Event,08:00,-87.64,41.83,219
+59625,Road_closed-Event,08:00,-87.6,41.69,219
+59613,Road_closed-Event,08:00,-87.68,41.88,4
+59615,Road_closed-Event,08:00,-87.66,41.98,2
+59618,Road_closed-Event,08:00,-87.65,41.97,2
+59622,Road_closed-Event,08:00,-87.64,41.92,2
+59623,Road_closed-Event,08:00,-87.63,41.74,2
+59627,Road_closed-Event,09:00,-87.75,41.96,654
+59628,Road_closed-Event,09:00,-87.65,41.88,436
+59629,Road_closed-Event,09:00,-87.64,41.71,218
+59630,Road_closed-Event,09:00,-87.64,41.83,218
+59634,Road_closed-Event,09:00,-87.6,41.69,218
+59631,Road_closed-Event,09:00,-87.64,41.92,2
+59632,Road_closed-Event,09:00,-87.63,41.74,2
+59633,Road_closed-Event,09:00,-87.63,41.91,1
+59636,Road_closed-Event,10:00,-87.75,41.96,579
+59637,Road_closed-Event,10:00,-87.65,41.88,388
+59645,Road_closed-Event,10:00,-87.6,41.69,192
+59639,Road_closed-Event,10:00,-87.64,41.83,191
+59638,Road_closed-Event,10:00,-87.64,41.71,190
+59641,Road_closed-Event,10:00,-87.63,41.87,4
+59640,Road_closed-Event,10:00,-87.64,41.92,2
+59642,Road_closed-Event,10:00,-87.63,41.91,2
+59635,Road_closed-Event,10:00,-87.75,41.94,1
+59643,Road_closed-Event,10:00,-87.62,41.86,1
+59648,Road_closed-Event,11:00,-87.75,41.96,556
+59653,Road_closed-Event,11:00,-87.65,41.88,368
+59656,Road_closed-Event,11:00,-87.64,41.71,189
+59657,Road_closed-Event,11:00,-87.64,41.83,186
+59669,Road_closed-Event,11:00,-87.6,41.69,184
+59664,Road_closed-Event,11:00,-87.63,41.87,10
+59651,Road_closed-Event,11:00,-87.66,41.97,6
+59650,Road_closed-Event,11:00,-87.67,41.83,2
+59655,Road_closed-Event,11:00,-87.65,41.96,2
+59659,Road_closed-Event,11:00,-87.64,41.92,2
+59672,Road_closed-Event,12:00,-87.75,41.96,645
+59688,Road_closed-Event,12:00,-87.65,41.88,430
+59703,Road_closed-Event,12:00,-87.6,41.69,216
+59690,Road_closed-Event,12:00,-87.64,41.71,215
+59691,Road_closed-Event,12:00,-87.64,41.83,215
+59678,Road_closed-Event,12:00,-87.68,41.88,52
+59677,Road_closed-Event,12:00,-87.68,41.87,37
+59699,Road_closed-Event,12:00,-87.63,41.87,18
+59676,Road_closed-Event,12:00,-87.68,41.86,4
+59686,Road_closed-Event,12:00,-87.66,41.98,3
+59704,Road_closed-Event,13:00,-87.75,41.96,653
+59721,Road_closed-Event,13:00,-87.65,41.88,434
+59743,Road_closed-Event,13:00,-87.6,41.69,219
+59725,Road_closed-Event,13:00,-87.64,41.71,218
+59726,Road_closed-Event,13:00,-87.64,41.83,217
+59733,Road_closed-Event,13:00,-87.63,41.87,29
+59708,Road_closed-Event,13:00,-87.7,41.85,10
+59720,Road_closed-Event,13:00,-87.66,41.97,6
+59732,Road_closed-Event,13:00,-87.63,41.86,6
+59735,Road_closed-Event,13:00,-87.63,41.89,6
+59746,Road_closed-Event,14:00,-87.75,41.96,590
+59768,Road_closed-Event,14:00,-87.65,41.88,399
+59787,Road_closed-Event,14:00,-87.6,41.69,199
+59771,Road_closed-Event,14:00,-87.64,41.71,193
+59772,Road_closed-Event,14:00,-87.64,41.83,192
+59758,Road_closed-Event,14:00,-87.68,41.88,35
+59779,Road_closed-Event,14:00,-87.63,41.87,16
+59784,Road_closed-Event,14:00,-87.62,41.88,9
+59761,Road_closed-Event,14:00,-87.67,41.88,7
+59786,Road_closed-Event,14:00,-87.61,41.76,6
+59792,Road_closed-Event,15:00,-87.75,41.96,568
+59812,Road_closed-Event,15:00,-87.65,41.88,376
+59815,Road_closed-Event,15:00,-87.64,41.71,194
+59816,Road_closed-Event,15:00,-87.64,41.83,191
+59831,Road_closed-Event,15:00,-87.6,41.69,190
+59823,Road_closed-Event,15:00,-87.63,41.87,10
+59808,Road_closed-Event,15:00,-87.66,41.94,6
+59829,Road_closed-Event,15:00,-87.62,41.88,6
+59794,Road_closed-Event,15:00,-87.74,41.85,4
+59809,Road_closed-Event,15:00,-87.66,41.97,4
+59834,Road_closed-Event,16:00,-87.75,41.96,665
+59846,Road_closed-Event,16:00,-87.65,41.88,443
+59851,Road_closed-Event,16:00,-87.64,41.83,288
+59849,Road_closed-Event,16:00,-87.64,41.71,223
+59866,Road_closed-Event,16:00,-87.6,41.69,223
+59857,Road_closed-Event,16:00,-87.63,41.87,21
+59850,Road_closed-Event,16:00,-87.64,41.82,18
+59858,Road_closed-Event,16:00,-87.63,41.88,5
+59844,Road_closed-Event,16:00,-87.65,41.82,4
+59856,Road_closed-Event,16:00,-87.63,41.86,4
+59874,Road_closed-Event,17:00,-87.75,41.96,664
+59894,Road_closed-Event,17:00,-87.65,41.88,443
+59895,Road_closed-Event,17:00,-87.64,41.71,222
+59914,Road_closed-Event,17:00,-87.6,41.69,222
+59896,Road_closed-Event,17:00,-87.64,41.83,220
+59903,Road_closed-Event,17:00,-87.63,41.87,32
+59881,Road_closed-Event,17:00,-87.69,41.69,26
+59904,Road_closed-Event,17:00,-87.63,41.88,19
+59872,Road_closed-Event,17:00,-87.79,41.79,18
+59910,Road_closed-Event,17:00,-87.62,41.88,16
+59917,Road_closed-Event,18:00,-87.75,41.96,601
+59924,Road_closed-Event,18:00,-87.65,41.88,410
+59943,Road_closed-Event,18:00,-87.6,41.69,202
+59928,Road_closed-Event,18:00,-87.64,41.83,198
+59925,Road_closed-Event,18:00,-87.64,41.71,197
+59935,Road_closed-Event,18:00,-87.63,41.87,16
+59941,Road_closed-Event,18:00,-87.62,41.88,7
+59934,Road_closed-Event,18:00,-87.63,41.86,5
+59942,Road_closed-Event,18:00,-87.62,41.89,5
+59938,Road_closed-Event,18:00,-87.62,41.79,4
+59947,Road_closed-Event,19:00,-87.75,41.96,586
+59962,Road_closed-Event,19:00,-87.65,41.88,375
+59965,Road_closed-Event,19:00,-87.64,41.83,267
+59963,Road_closed-Event,19:00,-87.64,41.71,202
+59983,Road_closed-Event,19:00,-87.6,41.69,199
+59972,Road_closed-Event,19:00,-87.63,41.87,41
+59958,Road_closed-Event,19:00,-87.66,41.85,21
+59964,Road_closed-Event,19:00,-87.64,41.82,18
+59974,Road_closed-Event,19:00,-87.63,41.9,8
+59957,Road_closed-Event,19:00,-87.67,41.85,7
+59984,Road_closed-Event,20:00,-87.75,41.96,693
+60001,Road_closed-Event,20:00,-87.65,41.88,461
+60022,Road_closed-Event,20:00,-87.6,41.69,236
+60004,Road_closed-Event,20:00,-87.64,41.71,229
+60005,Road_closed-Event,20:00,-87.64,41.83,224
+60011,Road_closed-Event,20:00,-87.63,41.87,12
+59988,Road_closed-Event,20:00,-87.7,41.89,8
+60017,Road_closed-Event,20:00,-87.62,41.88,7
+59997,Road_closed-Event,20:00,-87.66,41.98,6
+60010,Road_closed-Event,20:00,-87.63,41.86,5
+60024,Road_closed-Event,21:00,-87.75,41.96,681
+60039,Road_closed-Event,21:00,-87.65,41.88,451
+60051,Road_closed-Event,21:00,-87.6,41.69,229
+60042,Road_closed-Event,21:00,-87.64,41.71,227
+60043,Road_closed-Event,21:00,-87.64,41.83,226
+60046,Road_closed-Event,21:00,-87.63,41.87,42
+60026,Road_closed-Event,21:00,-87.67,41.86,10
+60045,Road_closed-Event,21:00,-87.63,41.86,8
+60033,Road_closed-Event,21:00,-87.66,41.96,4
+60050,Road_closed-Event,21:00,-87.62,41.87,4
+60054,Road_closed-Event,22:00,-87.75,41.96,579
+60064,Road_closed-Event,22:00,-87.65,41.88,391
+60083,Road_closed-Event,22:00,-87.6,41.69,194
+60068,Road_closed-Event,22:00,-87.64,41.83,191
+60067,Road_closed-Event,22:00,-87.64,41.71,190
+60073,Road_closed-Event,22:00,-87.63,41.87,17
+60066,Road_closed-Event,22:00,-87.65,41.95,7
+60065,Road_closed-Event,22:00,-87.65,41.94,6
+60072,Road_closed-Event,22:00,-87.63,41.86,4
+60071,Road_closed-Event,22:00,-87.64,41.94,3
+60086,Road_closed-Event,23:00,-87.75,41.96,562
+60095,Road_closed-Event,23:00,-87.65,41.88,368
+60098,Road_closed-Event,23:00,-87.64,41.71,191
+60099,Road_closed-Event,23:00,-87.64,41.83,184
+60110,Road_closed-Event,23:00,-87.6,41.69,183
+60105,Road_closed-Event,23:00,-87.63,41.87,11
+60093,Road_closed-Event,23:00,-87.66,41.98,4
+60104,Road_closed-Event,23:00,-87.63,41.86,4
+60096,Road_closed-Event,23:00,-87.65,41.94,3
+60109,Road_closed-Event,23:00,-87.62,41.88,3
+60111,Road_closed-Hazard,00:00,-87.73,41.98,1
+60112,Road_closed-Hazard,00:00,-87.64,41.83,1
+60113,Road_closed-Hazard,01:00,-87.75,41.98,1
+60114,Road_closed-Hazard,03:00,-87.65,41.88,1
+60115,Road_closed-Hazard,04:00,-87.68,41.83,1
+60116,Road_closed-Hazard,12:00,-87.66,41.99,1
+60117,Road_closed-Hazard,13:00,-87.73,41.97,1
+60118,Road_closed-Hazard,14:00,-87.63,41.88,1
+60119,Road_closed-Hazard,15:00,-87.68,41.76,1
+60121,Road_closed-Hazard,21:00,-87.67,41.98,2
+60120,Road_closed-Hazard,21:00,-87.67,41.92,1
+60122,Road_closed-Hazard,22:00,-87.71,41.76,1
+60214,Road_closed-Unclassified,00:00,-87.65,41.88,46
+60203,Road_closed-Unclassified,00:00,-87.66,41.9,34
+60206,Road_closed-Unclassified,00:00,-87.66,41.94,30
+60221,Road_closed-Unclassified,00:00,-87.64,41.83,16
+60235,Road_closed-Unclassified,00:00,-87.63,41.87,16
+60171,Road_closed-Unclassified,00:00,-87.69,41.88,15
+60246,Road_closed-Unclassified,00:00,-87.62,41.88,15
+60236,Road_closed-Unclassified,00:00,-87.63,41.88,13
+60237,Road_closed-Unclassified,00:00,-87.63,41.89,13
+60226,Road_closed-Unclassified,00:00,-87.64,41.89,11
+60322,Road_closed-Unclassified,01:00,-87.65,41.88,49
+60310,Road_closed-Unclassified,01:00,-87.66,41.9,24
+60314,Road_closed-Unclassified,01:00,-87.66,41.94,19
+60345,Road_closed-Unclassified,01:00,-87.63,41.89,15
+60300,Road_closed-Unclassified,01:00,-87.67,41.88,14
+60331,Road_closed-Unclassified,01:00,-87.64,41.83,14
+60343,Road_closed-Unclassified,01:00,-87.63,41.87,14
+60334,Road_closed-Unclassified,01:00,-87.64,41.89,12
+60286,Road_closed-Unclassified,01:00,-87.69,41.88,11
+60332,Road_closed-Unclassified,01:00,-87.64,41.87,11
+60433,Road_closed-Unclassified,02:00,-87.65,41.88,33
+60419,Road_closed-Unclassified,02:00,-87.66,41.94,18
+60453,Road_closed-Unclassified,02:00,-87.63,41.87,13
+60454,Road_closed-Unclassified,02:00,-87.63,41.88,12
+60424,Road_closed-Unclassified,02:00,-87.65,41.71,11
+60417,Road_closed-Unclassified,02:00,-87.66,41.9,10
+60462,Road_closed-Unclassified,02:00,-87.62,41.87,10
+60394,Road_closed-Unclassified,02:00,-87.68,41.87,9
+60395,Road_closed-Unclassified,02:00,-87.68,41.88,8
+60423,Road_closed-Unclassified,02:00,-87.66,41.98,7
+60535,Road_closed-Unclassified,03:00,-87.65,41.88,48
+60555,Road_closed-Unclassified,03:00,-87.63,41.88,15
+60528,Road_closed-Unclassified,03:00,-87.66,41.9,10
+60529,Road_closed-Unclassified,03:00,-87.66,41.94,10
+60515,Road_closed-Unclassified,03:00,-87.67,41.87,9
+60554,Road_closed-Unclassified,03:00,-87.63,41.87,9
+60516,Road_closed-Unclassified,03:00,-87.67,41.88,8
+60508,Road_closed-Unclassified,03:00,-87.68,41.9,6
+60533,Road_closed-Unclassified,03:00,-87.65,41.71,6
+60507,Road_closed-Unclassified,03:00,-87.68,41.88,5
+60618,Road_closed-Unclassified,04:00,-87.65,41.88,35
+60609,Road_closed-Unclassified,04:00,-87.66,41.9,11
+60590,Road_closed-Unclassified,04:00,-87.68,41.87,8
+60617,Road_closed-Unclassified,04:00,-87.65,41.87,7
+60631,Road_closed-Unclassified,04:00,-87.64,41.93,7
+60572,Road_closed-Unclassified,04:00,-87.74,41.95,6
+60582,Road_closed-Unclassified,04:00,-87.7,41.96,6
+60591,Road_closed-Unclassified,04:00,-87.68,41.88,6
+60598,Road_closed-Unclassified,04:00,-87.67,41.88,6
+60635,Road_closed-Unclassified,04:00,-87.63,41.87,6
+60688,Road_closed-Unclassified,05:00,-87.65,41.88,20
+60687,Road_closed-Unclassified,05:00,-87.65,41.87,11
+60669,Road_closed-Unclassified,05:00,-87.68,41.9,9
+60695,Road_closed-Unclassified,05:00,-87.64,41.89,9
+60667,Road_closed-Unclassified,05:00,-87.68,41.87,7
+60672,Road_closed-Unclassified,05:00,-87.67,41.88,5
+60665,Road_closed-Unclassified,05:00,-87.69,41.87,4
+60671,Road_closed-Unclassified,05:00,-87.67,41.87,4
+60679,Road_closed-Unclassified,05:00,-87.66,41.9,4
+60696,Road_closed-Unclassified,05:00,-87.64,41.92,4
+60737,Road_closed-Unclassified,06:00,-87.65,41.88,12
+60732,Road_closed-Unclassified,06:00,-87.66,41.94,6
+60752,Road_closed-Unclassified,06:00,-87.63,41.9,6
+60748,Road_closed-Unclassified,06:00,-87.64,41.93,5
+60751,Road_closed-Unclassified,06:00,-87.63,41.89,5
+60717,Road_closed-Unclassified,06:00,-87.69,41.87,4
+60754,Road_closed-Unclassified,06:00,-87.62,41.83,4
+60724,Road_closed-Unclassified,06:00,-87.67,41.88,3
+60731,Road_closed-Unclassified,06:00,-87.66,41.9,3
+60749,Road_closed-Unclassified,06:00,-87.64,41.94,3
+60771,Road_closed-Unclassified,07:00,-87.66,41.94,7
+60773,Road_closed-Unclassified,07:00,-87.65,41.88,6
+60781,Road_closed-Unclassified,07:00,-87.64,41.92,4
+60769,Road_closed-Unclassified,07:00,-87.66,41.85,3
+60783,Road_closed-Unclassified,07:00,-87.64,41.94,3
+60784,Road_closed-Unclassified,07:00,-87.63,41.9,3
+60760,Road_closed-Unclassified,07:00,-87.73,41.89,2
+60767,Road_closed-Unclassified,07:00,-87.67,41.9,2
+60770,Road_closed-Unclassified,07:00,-87.66,41.9,2
+60774,Road_closed-Unclassified,07:00,-87.65,41.89,2
+60796,Road_closed-Unclassified,08:00,-87.66,41.94,3
+60794,Road_closed-Unclassified,08:00,-87.66,41.85,2
+60803,Road_closed-Unclassified,08:00,-87.62,41.89,2
+60789,Road_closed-Unclassified,08:00,-87.74,41.95,1
+60790,Road_closed-Unclassified,08:00,-87.71,41.92,1
+60791,Road_closed-Unclassified,08:00,-87.7,41.96,1
+60792,Road_closed-Unclassified,08:00,-87.69,41.96,1
+60793,Road_closed-Unclassified,08:00,-87.66,41.75,1
+60795,Road_closed-Unclassified,08:00,-87.66,41.9,1
+60797,Road_closed-Unclassified,08:00,-87.65,41.88,1
+60804,Road_closed-Unclassified,09:00,-87.74,41.95,5
+60823,Road_closed-Unclassified,09:00,-87.62,41.89,5
+60809,Road_closed-Unclassified,09:00,-87.67,41.93,3
+60806,Road_closed-Unclassified,09:00,-87.68,41.88,2
+60811,Road_closed-Unclassified,09:00,-87.66,41.84,2
+60815,Road_closed-Unclassified,09:00,-87.65,41.88,2
+60820,Road_closed-Unclassified,09:00,-87.63,41.9,2
+60805,Road_closed-Unclassified,09:00,-87.7,41.77,1
+60807,Road_closed-Unclassified,09:00,-87.68,41.95,1
+60808,Road_closed-Unclassified,09:00,-87.67,41.87,1
+60847,Road_closed-Unclassified,10:00,-87.62,41.87,8
+60844,Road_closed-Unclassified,10:00,-87.63,41.87,4
+60827,Road_closed-Unclassified,10:00,-87.75,41.96,3
+60842,Road_closed-Unclassified,10:00,-87.64,41.84,3
+60845,Road_closed-Unclassified,10:00,-87.63,41.89,3
+60835,Road_closed-Unclassified,10:00,-87.67,41.7,2
+60836,Road_closed-Unclassified,10:00,-87.67,41.88,2
+60838,Road_closed-Unclassified,10:00,-87.66,41.94,2
+60840,Road_closed-Unclassified,10:00,-87.65,41.88,2
+60846,Road_closed-Unclassified,10:00,-87.62,41.84,2
+60905,Road_closed-Unclassified,11:00,-87.63,41.89,17
+60856,Road_closed-Unclassified,11:00,-87.75,41.96,9
+60881,Road_closed-Unclassified,11:00,-87.67,41.87,7
+60903,Road_closed-Unclassified,11:00,-87.63,41.87,6
+60908,Road_closed-Unclassified,11:00,-87.62,41.87,6
+60872,Road_closed-Unclassified,11:00,-87.69,41.92,5
+60861,Road_closed-Unclassified,11:00,-87.72,41.86,4
+60876,Road_closed-Unclassified,11:00,-87.68,41.9,4
+60864,Road_closed-Unclassified,11:00,-87.71,41.92,3
+60866,Road_closed-Unclassified,11:00,-87.7,41.85,3
+60941,Road_closed-Unclassified,12:00,-87.75,41.96,37
+60981,Road_closed-Unclassified,12:00,-87.7,41.96,36
+60928,Road_closed-Unclassified,12:00,-87.77,41.95,21
+61035,Road_closed-Unclassified,12:00,-87.65,41.88,18
+61054,Road_closed-Unclassified,12:00,-87.62,41.87,18
+61029,Road_closed-Unclassified,12:00,-87.66,41.99,16
+61015,Road_closed-Unclassified,12:00,-87.67,41.98,15
+61041,Road_closed-Unclassified,12:00,-87.64,41.83,15
+61048,Road_closed-Unclassified,12:00,-87.63,41.87,14
+60963,Road_closed-Unclassified,12:00,-87.72,41.93,13
+61089,Road_closed-Unclassified,13:00,-87.75,41.96,51
+61142,Road_closed-Unclassified,13:00,-87.7,41.96,47
+61152,Road_closed-Unclassified,13:00,-87.69,41.88,32
+61205,Road_closed-Unclassified,13:00,-87.66,41.9,27
+61127,Road_closed-Unclassified,13:00,-87.71,41.93,25
+61217,Road_closed-Unclassified,13:00,-87.65,41.88,19
+61225,Road_closed-Unclassified,13:00,-87.64,41.83,18
+61238,Road_closed-Unclassified,13:00,-87.63,41.89,18
+61111,Road_closed-Unclassified,13:00,-87.73,41.97,17
+61243,Road_closed-Unclassified,13:00,-87.62,41.87,17
+61377,Road_closed-Unclassified,14:00,-87.66,41.9,45
+61280,Road_closed-Unclassified,14:00,-87.75,41.96,25
+61425,Road_closed-Unclassified,14:00,-87.62,41.87,19
+61418,Road_closed-Unclassified,14:00,-87.63,41.87,18
+61394,Road_closed-Unclassified,14:00,-87.65,41.88,16
+61379,Road_closed-Unclassified,14:00,-87.66,41.94,15
+61324,Road_closed-Unclassified,14:00,-87.7,41.96,14
+61334,Road_closed-Unclassified,14:00,-87.69,41.88,13
+61406,Road_closed-Unclassified,14:00,-87.64,41.83,13
+61421,Road_closed-Unclassified,14:00,-87.63,41.9,13
+61554,Road_closed-Unclassified,15:00,-87.66,41.9,45
+61589,Road_closed-Unclassified,15:00,-87.63,41.87,35
+61565,Road_closed-Unclassified,15:00,-87.65,41.88,27
+61590,Road_closed-Unclassified,15:00,-87.63,41.88,26
+61601,Road_closed-Unclassified,15:00,-87.62,41.87,20
+61557,Road_closed-Unclassified,15:00,-87.66,41.94,17
+61474,Road_closed-Unclassified,15:00,-87.73,41.97,16
+61592,Road_closed-Unclassified,15:00,-87.63,41.9,16
+61489,Road_closed-Unclassified,15:00,-87.71,41.92,15
+61576,Road_closed-Unclassified,15:00,-87.64,41.87,14
+61731,Road_closed-Unclassified,16:00,-87.66,41.9,38
+61742,Road_closed-Unclassified,16:00,-87.65,41.88,31
+61735,Road_closed-Unclassified,16:00,-87.66,41.94,29
+61761,Road_closed-Unclassified,16:00,-87.63,41.87,29
+61764,Road_closed-Unclassified,16:00,-87.63,41.9,22
+61762,Road_closed-Unclassified,16:00,-87.63,41.88,21
+61663,Road_closed-Unclassified,16:00,-87.71,41.92,18
+61769,Road_closed-Unclassified,16:00,-87.62,41.87,16
+61638,Road_closed-Unclassified,16:00,-87.75,41.96,12
+61754,Road_closed-Unclassified,16:00,-87.64,41.88,12
+61930,Road_closed-Unclassified,17:00,-87.65,41.88,46
+61915,Road_closed-Unclassified,17:00,-87.66,41.9,43
+61954,Road_closed-Unclassified,17:00,-87.63,41.87,31
+61919,Road_closed-Unclassified,17:00,-87.66,41.94,22
+61963,Road_closed-Unclassified,17:00,-87.62,41.87,22
+61955,Road_closed-Unclassified,17:00,-87.63,41.88,21
+61957,Road_closed-Unclassified,17:00,-87.63,41.9,21
+61838,Road_closed-Unclassified,17:00,-87.71,41.92,19
+61813,Road_closed-Unclassified,17:00,-87.75,41.96,18
+61855,Road_closed-Unclassified,17:00,-87.7,41.96,17
+62101,Road_closed-Unclassified,18:00,-87.65,41.88,53
+62089,Road_closed-Unclassified,18:00,-87.66,41.9,35
+62093,Road_closed-Unclassified,18:00,-87.66,41.94,35
+62127,Road_closed-Unclassified,18:00,-87.63,41.87,34
+62130,Road_closed-Unclassified,18:00,-87.63,41.9,26
+62113,Road_closed-Unclassified,18:00,-87.64,41.87,20
+62037,Road_closed-Unclassified,18:00,-87.7,41.85,17
+62087,Road_closed-Unclassified,18:00,-87.66,41.88,17
+62128,Road_closed-Unclassified,18:00,-87.63,41.88,17
+62029,Road_closed-Unclassified,18:00,-87.71,41.92,16
+62291,Road_closed-Unclassified,19:00,-87.65,41.88,89
+62313,Road_closed-Unclassified,19:00,-87.63,41.87,50
+62277,Road_closed-Unclassified,19:00,-87.66,41.9,46
+62281,Road_closed-Unclassified,19:00,-87.66,41.94,34
+62315,Road_closed-Unclassified,19:00,-87.63,41.89,27
+62210,Road_closed-Unclassified,19:00,-87.71,41.92,25
+62222,Road_closed-Unclassified,19:00,-87.7,41.96,24
+62303,Road_closed-Unclassified,19:00,-87.64,41.87,22
+62181,Road_closed-Unclassified,19:00,-87.75,41.96,21
+62216,Road_closed-Unclassified,19:00,-87.7,41.85,20
+62491,Road_closed-Unclassified,20:00,-87.65,41.88,120
+62415,Road_closed-Unclassified,20:00,-87.7,41.96,49
+62518,Road_closed-Unclassified,20:00,-87.63,41.87,42
+62476,Road_closed-Unclassified,20:00,-87.66,41.9,37
+62480,Road_closed-Unclassified,20:00,-87.66,41.94,37
+62505,Road_closed-Unclassified,20:00,-87.64,41.87,33
+62532,Road_closed-Unclassified,20:00,-87.61,41.76,31
+62435,Road_closed-Unclassified,20:00,-87.68,41.76,29
+62441,Road_closed-Unclassified,20:00,-87.68,41.88,25
+62459,Road_closed-Unclassified,20:00,-87.67,41.88,25
+62691,Road_closed-Unclassified,21:00,-87.65,41.88,154
+62681,Road_closed-Unclassified,21:00,-87.66,41.94,76
+62708,Road_closed-Unclassified,21:00,-87.64,41.87,64
+62677,Road_closed-Unclassified,21:00,-87.66,41.9,50
+62618,Road_closed-Unclassified,21:00,-87.7,41.96,47
+62733,Road_closed-Unclassified,21:00,-87.61,41.76,39
+62644,Road_closed-Unclassified,21:00,-87.68,41.88,37
+62719,Road_closed-Unclassified,21:00,-87.63,41.87,30
+62659,Road_closed-Unclassified,21:00,-87.67,41.88,29
+62675,Road_closed-Unclassified,21:00,-87.66,41.88,29
+62889,Road_closed-Unclassified,22:00,-87.65,41.88,149
+62818,Road_closed-Unclassified,22:00,-87.7,41.96,62
+62933,Road_closed-Unclassified,22:00,-87.61,41.76,55
+62906,Road_closed-Unclassified,22:00,-87.64,41.87,50
+62878,Road_closed-Unclassified,22:00,-87.66,41.94,45
+62839,Road_closed-Unclassified,22:00,-87.68,41.88,44
+62874,Road_closed-Unclassified,22:00,-87.66,41.9,44
+62919,Road_closed-Unclassified,22:00,-87.63,41.87,36
+62854,Road_closed-Unclassified,22:00,-87.67,41.88,32
+62835,Road_closed-Unclassified,22:00,-87.68,41.76,29
+63058,Road_closed-Unclassified,23:00,-87.65,41.88,78
+63043,Road_closed-Unclassified,23:00,-87.66,41.9,50
+63047,Road_closed-Unclassified,23:00,-87.66,41.94,35
+63084,Road_closed-Unclassified,23:00,-87.63,41.87,28
+63001,Road_closed-Unclassified,23:00,-87.69,41.88,27
+63072,Road_closed-Unclassified,23:00,-87.64,41.87,25
+62992,Road_closed-Unclassified,23:00,-87.7,41.96,21
+63085,Road_closed-Unclassified,23:00,-87.63,41.88,21
+63086,Road_closed-Unclassified,23:00,-87.63,41.89,19
+63014,Road_closed-Unclassified,23:00,-87.68,41.88,17

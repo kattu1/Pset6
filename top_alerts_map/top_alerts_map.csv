@@ -1,0 +1,155 @@
+,updated_type,updated_subtype,lon_bin,lat_bin,count,type-subtype
+256,Accident,Major,-87.67,41.9,299,Accident-Major
+299,Accident,Major,-87.65,41.87,249,Accident-Major
+297,Accident,Major,-87.65,41.85,173,Accident-Major
+298,Accident,Major,-87.65,41.86,170,Accident-Major
+277,Accident,Major,-87.66,41.89,156,Accident-Major
+300,Accident,Major,-87.65,41.88,145,Accident-Major
+253,Accident,Major,-87.67,41.87,136,Accident-Major
+318,Accident,Major,-87.64,41.84,134,Accident-Major
+314,Accident,Major,-87.64,41.8,129,Accident-Major
+317,Accident,Major,-87.64,41.83,127,Accident-Major
+739,Accident,Minor,-87.64,41.84,58,Accident-Minor
+698,Accident,Minor,-87.66,41.89,55,Accident-Minor
+719,Accident,Minor,-87.65,41.88,54,Accident-Minor
+716,Accident,Minor,-87.65,41.85,50,Accident-Minor
+717,Accident,Minor,-87.65,41.86,50,Accident-Minor
+683,Accident,Minor,-87.67,41.91,49,Accident-Minor
+718,Accident,Minor,-87.65,41.87,46,Accident-Minor
+524,Accident,Minor,-87.75,41.96,44,Accident-Minor
+541,Accident,Minor,-87.74,41.95,39,Accident-Minor
+580,Accident,Minor,-87.72,41.94,38,Accident-Minor
+1260,Accident,Unclassified,-87.66,41.89,502,Accident-Unclassified
+1293,Accident,Unclassified,-87.65,41.87,454,Accident-Unclassified
+1226,Accident,Unclassified,-87.67,41.9,432,Accident-Unclassified
+1292,Accident,Unclassified,-87.65,41.86,429,Accident-Unclassified
+1294,Accident,Unclassified,-87.65,41.88,387,Accident-Unclassified
+1291,Accident,Unclassified,-87.65,41.85,333,Accident-Unclassified
+1321,Accident,Unclassified,-87.64,41.84,326,Accident-Unclassified
+1227,Accident,Unclassified,-87.67,41.91,308,Accident-Unclassified
+1381,Accident,Unclassified,-87.62,41.89,286,Accident-Unclassified
+987,Accident,Unclassified,-87.75,41.96,271,Accident-Unclassified
+1978,Hazard,On Road,-87.65,41.88,1701,Hazard-On Road
+1976,Hazard,On Road,-87.65,41.86,1652,Hazard-On Road
+1905,Hazard,On Road,-87.67,41.87,1565,Hazard-On Road
+1977,Hazard,On Road,-87.65,41.87,1555,Hazard-On Road
+1975,Hazard,On Road,-87.65,41.85,1526,Hazard-On Road
+1943,Hazard,On Road,-87.66,41.89,1392,Hazard-On Road
+2007,Hazard,On Road,-87.64,41.84,1383,Hazard-On Road
+1657,Hazard,On Road,-87.75,41.96,1377,Hazard-On Road
+1909,Hazard,On Road,-87.67,41.91,1308,Hazard-On Road
+2003,Hazard,On Road,-87.64,41.8,1306,Hazard-On Road
+2638,Hazard,On Shoulder,-87.64,41.83,3610,Hazard-On Shoulder
+2582,Hazard,On Shoulder,-87.66,41.89,3566,Hazard-On Shoulder
+2614,Hazard,On Shoulder,-87.65,41.87,3498,Hazard-On Shoulder
+2740,Hazard,On Shoulder,-87.59,41.65,2993,Hazard-On Shoulder
+2635,Hazard,On Shoulder,-87.64,41.8,2934,Hazard-On Shoulder
+2639,Hazard,On Shoulder,-87.64,41.84,2927,Hazard-On Shoulder
+2324,Hazard,On Shoulder,-87.75,41.96,2852,Hazard-On Shoulder
+2637,Hazard,On Shoulder,-87.64,41.82,2797,Hazard-On Shoulder
+2633,Hazard,On Shoulder,-87.64,41.78,2789,Hazard-On Shoulder
+2613,Hazard,On Shoulder,-87.65,41.86,2638,Hazard-On Shoulder
+2835,Hazard,Unclassified,-87.82,41.98,223,Hazard-Unclassified
+2847,Hazard,Unclassified,-87.81,41.98,142,Hazard-Unclassified
+2846,Hazard,Unclassified,-87.81,41.97,124,Hazard-Unclassified
+2836,Hazard,Unclassified,-87.82,41.99,116,Hazard-Unclassified
+2828,Hazard,Unclassified,-87.83,41.97,77,Hazard-Unclassified
+2845,Hazard,Unclassified,-87.81,41.96,72,Hazard-Unclassified
+2829,Hazard,Unclassified,-87.83,41.98,65,Hazard-Unclassified
+2830,Hazard,Unclassified,-87.83,41.99,62,Hazard-Unclassified
+3067,Hazard,Unclassified,-87.64,41.84,62,Hazard-Unclassified
+3066,Hazard,Unclassified,-87.64,41.83,54,Hazard-Unclassified
+3687,Hazard,Weather,-87.59,41.65,176,Hazard-Weather
+3671,Hazard,Weather,-87.6,41.66,113,Hazard-Weather
+3562,Hazard,Weather,-87.65,41.85,97,Hazard-Weather
+3650,Hazard,Weather,-87.62,41.89,82,Hazard-Weather
+3333,Hazard,Weather,-87.72,41.82,78,Hazard-Weather
+3565,Hazard,Weather,-87.65,41.88,78,Hazard-Weather
+3626,Hazard,Weather,-87.63,41.9,78,Hazard-Weather
+3391,Hazard,Weather,-87.7,41.83,72,Hazard-Weather
+3498,Hazard,Weather,-87.67,41.91,70,Hazard-Weather
+3561,Hazard,Weather,-87.65,41.84,70,Hazard-Weather
+4157,Jam,Heavy Traffic,-87.66,41.89,4991,Jam-Heavy Traffic
+4190,Jam,Heavy Traffic,-87.65,41.87,4121,Jam-Heavy Traffic
+4123,Jam,Heavy Traffic,-87.67,41.9,3845,Jam-Heavy Traffic
+3886,Jam,Heavy Traffic,-87.75,41.96,3360,Jam-Heavy Traffic
+4191,Jam,Heavy Traffic,-87.65,41.88,3267,Jam-Heavy Traffic
+3963,Jam,Heavy Traffic,-87.72,41.94,3177,Jam-Heavy Traffic
+3861,Jam,Heavy Traffic,-87.76,41.96,3013,Jam-Heavy Traffic
+3844,Jam,Heavy Traffic,-87.77,41.97,2900,Jam-Heavy Traffic
+3991,Jam,Heavy Traffic,-87.71,41.93,2732,Jam-Heavy Traffic
+4124,Jam,Heavy Traffic,-87.67,41.91,2612,Jam-Heavy Traffic
+4351,Jam,Light Traffic,-87.63,41.88,2,Jam-Light Traffic
+4349,Jam,Light Traffic,-87.81,41.92,1,Jam-Light Traffic
+4350,Jam,Light Traffic,-87.72,41.83,1,Jam-Light Traffic
+4352,Jam,Light Traffic,-87.62,41.85,1,Jam-Light Traffic
+4633,Jam,Moderate Traffic,-87.67,41.91,96,Jam-Moderate Traffic
+4458,Jam,Moderate Traffic,-87.75,41.96,86,Jam-Moderate Traffic
+4632,Jam,Moderate Traffic,-87.67,41.9,81,Jam-Moderate Traffic
+4653,Jam,Moderate Traffic,-87.66,41.89,76,Jam-Moderate Traffic
+4604,Jam,Moderate Traffic,-87.68,41.92,65,Jam-Moderate Traffic
+4675,Jam,Moderate Traffic,-87.65,41.87,65,Jam-Moderate Traffic
+4389,Jam,Moderate Traffic,-87.8,41.98,64,Jam-Moderate Traffic
+4513,Jam,Moderate Traffic,-87.72,41.94,63,Jam-Moderate Traffic
+4579,Jam,Moderate Traffic,-87.69,41.92,63,Jam-Moderate Traffic
+4477,Jam,Moderate Traffic,-87.74,41.95,55,Jam-Moderate Traffic
+5199,Jam,Stand-Still Traffic,-87.66,41.89,4673,Jam-Stand-Still Traffic
+5231,Jam,Stand-Still Traffic,-87.65,41.87,3987,Jam-Stand-Still Traffic
+5232,Jam,Stand-Still Traffic,-87.65,41.88,3720,Jam-Stand-Still Traffic
+4909,Jam,Stand-Still Traffic,-87.76,41.96,2855,Jam-Stand-Still Traffic
+4934,Jam,Stand-Still Traffic,-87.75,41.96,2574,Jam-Stand-Still Traffic
+4891,Jam,Stand-Still Traffic,-87.77,41.97,2262,Jam-Stand-Still Traffic
+5169,Jam,Stand-Still Traffic,-87.67,41.9,2236,Jam-Stand-Still Traffic
+4958,Jam,Stand-Still Traffic,-87.74,41.95,2178,Jam-Stand-Still Traffic
+5012,Jam,Stand-Still Traffic,-87.72,41.94,2178,Jam-Stand-Still Traffic
+5233,Jam,Stand-Still Traffic,-87.65,41.89,2167,Jam-Stand-Still Traffic
+5846,Jam,Unclassified,-87.66,41.89,1126,Jam-Unclassified
+5880,Jam,Unclassified,-87.65,41.88,913,Jam-Unclassified
+5811,Jam,Unclassified,-87.67,41.9,910,Jam-Unclassified
+5879,Jam,Unclassified,-87.65,41.87,861,Jam-Unclassified
+5566,Jam,Unclassified,-87.75,41.96,730,Jam-Unclassified
+5812,Jam,Unclassified,-87.67,41.91,687,Jam-Unclassified
+5648,Jam,Unclassified,-87.72,41.94,679,Jam-Unclassified
+5742,Jam,Unclassified,-87.69,41.92,637,Jam-Unclassified
+5483,Jam,Unclassified,-87.79,41.98,626,Jam-Unclassified
+5541,Jam,Unclassified,-87.76,41.96,614,Jam-Unclassified
+6098,Road_closed,Construction,-87.65,41.88,14,Road_closed-Construction
+6095,Road_closed,Construction,-87.66,41.9,12,Road_closed-Construction
+6062,Road_closed,Construction,-87.75,41.96,8,Road_closed-Construction
+6074,Road_closed,Construction,-87.7,41.96,5,Road_closed-Construction
+6103,Road_closed,Construction,-87.64,41.83,5,Road_closed-Construction
+6077,Road_closed,Construction,-87.69,41.88,4,Road_closed-Construction
+6092,Road_closed,Construction,-87.66,41.85,4,Road_closed-Construction
+6106,Road_closed,Construction,-87.64,41.87,4,Road_closed-Construction
+6066,Road_closed,Construction,-87.74,41.97,3,Road_closed-Construction
+6084,Road_closed,Construction,-87.68,41.99,3,Road_closed-Construction
+6137,Road_closed,Event,-87.75,41.96,14837,Road_closed-Event
+6222,Road_closed,Event,-87.65,41.88,9898,Road_closed-Event
+6234,Road_closed,Event,-87.64,41.83,5060,Road_closed-Event
+6276,Road_closed,Event,-87.6,41.69,4961,Road_closed-Event
+6230,Road_closed,Event,-87.64,41.71,4949,Road_closed-Event
+6255,Road_closed,Event,-87.63,41.87,356,Road_closed-Event
+6179,Road_closed,Event,-87.68,41.88,119,Road_closed-Event
+6256,Road_closed,Event,-87.63,41.88,118,Road_closed-Event
+6241,Road_closed,Event,-87.64,41.92,97,Road_closed-Event
+6226,Road_closed,Event,-87.65,41.94,88,Road_closed-Event
+6297,Road_closed,Hazard,-87.67,41.98,2,Road_closed-Hazard
+6290,Road_closed,Hazard,-87.75,41.98,1,Road_closed-Hazard
+6291,Road_closed,Hazard,-87.73,41.97,1,Road_closed-Hazard
+6292,Road_closed,Hazard,-87.73,41.98,1,Road_closed-Hazard
+6293,Road_closed,Hazard,-87.71,41.76,1,Road_closed-Hazard
+6294,Road_closed,Hazard,-87.68,41.76,1,Road_closed-Hazard
+6295,Road_closed,Hazard,-87.68,41.83,1,Road_closed-Hazard
+6296,Road_closed,Hazard,-87.67,41.92,1,Road_closed-Hazard
+6298,Road_closed,Hazard,-87.66,41.99,1,Road_closed-Hazard
+6299,Road_closed,Hazard,-87.65,41.88,1,Road_closed-Hazard
+6646,Road_closed,Unclassified,-87.65,41.88,1057,Road_closed-Unclassified
+6622,Road_closed,Unclassified,-87.66,41.9,573,Road_closed-Unclassified
+6626,Road_closed,Unclassified,-87.66,41.94,470,Road_closed-Unclassified
+6695,Road_closed,Unclassified,-87.63,41.87,429,Road_closed-Unclassified
+6514,Road_closed,Unclassified,-87.7,41.96,372,Road_closed-Unclassified
+6671,Road_closed,Unclassified,-87.64,41.87,299,Road_closed-Unclassified
+6403,Road_closed,Unclassified,-87.75,41.96,294,Road_closed-Unclassified
+6697,Road_closed,Unclassified,-87.63,41.89,248,Road_closed-Unclassified
+6724,Road_closed,Unclassified,-87.61,41.76,247,Road_closed-Unclassified
+6698,Road_closed,Unclassified,-87.63,41.9,244,Road_closed-Unclassified
